@@ -1,0 +1,53 @@
+name: Run V2Ray Server Tester
+permissions: write-all
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */6 * * *'
+
+  workflow_dispatch:
+jobs:  
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y unzip libcap2-bin
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'
+        
+    - name: Configure Python capabilities
+      run: |
+        PYTHON_PATH=$(which python3.11)
+        echo "Python path: $PYTHON_PATH"
+        sudo setcap cap_net_bind_service=+ep $PYTHON_PATH
+        
+    - name: Install Python dependencies
+      run: |
+        cd files
+        pip install -r requirements.txt
+        
+    - name: Run tester
+      run: python app.py
+      env:
+        PYTHONUNBUFFERED: 1
+        
+    - name: Commit and push results
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: "Github Actions"
+        author_email: "actions@github.com"
+        message: "Updated results 🚀"
+        add: "."
+        push: true 
