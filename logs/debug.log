@@ -30,3 +30,1505 @@
 2025-04-20 21:54:42,861 - ERROR - VLESS 104.18.27.94:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
 2025-04-20 21:54:42,861 - ERROR - VLESS 104.18.41.190:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
 2025-04-20 21:54:42,864 - INFO - Testing completed
+2025-04-20 22:02:16,311 - INFO - Cleaning previous data...
+2025-04-20 22:02:16,311 - INFO - Cleaned directory: /home/runner/work/Server-Tester/Server-Tester/recived_files
+2025-04-20 22:02:16,311 - INFO - Cleaned directory: /home/runner/work/Server-Tester/Server-Tester/Tested_Servers
+2025-04-20 22:02:16,311 - INFO - Starting server tester
+2025-04-20 22:02:16,312 - INFO - Found 1 unique links
+2025-04-20 22:02:16,312 - INFO - Extracting from Protocols
+2025-04-20 22:02:16,652 - INFO - Extracted 6 links
+2025-04-20 22:02:16,653 - INFO - Processing trojan.txt
+2025-04-20 22:02:16,797 - INFO - Processing hysteria2.txt
+2025-04-20 22:02:16,894 - INFO - Processing vless.txt
+2025-04-20 22:02:16,981 - INFO - Processing ss.txt
+2025-04-20 22:02:17,167 - INFO - Processing wireguard.txt
+2025-04-20 22:02:17,263 - INFO - Processing vmess.txt
+2025-04-20 22:02:17,338 - INFO - Server types found:
+2025-04-20 22:02:17,338 - INFO - TROJAN: 195
+2025-04-20 22:02:17,338 - INFO - VLESS: 500
+2025-04-20 22:02:17,338 - INFO - SS: 446
+2025-04-20 22:02:17,338 - INFO - VMESS: 408
+2025-04-20 22:02:17,339 - INFO - Protocol configuration:
+2025-04-20 22:02:17,339 - INFO -   VLESS     : Enabled
+2025-04-20 22:02:17,339 - INFO -   VMESS     : Disabled
+2025-04-20 22:02:17,339 - INFO -   TROJAN    : Disabled
+2025-04-20 22:02:17,339 - INFO -   SHADOWSOCKS: Disabled
+2025-04-20 22:02:17,468 - INFO - Using V2Ray 5.30.0
+2025-04-20 22:02:17,470 - INFO - Loaded 946 servers for testing
+2025-04-20 22:02:17,473 - INFO - Testing 104.18.41.190:8443
+2025-04-20 22:02:17,473 - INFO - Testing customers.tele-shop-too.studio:44
+2025-04-20 22:02:17,474 - INFO - Testing 104.18.41.190:8443
+2025-04-20 22:02:17,474 - INFO - Testing 104.19.77.118:443
+2025-04-20 22:02:17,476 - INFO - Testing customers.tele-shop-too.studio:44
+2025-04-20 22:02:17,477 - INFO - Testing 104.19.77.118:443
+2025-04-20 22:02:17,478 - INFO - Testing 84.32.9.31:8880
+2025-04-20 22:02:17,480 - INFO - Testing eng1.lunayek.ir:8989
+2025-04-20 22:02:17,482 - INFO - Testing 135.181.155.147:40240
+2025-04-20 22:02:17,484 - INFO - Testing eng1.lunayek.ir:8989
+2025-04-20 22:02:17,496 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,503 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,503 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,503 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,504 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,504 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,504 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,527 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,527 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,527 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,551 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,560 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,560 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,561 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,561 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,561 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,561 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: expected string or bytes-like object, got 'NoneType')
+2025-04-20 22:02:17,561 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Port could not be cast to integer value as '451…')
+2025-04-20 22:02:17,561 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,561 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,561 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,561 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:02:17,561 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,561 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,561 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,561 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,562 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,563 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,564 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,565 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,566 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,567 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,568 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,569 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,570 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,571 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,572 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,573 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,574 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,575 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,576 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,577 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,578 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,579 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,580 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,581 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,582 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,583 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,584 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,585 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,586 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:17,587 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:02:32,479 - ERROR - VLESS 104.18.41.190:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:32,483 - ERROR - VLESS 104.18.41.190:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:32,484 - INFO - Testing 84.32.9.31:8880
+2025-04-20 22:02:32,484 - ERROR - VLESS customers.tele-shop-too.studio:44 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:32,488 - INFO - Testing 104.17.147.22:2052
+2025-04-20 22:02:32,490 - ERROR - VLESS customers.tele-shop-too.studio:44 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:32,491 - ERROR - VLESS 84.32.9.31:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:32,491 - ERROR - VLESS eng1.lunayek.ir:8989 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:32,491 - ERROR - VLESS 104.19.77.118:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:32,492 - ERROR - VLESS 104.19.77.118:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:32,493 - INFO - Testing 104.17.147.22:2052
+2025-04-20 22:02:32,493 - INFO - Testing 135.181.155.147:40240
+2025-04-20 22:02:32,493 - INFO - Testing 84.32.9.41:8880
+2025-04-20 22:02:32,495 - ERROR - VLESS eng1.lunayek.ir:8989 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:32,496 - INFO - Testing 84.32.9.26:8880
+2025-04-20 22:02:32,494 - INFO - Testing 88.216.187.57:8880
+2025-04-20 22:02:32,495 - INFO - Testing 84.32.9.26:8880
+2025-04-20 22:02:32,494 - INFO - Testing 84.32.9.41:8880
+2025-04-20 22:02:32,500 - ERROR - VLESS 135.181.155.147:40240 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:32,508 - INFO - Testing 88.216.187.57:8880
+2025-04-20 22:02:47,490 - ERROR - VLESS 84.32.9.31:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:47,494 - INFO - Testing 5.199.173.186:8880
+2025-04-20 22:02:47,498 - ERROR - VLESS 104.17.147.22:2052 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:47,498 - ERROR - VLESS 104.17.147.22:2052 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:47,498 - ERROR - VLESS 84.32.9.26:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:47,500 - INFO - Testing 5.199.173.186:8880
+2025-04-20 22:02:47,503 - ERROR - VLESS 84.32.9.41:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:47,504 - INFO - Testing 37.27.31.235:8880
+2025-04-20 22:02:47,505 - INFO - Testing 37.27.31.235:8880
+2025-04-20 22:02:47,507 - ERROR - VLESS 88.216.187.57:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:47,513 - ERROR - VLESS 135.181.155.147:40240 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:47,513 - ERROR - VLESS 84.32.9.26:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:47,513 - ERROR - VLESS 84.32.9.41:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:47,513 - INFO - Testing 103.160.204.36:2087
+2025-04-20 22:02:47,512 - INFO - Testing germany.khoreshtsabzi.ir:1773
+2025-04-20 22:02:47,512 - INFO - Testing 103.160.204.36:2087
+2025-04-20 22:02:47,515 - INFO - Testing germany.khoreshtsabzi.ir:1773
+2025-04-20 22:02:47,518 - ERROR - VLESS 88.216.187.57:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:02:47,519 - INFO - Testing 172.66.168.209:443
+2025-04-20 22:02:47,527 - INFO - Testing 151.101.2.219:80
+2025-04-20 22:03:02,495 - ERROR - VLESS 5.199.173.186:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:02,499 - INFO - Testing 63.141.128.163:443
+2025-04-20 22:03:02,501 - ERROR - VLESS 5.199.173.186:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:02,505 - INFO - Testing 219.79.166.214:20550
+2025-04-20 22:03:02,512 - ERROR - VLESS 37.27.31.235:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:02,515 - ERROR - VLESS 103.160.204.36:2087 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:02,516 - ERROR - VLESS germany.khoreshtsabzi.ir:1773 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:02,517 - INFO - Testing 63.141.128.163:443
+2025-04-20 22:03:02,519 - ERROR - VLESS germany.khoreshtsabzi.ir:1773 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:02,519 - INFO - Testing 151.101.2.219:80
+2025-04-20 22:03:02,521 - INFO - Testing 172.66.168.209:443
+2025-04-20 22:03:02,521 - ERROR - VLESS 37.27.31.235:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:02,525 - INFO - Testing 190.93.245.137:443
+2025-04-20 22:03:02,525 - ERROR - VLESS 103.160.204.36:2087 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:02,526 - ERROR - VLESS 172.66.168.209:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:02,526 - INFO - Testing 219.79.166.214:20550
+2025-04-20 22:03:02,527 - INFO - Testing 190.93.245.137:443
+2025-04-20 22:03:02,531 - INFO - Testing 178.63.228.220:443
+2025-04-20 22:03:02,536 - ERROR - VLESS 151.101.2.219:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:02,541 - INFO - Testing 190.93.245.137:8880
+2025-04-20 22:03:17,500 - ERROR - VLESS 63.141.128.163:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:17,504 - INFO - Testing 152.42.237.244:443
+2025-04-20 22:03:17,506 - ERROR - VLESS 219.79.166.214:20550 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:17,510 - INFO - Testing 84.32.25.106:8880
+2025-04-20 22:03:17,520 - ERROR - VLESS 63.141.128.163:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:17,524 - INFO - Testing 91.92.40.78:2070
+2025-04-20 22:03:17,526 - ERROR - VLESS 172.66.168.209:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:17,529 - INFO - Testing 94.131.108.195:53221
+2025-04-20 22:03:17,535 - ERROR - VLESS 151.101.2.219:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:17,540 - ERROR - VLESS 190.93.245.137:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:17,542 - ERROR - VLESS 190.93.245.137:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:17,543 - ERROR - VLESS 219.79.166.214:20550 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:17,543 - ERROR - VLESS 178.63.228.220:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:17,542 - INFO - Testing 152.42.237.244:443
+2025-04-20 22:03:17,542 - INFO - Testing 94.131.108.195:53221
+2025-04-20 22:03:17,542 - INFO - Testing 84.32.25.106:8880
+2025-04-20 22:03:17,545 - INFO - Testing 178.63.228.220:443
+2025-04-20 22:03:17,544 - INFO - Testing 91.92.40.78:2070
+2025-04-20 22:03:17,544 - ERROR - VLESS 190.93.245.137:8880 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp6mts5xwn.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:03:17,544 - INFO - Testing 190.93.245.137:8880
+2025-04-20 22:03:32,505 - ERROR - VLESS 152.42.237.244:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:32,509 - INFO - Testing 157.173.127.227:443
+2025-04-20 22:03:32,511 - ERROR - VLESS 84.32.25.106:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:32,515 - INFO - Testing 173.245.59.132:8080
+2025-04-20 22:03:32,525 - ERROR - VLESS 91.92.40.78:2070 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:32,529 - INFO - Testing 194.182.79.65:40359
+2025-04-20 22:03:32,531 - ERROR - VLESS 94.131.108.195:53221 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:32,535 - INFO - Testing 195.231.66.71:28125
+2025-04-20 22:03:32,548 - ERROR - VLESS 91.92.40.78:2070 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:32,549 - ERROR - VLESS 152.42.237.244:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:32,549 - ERROR - VLESS 94.131.108.195:53221 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:32,552 - ERROR - VLESS 190.93.245.137:8880 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpqoi46cuu.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:03:32,552 - ERROR - VLESS 178.63.228.220:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:32,552 - ERROR - VLESS 84.32.25.106:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:32,552 - INFO - Testing 95.217.234.75:80
+2025-04-20 22:03:32,553 - INFO - Testing 194.182.79.108:50513
+2025-04-20 22:03:32,553 - INFO - Testing 194.182.79.65:40359
+2025-04-20 22:03:32,554 - INFO - Testing 51.89.119.99:26528
+2025-04-20 22:03:32,556 - INFO - Testing 173.245.59.132:8080
+2025-04-20 22:03:32,557 - INFO - Testing 95.217.234.75:80
+2025-04-20 22:03:47,510 - ERROR - VLESS 157.173.127.227:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:47,514 - INFO - Testing 95.217.234.75:80
+2025-04-20 22:03:47,515 - ERROR - VLESS 173.245.59.132:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpcf9e__2t.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:03:47,516 - INFO - Testing 51.89.119.99:26528
+2025-04-20 22:03:47,530 - ERROR - VLESS 194.182.79.65:40359 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:47,534 - INFO - Testing 194.182.79.108:50513
+2025-04-20 22:03:47,536 - ERROR - VLESS 195.231.66.71:28125 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:47,540 - INFO - Testing 95.164.10.184:4434
+2025-04-20 22:03:47,557 - ERROR - VLESS 95.217.234.75:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:47,557 - ERROR - VLESS 194.182.79.65:40359 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:47,557 - ERROR - VLESS 194.182.79.108:50513 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:47,559 - ERROR - VLESS 51.89.119.99:26528 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:47,559 - INFO - Testing 157.173.127.227:443
+2025-04-20 22:03:47,560 - INFO - Testing 195.231.66.71:28125
+2025-04-20 22:03:47,561 - ERROR - VLESS 173.245.59.132:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp18biv7dn.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:03:47,561 - INFO - Testing 95.164.10.184:4434
+2025-04-20 22:03:47,562 - INFO - Testing www.speedtest.net:2095
+2025-04-20 22:03:47,565 - INFO - Testing 104.16.209.110:443
+2025-04-20 22:03:47,565 - ERROR - VLESS 95.217.234.75:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:03:47,573 - INFO - Testing 162.159.1.33:443
+2025-04-20 22:04:02,515 - ERROR - VLESS 95.217.234.75:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:02,517 - ERROR - VLESS 51.89.119.99:26528 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:02,519 - INFO - Testing 65.109.221.64:23227
+2025-04-20 22:04:02,521 - INFO - Testing 104.21.73.239:443
+2025-04-20 22:04:02,535 - ERROR - VLESS 194.182.79.108:50513 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:02,539 - INFO - Testing 104.16.209.110:443
+2025-04-20 22:04:02,541 - ERROR - VLESS 95.164.10.184:4434 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:02,545 - INFO - Testing 104.16.148.244:2087
+2025-04-20 22:04:02,562 - ERROR - VLESS 195.231.66.71:28125 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:02,562 - ERROR - VLESS 157.173.127.227:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:02,566 - ERROR - VLESS 95.164.10.184:4434 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:02,566 - INFO - Testing 104.21.73.239:443
+2025-04-20 22:04:02,567 - ERROR - VLESS 104.16.209.110:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:02,568 - INFO - Testing 104.21.64.1:443
+2025-04-20 22:04:02,568 - INFO - Testing 104.21.64.1:443
+2025-04-20 22:04:02,569 - ERROR - VLESS www.speedtest.net:2095 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpeqy4t94y.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:04:02,569 - INFO - Testing 65.109.221.64:23227
+2025-04-20 22:04:02,570 - INFO - Testing 104.16.148.244:2087
+2025-04-20 22:04:02,584 - ERROR - VLESS 162.159.1.33:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:02,587 - INFO - Testing 162.159.1.33:443
+2025-04-20 22:04:17,520 - ERROR - VLESS 65.109.221.64:23227 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:17,522 - ERROR - VLESS 104.21.73.239:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:17,523 - INFO - Testing www.speedtest.net:8880
+2025-04-20 22:04:17,526 - INFO - Testing www.speedtest.net:8880
+2025-04-20 22:04:17,540 - ERROR - VLESS 104.16.209.110:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:17,544 - INFO - Testing 104.21.73.239:443
+2025-04-20 22:04:17,546 - ERROR - VLESS 104.16.148.244:2087 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:17,550 - INFO - Testing 84.32.9.29:8880
+2025-04-20 22:04:17,570 - ERROR - VLESS 104.21.73.239:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:17,571 - ERROR - VLESS 104.21.64.1:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:17,571 - ERROR - VLESS 65.109.221.64:23227 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:17,574 - ERROR - VLESS 104.16.148.244:2087 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:17,574 - INFO - Testing 84.32.9.42:8880
+2025-04-20 22:04:17,575 - INFO - Testing 103.160.204.59:443
+2025-04-20 22:04:17,575 - ERROR - VLESS 104.21.64.1:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:17,575 - INFO - Testing tgju.org:8080
+2025-04-20 22:04:17,577 - INFO - Testing 162.159.153.2:443
+2025-04-20 22:04:17,579 - INFO - Testing 162.159.153.2:443
+2025-04-20 22:04:17,592 - ERROR - VLESS 162.159.1.33:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:17,604 - INFO - Testing 84.32.9.42:8880
+2025-04-20 22:04:32,524 - ERROR - VLESS www.speedtest.net:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:32,527 - ERROR - VLESS www.speedtest.net:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:32,528 - INFO - Testing 84.32.9.29:8880
+2025-04-20 22:04:32,531 - INFO - Testing tgju.org:8080
+2025-04-20 22:04:32,545 - ERROR - VLESS 104.21.73.239:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:32,549 - INFO - Testing 104.21.73.239:443
+2025-04-20 22:04:32,551 - ERROR - VLESS 84.32.9.29:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:32,555 - INFO - Testing 103.160.204.59:443
+2025-04-20 22:04:32,577 - ERROR - VLESS tgju.org:8080 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:32,579 - ERROR - VLESS 84.32.9.42:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:32,580 - ERROR - VLESS 103.160.204.59:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:32,582 - ERROR - VLESS 162.159.153.2:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:32,582 - INFO - Testing 104.25.254.4:2087
+2025-04-20 22:04:32,583 - ERROR - VLESS 162.159.153.2:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:32,583 - INFO - Testing 104.25.254.4:2087
+2025-04-20 22:04:32,584 - INFO - Testing www.speedtest.net:80
+2025-04-20 22:04:32,586 - INFO - Testing www.speedtest.net:443
+2025-04-20 22:04:32,587 - INFO - Testing www.speedtest.net:80
+2025-04-20 22:04:32,608 - ERROR - VLESS 84.32.9.42:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:32,610 - INFO - Testing irsrv6.teenten.top:40988
+2025-04-20 22:04:47,529 - ERROR - VLESS 84.32.9.29:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:47,532 - ERROR - VLESS tgju.org:8080 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:47,533 - INFO - Testing www.speedtest.net:443
+2025-04-20 22:04:47,534 - INFO - Testing irsrv6.teenten.top:40988
+2025-04-20 22:04:47,550 - ERROR - VLESS 104.21.73.239:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:47,554 - INFO - Testing 185.135.9.83:8880
+2025-04-20 22:04:47,557 - ERROR - VLESS 103.160.204.59:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:47,560 - INFO - Testing 185.135.9.83:8880
+2025-04-20 22:04:47,587 - ERROR - VLESS 104.25.254.4:2087 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:47,588 - ERROR - VLESS 104.25.254.4:2087 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:47,588 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:47,588 - INFO - Testing 151.101.194.219:80
+2025-04-20 22:04:47,589 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:47,591 - INFO - Testing 209.97.160.19:443
+2025-04-20 22:04:47,591 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:47,592 - INFO - Testing 141.227.128.196:1991
+2025-04-20 22:04:47,592 - INFO - Testing 185.146.173.167:8880
+2025-04-20 22:04:47,595 - INFO - Testing 162.247.5.96:443
+2025-04-20 22:04:47,614 - ERROR - VLESS irsrv6.teenten.top:40988 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:04:47,618 - INFO - Testing 185.146.173.167:8880
+2025-04-20 22:05:02,535 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:02,536 - ERROR - VLESS irsrv6.teenten.top:40988 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:02,539 - INFO - Testing 37.27.252.57:2025
+2025-04-20 22:05:02,539 - INFO - Testing 190.93.245.137:443
+2025-04-20 22:05:02,555 - ERROR - VLESS 185.135.9.83:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:02,559 - INFO - Testing 37.27.252.57:2025
+2025-04-20 22:05:02,561 - ERROR - VLESS 185.135.9.83:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:02,565 - INFO - Testing 162.247.5.96:443
+2025-04-20 22:05:02,592 - ERROR - VLESS 151.101.194.219:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:02,594 - ERROR - VLESS 209.97.160.19:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:02,595 - ERROR - VLESS 141.227.128.196:1991 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpnx6s5bov.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:05:02,596 - ERROR - VLESS 185.146.173.167:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:02,596 - INFO - Testing 141.227.128.196:1210
+2025-04-20 22:05:02,596 - INFO - Testing 152.42.237.244:443
+2025-04-20 22:05:02,598 - ERROR - VLESS 162.247.5.96:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:02,599 - INFO - Testing 190.93.245.137:443
+2025-04-20 22:05:02,600 - INFO - Testing 141.227.128.196:1991
+2025-04-20 22:05:02,601 - INFO - Testing 152.42.237.244:443
+2025-04-20 22:05:02,620 - ERROR - VLESS 185.146.173.167:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:02,624 - INFO - Testing 141.227.128.196:1210
+2025-04-20 22:05:17,539 - ERROR - VLESS 37.27.252.57:2025 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp5vhlljc4.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:05:17,540 - INFO - Testing 151.101.194.219:80
+2025-04-20 22:05:17,541 - ERROR - VLESS 190.93.245.137:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:17,545 - INFO - Testing 209.97.160.19:443
+2025-04-20 22:05:17,559 - ERROR - VLESS 37.27.252.57:2025 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpkcr0d2m3.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:05:17,560 - INFO - Testing 77.110.101.4:4810
+2025-04-20 22:05:17,567 - ERROR - VLESS 162.247.5.96:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:17,571 - INFO - Testing 104.16.187.41:443
+2025-04-20 22:05:17,597 - ERROR - VLESS 152.42.237.244:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:17,599 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:17,601 - INFO - Testing 162.159.153.2:443
+2025-04-20 22:05:17,602 - ERROR - VLESS 190.93.245.137:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:17,604 - INFO - Testing 104.16.187.41:443
+2025-04-20 22:05:17,605 - INFO - Testing 162.159.153.2:443
+2025-04-20 22:05:17,605 - ERROR - VLESS 141.227.128.196:1991 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpezaer49l.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:05:17,605 - INFO - Testing 77.110.101.4:4810
+2025-04-20 22:05:17,606 - ERROR - VLESS 152.42.237.244:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:17,607 - INFO - Testing 45.144.55.237:4810
+2025-04-20 22:05:17,627 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:17,632 - INFO - Testing 104.19.57.197:443
+2025-04-20 22:05:32,543 - ERROR - VLESS 151.101.194.219:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:32,546 - ERROR - VLESS 209.97.160.19:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:32,547 - INFO - Testing 91.107.131.168:443
+2025-04-20 22:05:32,549 - INFO - Testing 104.18.20.20:443
+2025-04-20 22:05:32,562 - ERROR - VLESS 77.110.101.4:4810 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:32,566 - INFO - Testing 104.18.20.20:443
+2025-04-20 22:05:32,572 - ERROR - VLESS 104.16.187.41:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:32,576 - INFO - Testing 151.101.64.155:80
+2025-04-20 22:05:32,603 - ERROR - VLESS 162.159.153.2:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:32,606 - INFO - Testing 151.101.64.155:80
+2025-04-20 22:05:32,608 - ERROR - VLESS 104.16.187.41:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:32,611 - ERROR - VLESS 77.110.101.4:4810 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:32,612 - ERROR - VLESS 45.144.55.237:4810 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:32,612 - ERROR - VLESS 162.159.153.2:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:32,612 - INFO - Testing 185.146.173.167:8880
+2025-04-20 22:05:32,612 - INFO - Testing 185.146.173.167:8880
+2025-04-20 22:05:32,613 - INFO - Testing 104.19.57.197:443
+2025-04-20 22:05:32,614 - INFO - Testing 91.107.131.168:443
+2025-04-20 22:05:32,635 - ERROR - VLESS 104.19.57.197:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:32,640 - INFO - Testing 45.144.55.237:4810
+2025-04-20 22:05:47,548 - ERROR - VLESS 91.107.131.168:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:47,551 - ERROR - VLESS 104.18.20.20:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:47,552 - INFO - Testing 104.18.8.74:443
+2025-04-20 22:05:47,554 - INFO - Testing 104.18.8.74:443
+2025-04-20 22:05:47,568 - ERROR - VLESS 104.18.20.20:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:47,571 - INFO - Testing 104.26.12.54:443
+2025-04-20 22:05:47,578 - ERROR - VLESS 151.101.64.155:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:47,582 - INFO - Testing ns1.cloudflare.com:443
+2025-04-20 22:05:47,608 - ERROR - VLESS 151.101.64.155:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:47,611 - INFO - Testing 104.21.73.239:443
+2025-04-20 22:05:47,617 - ERROR - VLESS 185.146.173.167:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:47,617 - ERROR - VLESS 185.146.173.167:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:47,618 - ERROR - VLESS 91.107.131.168:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:47,620 - INFO - Testing ns1.cloudflare.com:443
+2025-04-20 22:05:47,621 - INFO - Testing 104.21.73.239:443
+2025-04-20 22:05:47,621 - ERROR - VLESS 104.19.57.197:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:47,623 - INFO - Testing 104.26.12.54:443
+2025-04-20 22:05:47,625 - INFO - Testing 104.22.15.132:8443
+2025-04-20 22:05:47,645 - ERROR - VLESS 45.144.55.237:4810 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:05:47,650 - INFO - Testing 104.19.77.118:443
+2025-04-20 22:06:02,553 - ERROR - VLESS 104.18.8.74:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:02,555 - ERROR - VLESS 104.18.8.74:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:02,557 - INFO - Testing 104.19.77.118:443
+2025-04-20 22:06:02,559 - INFO - Testing pqh27v3.siteforipdirect.com:8880
+2025-04-20 22:06:02,573 - ERROR - VLESS 104.26.12.54:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:02,577 - INFO - Testing 104.22.15.132:8443
+2025-04-20 22:06:02,583 - ERROR - VLESS ns1.cloudflare.com:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:02,587 - INFO - Testing pqh27v3.siteforipdirect.com:8880
+2025-04-20 22:06:02,613 - ERROR - VLESS 104.21.73.239:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:02,616 - INFO - Testing 95.217.183.108:2087
+2025-04-20 22:06:02,624 - ERROR - VLESS 104.21.73.239:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:02,624 - ERROR - VLESS ns1.cloudflare.com:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:02,627 - ERROR - VLESS 104.26.12.54:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:02,628 - ERROR - VLESS 104.22.15.132:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:02,628 - INFO - Testing 95.217.183.108:2087
+2025-04-20 22:06:02,628 - INFO - Testing 84.32.9.13:8880
+2025-04-20 22:06:02,630 - INFO - Testing 84.32.9.13:8880
+2025-04-20 22:06:02,633 - INFO - Testing 162.159.10.162:2087
+2025-04-20 22:06:02,653 - ERROR - VLESS 104.19.77.118:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:02,656 - INFO - Testing 162.159.10.162:2087
+2025-04-20 22:06:17,558 - ERROR - VLESS 104.19.77.118:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:17,560 - ERROR - VLESS pqh27v3.siteforipdirect.com:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:17,561 - INFO - Testing 190.93.245.137:8880
+2025-04-20 22:06:17,564 - INFO - Testing 104.17.148.22:80
+2025-04-20 22:06:17,578 - ERROR - VLESS 104.22.15.132:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:17,582 - INFO - Testing 104.21.73.98:8880
+2025-04-20 22:06:17,588 - ERROR - VLESS pqh27v3.siteforipdirect.com:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:17,592 - INFO - Testing 165.232.37.139:1615
+2025-04-20 22:06:17,618 - ERROR - VLESS 95.217.183.108:2087 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:17,621 - INFO - Testing 178.63.228.220:443
+2025-04-20 22:06:17,636 - ERROR - VLESS 84.32.9.13:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:17,636 - ERROR - VLESS 95.217.183.108:2087 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:17,636 - ERROR - VLESS 84.32.9.13:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:17,637 - ERROR - VLESS 162.159.10.162:2087 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:17,637 - INFO - Testing 104.17.148.22:80
+2025-04-20 22:06:17,638 - INFO - Testing 178.63.228.220:443
+2025-04-20 22:06:17,638 - INFO - Testing 165.232.37.139:1615
+2025-04-20 22:06:17,639 - INFO - Testing 104.21.73.98:8880
+2025-04-20 22:06:17,659 - ERROR - VLESS 162.159.10.162:2087 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:17,663 - INFO - Testing 190.93.245.137:8880
+2025-04-20 22:06:32,562 - ERROR - VLESS 190.93.245.137:8880 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpsrdo3nft.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:06:32,562 - INFO - Testing outshop.bestshop10.ir:26745
+2025-04-20 22:06:32,565 - ERROR - VLESS 104.17.148.22:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:32,569 - INFO - Testing 141.227.128.196:1210
+2025-04-20 22:06:32,583 - ERROR - VLESS 104.21.73.98:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:32,587 - INFO - Testing 37.156.46.65:6718
+2025-04-20 22:06:32,593 - ERROR - VLESS 165.232.37.139:1615 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:32,597 - INFO - Testing 141.227.128.196:1210
+2025-04-20 22:06:32,623 - ERROR - VLESS 178.63.228.220:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:32,626 - INFO - Testing outshop.bestshop10.ir:26745
+2025-04-20 22:06:32,641 - ERROR - VLESS 178.63.228.220:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:32,641 - ERROR - VLESS 165.232.37.139:1615 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:32,641 - ERROR - VLESS 104.17.148.22:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:32,642 - INFO - Testing 95.217.206.161:443
+2025-04-20 22:06:32,643 - ERROR - VLESS 104.21.73.98:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:32,644 - INFO - Testing 95.217.206.161:443
+2025-04-20 22:06:32,645 - INFO - Testing 37.156.46.65:6718
+2025-04-20 22:06:32,647 - INFO - Testing join.unlimiteddev.fastly80-3.hosting-ip.com:80
+2025-04-20 22:06:32,663 - ERROR - VLESS 190.93.245.137:8880 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp1fapp5rc.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:06:32,664 - INFO - Testing compare99.com:80
+2025-04-20 22:06:47,564 - ERROR - VLESS outshop.bestshop10.ir:26745 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:47,567 - INFO - Testing 151.101.194.133:443
+2025-04-20 22:06:47,570 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:47,574 - INFO - Testing huffingtonpost.es:80
+2025-04-20 22:06:47,588 - ERROR - VLESS 37.156.46.65:6718 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:47,592 - INFO - Testing www.speedtest.net:8880
+2025-04-20 22:06:47,598 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:47,602 - INFO - Testing 91.92.40.78:2070
+2025-04-20 22:06:47,628 - ERROR - VLESS outshop.bestshop10.ir:26745 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:47,631 - INFO - Testing website.amin-app.ir:8880
+2025-04-20 22:06:47,644 - ERROR - VLESS 95.217.206.161:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:47,645 - ERROR - VLESS 95.217.206.161:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:47,646 - ERROR - VLESS 37.156.46.65:6718 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:47,647 - INFO - Testing 91.92.40.78:2070
+2025-04-20 22:06:47,648 - INFO - Testing huffingtonpost.es:80
+2025-04-20 22:06:47,648 - ERROR - VLESS join.unlimiteddev.fastly80-3.hosting-ip.com:80 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp2_0t7ai6.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:06:47,648 - INFO - Testing huffingtonpost.es:80
+2025-04-20 22:06:47,650 - INFO - Testing 151.101.194.133:443
+2025-04-20 22:06:47,666 - ERROR - VLESS compare99.com:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:06:47,669 - INFO - Testing www.speedtest.net:8880
+2025-04-20 22:07:02,569 - ERROR - VLESS 151.101.194.133:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:02,572 - INFO - Testing website.amin-app.ir:8880
+2025-04-20 22:07:02,574 - ERROR - VLESS huffingtonpost.es:80 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp6eykdt9i.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:07:02,575 - INFO - Testing expressvpn_420.fast.hosting-ip.com:80
+2025-04-20 22:07:02,593 - ERROR - VLESS www.speedtest.net:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:02,596 - INFO - Testing compare99.com:80
+2025-04-20 22:07:02,604 - ERROR - VLESS 91.92.40.78:2070 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:02,608 - INFO - Testing expressvpn_420.fast.hosting-ip.com:80
+2025-04-20 22:07:02,633 - ERROR - VLESS website.amin-app.ir:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:02,637 - INFO - Testing huffingtonpost.es:80
+2025-04-20 22:07:02,648 - ERROR - VLESS 91.92.40.78:2070 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:02,648 - ERROR - VLESS huffingtonpost.es:80 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpzm2zlzi0.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:07:02,649 - INFO - Testing join.unlimiteddev.fastly80-3.hosting-ip.com:80
+2025-04-20 22:07:02,650 - ERROR - VLESS huffingtonpost.es:80 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp583of2e3.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:07:02,650 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:07:02,653 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:07:02,654 - ERROR - VLESS 151.101.194.133:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:02,657 - INFO - Testing 162.159.8.55:443
+2025-04-20 22:07:02,671 - ERROR - VLESS www.speedtest.net:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:02,674 - INFO - Testing 162.159.10.162:2086
+2025-04-20 22:07:17,574 - ERROR - VLESS website.amin-app.ir:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:17,576 - ERROR - VLESS expressvpn_420.fast.hosting-ip.com:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:17,577 - INFO - Testing 94.131.108.195:53221
+2025-04-20 22:07:17,579 - INFO - Testing 104.18.41.190:8443
+2025-04-20 22:07:17,598 - ERROR - VLESS compare99.com:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:17,602 - INFO - Testing 94.131.108.195:53221
+2025-04-20 22:07:17,609 - ERROR - VLESS expressvpn_420.fast.hosting-ip.com:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:17,613 - INFO - Testing 162.159.8.55:443
+2025-04-20 22:07:17,637 - ERROR - VLESS huffingtonpost.es:80 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpbkj67g4f.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:07:17,638 - INFO - Testing 162.159.10.162:2086
+2025-04-20 22:07:17,650 - ERROR - VLESS join.unlimiteddev.fastly80-3.hosting-ip.com:80 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpmr8_v0zv.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:07:17,650 - INFO - Testing 37.27.31.235:8880
+2025-04-20 22:07:17,651 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp78_lzyhp.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:07:17,651 - INFO - Testing 37.27.31.235:8880
+2025-04-20 22:07:17,655 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpohlln7yh.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:07:17,655 - INFO - Testing 104.18.41.190:8443
+2025-04-20 22:07:17,659 - ERROR - VLESS 162.159.8.55:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:17,665 - INFO - Testing germany.khoreshtsabzi.ir:1773
+2025-04-20 22:07:17,676 - ERROR - VLESS 162.159.10.162:2086 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:17,680 - INFO - Testing germany.khoreshtsabzi.ir:1773
+2025-04-20 22:07:32,579 - ERROR - VLESS 94.131.108.195:53221 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:32,581 - ERROR - VLESS 104.18.41.190:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:32,581 - INFO - Testing 162.159.1.33:443
+2025-04-20 22:07:32,584 - INFO - Testing 84.32.9.44:8880
+2025-04-20 22:07:32,603 - ERROR - VLESS 94.131.108.195:53221 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:32,607 - INFO - Testing 84.32.9.44:8880
+2025-04-20 22:07:32,614 - ERROR - VLESS 162.159.8.55:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:32,618 - INFO - Testing 162.159.1.33:443
+2025-04-20 22:07:32,639 - ERROR - VLESS 162.159.10.162:2086 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:32,643 - INFO - Testing 5.180.46.9:8880
+2025-04-20 22:07:32,652 - ERROR - VLESS 37.27.31.235:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:32,654 - ERROR - VLESS 37.27.31.235:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:32,656 - INFO - Testing 162.55.36.107:577
+2025-04-20 22:07:32,657 - ERROR - VLESS 104.18.41.190:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:32,658 - INFO - Testing 5.180.46.9:8880
+2025-04-20 22:07:32,659 - INFO - Testing 162.55.36.107:577
+2025-04-20 22:07:32,673 - ERROR - VLESS germany.khoreshtsabzi.ir:1773 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:32,681 - INFO - Testing 151.234.162.87:443
+2025-04-20 22:07:32,683 - ERROR - VLESS germany.khoreshtsabzi.ir:1773 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:32,686 - INFO - Testing 151.234.162.87:443
+2025-04-20 22:07:47,583 - ERROR - VLESS 162.159.1.33:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:47,585 - ERROR - VLESS 84.32.9.44:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:47,586 - INFO - Testing 104.22.56.77:443
+2025-04-20 22:07:47,587 - INFO - Testing germany.khoreshtsabzi.ir:1773
+2025-04-20 22:07:47,608 - ERROR - VLESS 84.32.9.44:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:47,612 - INFO - Testing 104.21.64.1:443
+2025-04-20 22:07:47,620 - ERROR - VLESS 162.159.1.33:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:47,624 - INFO - Testing 104.22.56.77:443
+2025-04-20 22:07:47,644 - ERROR - VLESS 5.180.46.9:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:47,648 - INFO - Testing 104.21.64.1:443
+2025-04-20 22:07:47,659 - ERROR - VLESS 162.55.36.107:577 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:47,660 - ERROR - VLESS 5.180.46.9:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:47,661 - ERROR - VLESS 162.55.36.107:577 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:47,662 - INFO - Testing germany.khoreshtsabzi.ir:1773
+2025-04-20 22:07:47,664 - INFO - Testing 51.89.119.99:11045
+2025-04-20 22:07:47,665 - INFO - Testing 104.17.148.22:2086
+2025-04-20 22:07:47,684 - ERROR - VLESS 151.234.162.87:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:47,687 - ERROR - VLESS 151.234.162.87:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:07:47,688 - INFO - Testing 140.245.32.103:13533
+2025-04-20 22:07:47,690 - INFO - Testing 104.19.54.50:8080
+2025-04-20 22:08:02,588 - ERROR - VLESS 104.22.56.77:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:02,589 - ERROR - VLESS germany.khoreshtsabzi.ir:1773 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:02,592 - INFO - Testing 156.226.174.40:40002
+2025-04-20 22:08:02,592 - INFO - Testing 104.19.54.50:8080
+2025-04-20 22:08:02,613 - ERROR - VLESS 104.21.64.1:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:02,615 - INFO - Testing 185.146.173.16:2052
+2025-04-20 22:08:02,625 - ERROR - VLESS 104.22.56.77:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:02,629 - INFO - Testing 162.159.20.34:2095
+2025-04-20 22:08:02,649 - ERROR - VLESS 104.21.64.1:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:02,650 - INFO - Testing 51.89.119.99:11045
+2025-04-20 22:08:02,664 - ERROR - VLESS germany.khoreshtsabzi.ir:1773 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:02,665 - ERROR - VLESS 51.89.119.99:11045 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:02,665 - ERROR - VLESS 104.17.148.22:2086 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmps08qgx67.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:08:02,666 - INFO - Testing 140.245.32.103:13533
+2025-04-20 22:08:02,667 - INFO - Testing 185.146.173.16:2052
+2025-04-20 22:08:02,669 - INFO - Testing 156.226.174.40:40002
+2025-04-20 22:08:02,689 - ERROR - VLESS 140.245.32.103:13533 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:02,691 - ERROR - VLESS 104.19.54.50:8080 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:02,691 - INFO - Testing 54.37.7.94:443
+2025-04-20 22:08:02,694 - INFO - Testing 54.37.7.94:443
+2025-04-20 22:08:17,594 - ERROR - VLESS 156.226.174.40:40002 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:17,594 - ERROR - VLESS 104.19.54.50:8080 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:17,597 - INFO - Testing 78.47.195.49:20878
+2025-04-20 22:08:17,597 - INFO - Testing 162.159.20.34:2095
+2025-04-20 22:08:17,617 - ERROR - VLESS 185.146.173.16:2052 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:17,620 - INFO - Testing 78.47.195.49:20878
+2025-04-20 22:08:17,631 - ERROR - VLESS 162.159.20.34:2095 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:17,634 - INFO - Testing 104.17.148.22:2086
+2025-04-20 22:08:17,652 - ERROR - VLESS 51.89.119.99:11045 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:17,655 - INFO - Testing 91.107.254.145:3033
+2025-04-20 22:08:17,667 - ERROR - VLESS 140.245.32.103:13533 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:17,669 - ERROR - VLESS 185.146.173.16:2052 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:17,669 - INFO - Testing 173.245.59.132:8080
+2025-04-20 22:08:17,670 - ERROR - VLESS 156.226.174.40:40002 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:17,671 - INFO - Testing 88.216.187.28:8880
+2025-04-20 22:08:17,674 - INFO - Testing 63.141.128.209:443
+2025-04-20 22:08:17,693 - ERROR - VLESS 54.37.7.94:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:17,696 - ERROR - VLESS 54.37.7.94:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:17,697 - INFO - Testing 63.141.128.209:443
+2025-04-20 22:08:17,700 - INFO - Testing 88.216.187.28:8880
+2025-04-20 22:08:32,598 - ERROR - VLESS 78.47.195.49:20878 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:32,599 - ERROR - VLESS 162.159.20.34:2095 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:32,601 - INFO - Testing 173.245.59.132:8080
+2025-04-20 22:08:32,602 - INFO - Testing 91.107.254.145:3033
+2025-04-20 22:08:32,622 - ERROR - VLESS 78.47.195.49:20878 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:32,625 - INFO - Testing 194.182.79.144:49200
+2025-04-20 22:08:32,634 - ERROR - VLESS 104.17.148.22:2086 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpsu7ue812.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:08:32,635 - INFO - Testing 194.182.79.108:50513
+2025-04-20 22:08:32,657 - ERROR - VLESS 91.107.254.145:3033 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:32,660 - INFO - Testing 194.182.79.49:15450
+2025-04-20 22:08:32,671 - ERROR - VLESS 173.245.59.132:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpt3w4dra8.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:08:32,672 - INFO - Testing 194.182.79.108:50513
+2025-04-20 22:08:32,673 - ERROR - VLESS 88.216.187.28:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:32,675 - ERROR - VLESS 63.141.128.209:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:32,676 - INFO - Testing 194.182.79.49:15450
+2025-04-20 22:08:32,679 - INFO - Testing 194.182.79.144:49200
+2025-04-20 22:08:32,698 - ERROR - VLESS 63.141.128.209:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:32,701 - ERROR - VLESS 88.216.187.28:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:32,702 - INFO - Testing free3.mahbi.top:37712
+2025-04-20 22:08:32,705 - INFO - Testing www.speedtest.net:2095
+2025-04-20 22:08:47,602 - ERROR - VLESS 173.245.59.132:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpnqzd3r98.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:08:47,603 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:08:47,604 - ERROR - VLESS 91.107.254.145:3033 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:47,607 - INFO - Testing mliferobot.darkping.net:3497
+2025-04-20 22:08:47,626 - ERROR - VLESS 194.182.79.144:49200 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:47,630 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:08:47,636 - ERROR - VLESS 194.182.79.108:50513 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:47,640 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:08:47,662 - ERROR - VLESS 194.182.79.49:15450 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:47,666 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:08:47,675 - ERROR - VLESS 194.182.79.108:50513 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:47,677 - ERROR - VLESS 194.182.79.49:15450 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:47,679 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:08:47,681 - ERROR - VLESS 194.182.79.144:49200 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:47,681 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:08:47,684 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:08:47,703 - ERROR - VLESS free3.mahbi.top:37712 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:08:47,705 - ERROR - VLESS www.speedtest.net:2095 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmplcppq3kz.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:08:47,706 - INFO - Testing www.speedtest.net:2095
+2025-04-20 22:08:47,707 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:09:02,604 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmplcv60za_.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:09:02,605 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:09:02,609 - ERROR - VLESS mliferobot.darkping.net:3497 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:02,612 - INFO - Testing www.zula.ir:443
+2025-04-20 22:09:02,631 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpq_aot8d5.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:09:02,631 - INFO - Testing www.zula.ir:443
+2025-04-20 22:09:02,641 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp256hkiff.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:09:02,641 - INFO - Testing mliferobot.darkping.net:3497
+2025-04-20 22:09:02,667 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmphaa0k64g.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:09:02,667 - INFO - Testing free3.mahbi.top:37712
+2025-04-20 22:09:02,680 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpel8t5pwh.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:09:02,680 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:09:02,683 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp66t5z5nf.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:09:02,683 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:09:02,687 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpe1uy1u41.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:09:02,687 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 22:09:02,706 - ERROR - VLESS www.speedtest.net:2095 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp4leuilst.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:09:02,707 - INFO - Testing 104.18.27.94:443
+2025-04-20 22:09:02,707 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpi0dhxooh.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:09:02,708 - INFO - Testing 104.17.147.22:8443
+2025-04-20 22:09:17,606 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpie5yco8f.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:09:17,606 - INFO - Testing 104.24.222.73:443
+2025-04-20 22:09:17,613 - ERROR - VLESS www.zula.ir:443 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp0ciit805.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:09:17,614 - INFO - Testing 104.17.147.22:8443
+2025-04-20 22:09:17,632 - ERROR - VLESS www.zula.ir:443 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp2fdlqab7.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:09:17,633 - INFO - Testing 104.24.222.73:443
+2025-04-20 22:09:17,643 - ERROR - VLESS mliferobot.darkping.net:3497 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:17,646 - INFO - Testing 104.18.27.94:443
+2025-04-20 22:09:17,669 - ERROR - VLESS free3.mahbi.top:37712 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:17,673 - INFO - Testing 84.32.9.29:8880
+2025-04-20 22:09:17,681 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpbtj8s730.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:09:17,681 - INFO - Testing 84.32.9.29:8880
+2025-04-20 22:09:17,684 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpl2z_q006.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:09:17,684 - INFO - Testing ip.sitwe.ir:8080
+2025-04-20 22:09:17,688 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp0onwkfdy.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:09:17,689 - INFO - Testing 104.19.222.79:2096
+2025-04-20 22:09:17,709 - ERROR - VLESS 104.18.27.94:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:17,710 - ERROR - VLESS 104.17.147.22:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:17,713 - INFO - Testing www.speedtest.net:80
+2025-04-20 22:09:17,714 - INFO - Testing www.speedtest.net:80
+2025-04-20 22:09:32,608 - ERROR - VLESS 104.24.222.73:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:32,612 - INFO - Testing 104.19.222.79:2096
+2025-04-20 22:09:32,615 - ERROR - VLESS 104.17.147.22:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:32,619 - INFO - Testing 104.18.41.190:8443
+2025-04-20 22:09:32,634 - ERROR - VLESS 104.24.222.73:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:32,638 - INFO - Testing ip.sitwe.ir:8080
+2025-04-20 22:09:32,648 - ERROR - VLESS 104.18.27.94:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:32,651 - INFO - Testing 104.18.41.190:8443
+2025-04-20 22:09:32,674 - ERROR - VLESS 84.32.9.29:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:32,677 - INFO - Testing 45.131.4.194:80
+2025-04-20 22:09:32,682 - ERROR - VLESS 84.32.9.29:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:32,685 - ERROR - VLESS ip.sitwe.ir:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp57wuyq_u.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:09:32,686 - INFO - Testing 45.131.4.194:80
+2025-04-20 22:09:32,686 - INFO - Testing 162.159.10.162:2086
+2025-04-20 22:09:32,691 - ERROR - VLESS 104.19.222.79:2096 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:32,695 - INFO - Testing 185.133.35.242:443
+2025-04-20 22:09:32,715 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:32,716 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:32,718 - INFO - Testing 185.133.35.242:443
+2025-04-20 22:09:32,719 - INFO - Testing 162.159.10.162:2086
+2025-04-20 22:09:47,613 - ERROR - VLESS 104.19.222.79:2096 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:47,617 - INFO - Testing 104.17.148.22:8880
+2025-04-20 22:09:47,620 - ERROR - VLESS 104.18.41.190:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:47,624 - INFO - Testing 104.17.147.22:443
+2025-04-20 22:09:47,638 - ERROR - VLESS ip.sitwe.ir:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpu8ycm96z.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:09:47,639 - INFO - Testing 104.17.148.22:8880
+2025-04-20 22:09:47,652 - ERROR - VLESS 104.18.41.190:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:47,656 - INFO - Testing 80.71.157.175:4434
+2025-04-20 22:09:47,679 - ERROR - VLESS 45.131.4.194:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:47,682 - INFO - Testing 80.71.157.175:4434
+2025-04-20 22:09:47,689 - ERROR - VLESS 45.131.4.194:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:47,689 - ERROR - VLESS 162.159.10.162:2086 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:47,691 - INFO - Testing 104.17.147.22:2052
+2025-04-20 22:09:47,692 - INFO - Testing 93.183.89.244:4434
+2025-04-20 22:09:47,697 - ERROR - VLESS 185.133.35.242:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:47,705 - INFO - Testing 172.67.209.117:8080
+2025-04-20 22:09:47,719 - ERROR - VLESS 185.133.35.242:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:47,720 - ERROR - VLESS 162.159.10.162:2086 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:09:47,723 - INFO - Testing 104.17.147.22:2052
+2025-04-20 22:09:47,724 - INFO - Testing 104.17.147.22:443
+2025-04-20 22:10:02,618 - ERROR - VLESS 104.17.148.22:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:02,622 - INFO - Testing 93.183.89.244:4434
+2025-04-20 22:10:02,625 - ERROR - VLESS 104.17.147.22:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:02,629 - INFO - Testing 172.67.209.117:8080
+2025-04-20 22:10:02,641 - ERROR - VLESS 104.17.148.22:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:02,644 - INFO - Testing 104.18.20.20:443
+2025-04-20 22:10:02,657 - ERROR - VLESS 80.71.157.175:4434 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:02,661 - INFO - Testing 104.19.77.118:443
+2025-04-20 22:10:02,684 - ERROR - VLESS 80.71.157.175:4434 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:02,688 - INFO - Testing 104.16.59.70:80
+2025-04-20 22:10:02,693 - ERROR - VLESS 104.17.147.22:2052 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:02,695 - ERROR - VLESS 93.183.89.244:4434 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:02,695 - INFO - Testing 104.21.56.44:80
+2025-04-20 22:10:02,700 - INFO - Testing 141.227.128.196:1210
+2025-04-20 22:10:02,706 - ERROR - VLESS 172.67.209.117:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp0ph1u74g.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:10:02,707 - INFO - Testing 104.16.59.70:80
+2025-04-20 22:10:02,725 - ERROR - VLESS 104.17.147.22:2052 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:02,726 - ERROR - VLESS 104.17.147.22:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:02,729 - INFO - Testing 37.27.31.235:8880
+2025-04-20 22:10:02,729 - INFO - Testing 104.18.20.20:443
+2025-04-20 22:10:17,623 - ERROR - VLESS 93.183.89.244:4434 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:17,627 - INFO - Testing 172.67.22.56:443
+2025-04-20 22:10:17,630 - ERROR - VLESS 172.67.209.117:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp447y617_.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:10:17,630 - INFO - Testing 141.227.128.196:1210
+2025-04-20 22:10:17,646 - ERROR - VLESS 104.18.20.20:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:17,650 - INFO - Testing 172.67.22.56:443
+2025-04-20 22:10:17,662 - ERROR - VLESS 104.19.77.118:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:17,665 - INFO - Testing 104.21.56.44:80
+2025-04-20 22:10:17,689 - ERROR - VLESS 104.16.59.70:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:17,692 - INFO - Testing 104.19.77.118:443
+2025-04-20 22:10:17,697 - ERROR - VLESS 104.21.56.44:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:17,701 - INFO - Testing 37.27.31.235:8880
+2025-04-20 22:10:17,704 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:17,707 - INFO - Testing 162.159.10.162:2086
+2025-04-20 22:10:17,710 - ERROR - VLESS 104.16.59.70:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:17,715 - INFO - Testing www.speedtest.net:443
+2025-04-20 22:10:17,730 - ERROR - VLESS 37.27.31.235:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:17,731 - ERROR - VLESS 104.18.20.20:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:17,734 - INFO - Testing 104.17.128.1:2096
+2025-04-20 22:10:17,734 - INFO - Testing 198.62.62.4:443
+2025-04-20 22:10:32,628 - ERROR - VLESS 172.67.22.56:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:32,631 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:32,632 - INFO - Testing 37.27.31.235:8880
+2025-04-20 22:10:32,635 - INFO - Testing 104.25.254.4:2087
+2025-04-20 22:10:32,651 - ERROR - VLESS 172.67.22.56:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:32,653 - INFO - Testing 194.182.79.5:39596
+2025-04-20 22:10:32,667 - ERROR - VLESS 104.21.56.44:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:32,670 - INFO - Testing 104.25.254.4:2087
+2025-04-20 22:10:32,694 - ERROR - VLESS 104.19.77.118:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:32,698 - INFO - Testing 198.62.62.4:443
+2025-04-20 22:10:32,702 - ERROR - VLESS 37.27.31.235:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:32,705 - INFO - Testing 84.32.9.31:8880
+2025-04-20 22:10:32,708 - ERROR - VLESS 162.159.10.162:2086 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:32,713 - INFO - Testing 84.32.25.106:8880
+2025-04-20 22:10:32,717 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:32,725 - INFO - Testing www.speedtest.net:443
+2025-04-20 22:10:32,735 - ERROR - VLESS 104.17.128.1:2096 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:32,738 - ERROR - VLESS 198.62.62.4:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:32,739 - INFO - Testing 194.182.79.65:40359
+2025-04-20 22:10:32,741 - INFO - Testing 84.32.9.31:8880
+2025-04-20 22:10:47,634 - ERROR - VLESS 37.27.31.235:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:47,636 - ERROR - VLESS 104.25.254.4:2087 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:47,637 - INFO - Testing 165.232.37.139:1615
+2025-04-20 22:10:47,639 - INFO - Testing 104.16.190.41:443
+2025-04-20 22:10:47,654 - ERROR - VLESS 194.182.79.5:39596 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:47,656 - INFO - Testing 104.17.128.1:2096
+2025-04-20 22:10:47,672 - ERROR - VLESS 104.25.254.4:2087 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:47,675 - INFO - Testing 194.182.79.65:40359
+2025-04-20 22:10:47,699 - ERROR - VLESS 198.62.62.4:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:47,702 - INFO - Testing 37.27.31.235:8880
+2025-04-20 22:10:47,707 - ERROR - VLESS 84.32.9.31:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:47,710 - INFO - Testing 194.182.79.5:39596
+2025-04-20 22:10:47,715 - ERROR - VLESS 84.32.25.106:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:47,719 - INFO - Testing 84.32.25.106:8880
+2025-04-20 22:10:47,727 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:47,731 - INFO - Testing 162.159.10.162:2086
+2025-04-20 22:10:47,740 - ERROR - VLESS 194.182.79.65:40359 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:47,743 - ERROR - VLESS 84.32.9.31:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:10:47,744 - INFO - Testing 165.232.37.139:1615
+2025-04-20 22:10:47,746 - INFO - Testing 104.16.190.41:443
+2025-04-20 22:11:02,639 - ERROR - VLESS 165.232.37.139:1615 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:02,641 - ERROR - VLESS 104.16.190.41:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:02,641 - INFO - Testing 54.37.7.94:443
+2025-04-20 22:11:02,644 - INFO - Testing team.infinitespd.com:2096
+2025-04-20 22:11:02,657 - ERROR - VLESS 104.17.128.1:2096 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:02,661 - INFO - Testing 91.92.40.78:2070
+2025-04-20 22:11:02,676 - ERROR - VLESS 194.182.79.65:40359 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:02,680 - INFO - Testing 91.92.40.78:2070
+2025-04-20 22:11:02,704 - ERROR - VLESS 37.27.31.235:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:02,708 - INFO - Testing team.infinitespd.com:2096
+2025-04-20 22:11:02,713 - ERROR - VLESS 194.182.79.5:39596 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:02,716 - INFO - Testing 93.177.65.104:51688
+2025-04-20 22:11:02,720 - ERROR - VLESS 84.32.25.106:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:02,724 - INFO - Testing 93.177.65.104:51688
+2025-04-20 22:11:02,732 - ERROR - VLESS 162.159.10.162:2086 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:02,736 - INFO - Testing 84.32.9.44:8880
+2025-04-20 22:11:02,748 - ERROR - VLESS 165.232.37.139:1615 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:02,749 - ERROR - VLESS 104.16.190.41:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:02,751 - INFO - Testing 84.32.9.44:8880
+2025-04-20 22:11:02,752 - INFO - Testing 85.133.206.197:14000
+2025-04-20 22:11:17,643 - ERROR - VLESS 54.37.7.94:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:17,645 - ERROR - VLESS team.infinitespd.com:2096 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:17,647 - INFO - Testing www.speedtest.net:443
+2025-04-20 22:11:17,649 - INFO - Testing ak111.amirak.cfd:25679
+2025-04-20 22:11:17,662 - ERROR - VLESS 91.92.40.78:2070 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:17,666 - INFO - Testing www.speedtest.net:2095
+2025-04-20 22:11:17,681 - ERROR - VLESS 91.92.40.78:2070 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:17,685 - INFO - Testing 62.60.144.201:8080
+2025-04-20 22:11:17,709 - ERROR - VLESS team.infinitespd.com:2096 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:17,713 - INFO - Testing www.speedtest.net:443
+2025-04-20 22:11:17,718 - ERROR - VLESS 93.177.65.104:51688 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:17,722 - INFO - Testing 104.26.12.54:443
+2025-04-20 22:11:17,726 - ERROR - VLESS 93.177.65.104:51688 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:17,729 - INFO - Testing 45.131.5.99:80
+2025-04-20 22:11:17,738 - ERROR - VLESS 84.32.9.44:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:17,742 - INFO - Testing 188.114.97.3:80
+2025-04-20 22:11:17,753 - ERROR - VLESS 84.32.9.44:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:17,755 - ERROR - VLESS 85.133.206.197:14000 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:17,757 - INFO - Testing 85.133.206.197:14000
+2025-04-20 22:11:17,758 - INFO - Testing 62.60.144.201:8080
+2025-04-20 22:11:32,648 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:32,650 - ERROR - VLESS ak111.amirak.cfd:25679 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:32,652 - INFO - Testing www.speedtest.net:443
+2025-04-20 22:11:32,652 - INFO - Testing 104.26.12.54:443
+2025-04-20 22:11:32,666 - ERROR - VLESS www.speedtest.net:2095 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp2k_pzjxl.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:11:32,667 - INFO - Testing ak111.amirak.cfd:25679
+2025-04-20 22:11:32,686 - ERROR - VLESS 62.60.144.201:8080 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:32,690 - INFO - Testing www.speedtest.net:2095
+2025-04-20 22:11:32,714 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:32,718 - INFO - Testing 188.114.97.3:80
+2025-04-20 22:11:32,723 - ERROR - VLESS 104.26.12.54:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:32,726 - INFO - Testing 45.131.5.99:80
+2025-04-20 22:11:32,731 - ERROR - VLESS 45.131.5.99:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:32,734 - INFO - Testing www.speedtest.net:443
+2025-04-20 22:11:32,744 - ERROR - VLESS 188.114.97.3:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:32,748 - INFO - Testing www.speedtest.net:443
+2025-04-20 22:11:32,759 - ERROR - VLESS 85.133.206.197:14000 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:32,761 - ERROR - VLESS 62.60.144.201:8080 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:32,763 - INFO - Testing www.speedtest.net:80
+2025-04-20 22:11:32,764 - INFO - Testing www.speedtest.net:80
+2025-04-20 22:11:47,654 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:47,656 - ERROR - VLESS 104.26.12.54:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:47,657 - INFO - Testing 104.17.148.22:2052
+2025-04-20 22:11:47,658 - INFO - Testing www.speedtest.net:80
+2025-04-20 22:11:47,669 - ERROR - VLESS ak111.amirak.cfd:25679 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:47,673 - INFO - Testing www.speedtest.net:80
+2025-04-20 22:11:47,690 - ERROR - VLESS www.speedtest.net:2095 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpc99phtpu.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:11:47,691 - INFO - Testing 104.17.148.22:2052
+2025-04-20 22:11:47,719 - ERROR - VLESS 188.114.97.3:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:47,723 - INFO - Testing www.speedtest.net:80
+2025-04-20 22:11:47,728 - ERROR - VLESS 45.131.5.99:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:47,732 - INFO - Testing www.speedtest.net:443
+2025-04-20 22:11:47,736 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:47,740 - INFO - Testing 104.17.148.22:2052
+2025-04-20 22:11:47,749 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:47,753 - INFO - Testing 185.133.35.242:443
+2025-04-20 22:11:47,765 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:47,766 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:11:47,769 - INFO - Testing 185.133.35.242:443
+2025-04-20 22:11:47,770 - INFO - Testing 140.245.61.219:13533
+2025-04-20 22:12:02,660 - ERROR - VLESS 104.17.148.22:2052 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:02,660 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:02,663 - INFO - Testing 104.26.12.54:443
+2025-04-20 22:12:02,663 - INFO - Testing 140.245.61.219:13533
+2025-04-20 22:12:02,676 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:02,679 - INFO - Testing 104.18.14.19:8080
+2025-04-20 22:12:02,692 - ERROR - VLESS 104.17.148.22:2052 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:02,696 - INFO - Testing 77.110.101.4:4810
+2025-04-20 22:12:02,724 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:02,728 - INFO - Testing 193.228.169.131:2081
+2025-04-20 22:12:02,734 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:02,737 - INFO - Testing 162.19.212.19:19356
+2025-04-20 22:12:02,742 - ERROR - VLESS 104.17.148.22:2052 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:02,746 - INFO - Testing 104.26.12.54:443
+2025-04-20 22:12:02,755 - ERROR - VLESS 185.133.35.242:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:02,756 - INFO - Testing 198.62.62.4:443
+2025-04-20 22:12:02,770 - ERROR - VLESS 185.133.35.242:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:02,771 - ERROR - VLESS 140.245.61.219:13533 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:02,774 - INFO - Testing 104.16.213.195:443
+2025-04-20 22:12:02,775 - INFO - Testing 104.18.14.19:8080
+2025-04-20 22:12:17,664 - ERROR - VLESS 104.26.12.54:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:17,666 - ERROR - VLESS 140.245.61.219:13533 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:17,668 - INFO - Testing 162.19.212.19:19356
+2025-04-20 22:12:17,669 - INFO - Testing 198.62.62.4:443
+2025-04-20 22:12:17,682 - ERROR - VLESS 104.18.14.19:8080 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:17,685 - INFO - Testing 77.110.101.4:4810
+2025-04-20 22:12:17,697 - ERROR - VLESS 77.110.101.4:4810 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:17,701 - INFO - Testing 104.16.213.195:443
+2025-04-20 22:12:17,730 - ERROR - VLESS 193.228.169.131:2081 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:17,733 - INFO - Testing 193.228.169.131:2081
+2025-04-20 22:12:17,739 - ERROR - VLESS 162.19.212.19:19356 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:17,741 - INFO - Testing 194.182.79.5:39596
+2025-04-20 22:12:17,747 - ERROR - VLESS 104.26.12.54:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:17,751 - INFO - Testing hajlab.ucdavis.edu:80
+2025-04-20 22:12:17,759 - ERROR - VLESS 198.62.62.4:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:17,763 - INFO - Testing hajlab.ucdavis.edu:80
+2025-04-20 22:12:17,775 - ERROR - VLESS 104.16.213.195:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:17,776 - ERROR - VLESS 104.18.14.19:8080 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:17,779 - INFO - Testing 167.235.238.146:8880
+2025-04-20 22:12:17,780 - INFO - Testing 194.182.79.5:39596
+2025-04-20 22:12:32,670 - ERROR - VLESS 162.19.212.19:19356 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:32,671 - ERROR - VLESS 198.62.62.4:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:32,674 - INFO - Testing 84.32.9.20:8880
+2025-04-20 22:12:32,674 - INFO - Testing 84.32.9.20:8880
+2025-04-20 22:12:32,686 - ERROR - VLESS 77.110.101.4:4810 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:32,690 - INFO - Testing 83.217.9.122:443
+2025-04-20 22:12:32,702 - ERROR - VLESS 104.16.213.195:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:32,705 - INFO - Testing 83.217.9.122:443
+2025-04-20 22:12:32,735 - ERROR - VLESS 193.228.169.131:2081 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:32,738 - INFO - Testing 167.235.238.146:8880
+2025-04-20 22:12:32,742 - ERROR - VLESS 194.182.79.5:39596 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:32,746 - INFO - Testing 45.131.4.194:80
+2025-04-20 22:12:32,752 - ERROR - VLESS hajlab.ucdavis.edu:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:32,756 - INFO - Testing t2.vixsm.ir:4814
+2025-04-20 22:12:32,764 - ERROR - VLESS hajlab.ucdavis.edu:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:32,769 - INFO - Testing 104.17.252.217:443
+2025-04-20 22:12:32,780 - ERROR - VLESS 167.235.238.146:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:32,782 - ERROR - VLESS 194.182.79.5:39596 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:32,784 - INFO - Testing 151.101.64.155:80
+2025-04-20 22:12:32,785 - INFO - Testing 104.21.96.1:8443
+2025-04-20 22:12:47,675 - ERROR - VLESS 84.32.9.20:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:47,677 - ERROR - VLESS 84.32.9.20:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:47,679 - INFO - Testing 151.101.64.155:80
+2025-04-20 22:12:47,680 - INFO - Testing 104.17.147.22:2086
+2025-04-20 22:12:47,692 - ERROR - VLESS 83.217.9.122:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:47,696 - INFO - Testing t2.vixsm.ir:4814
+2025-04-20 22:12:47,707 - ERROR - VLESS 83.217.9.122:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:47,710 - INFO - Testing www.speedtest.net:8880
+2025-04-20 22:12:47,740 - ERROR - VLESS 167.235.238.146:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:47,743 - INFO - Testing 104.21.96.1:8443
+2025-04-20 22:12:47,747 - ERROR - VLESS 45.131.4.194:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:47,750 - INFO - Testing 104.17.147.22:2086
+2025-04-20 22:12:47,758 - ERROR - VLESS t2.vixsm.ir:4814 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:47,762 - INFO - Testing 45.131.4.194:80
+2025-04-20 22:12:47,771 - ERROR - VLESS 104.17.252.217:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:47,774 - INFO - Testing www.speedtest.net:8880
+2025-04-20 22:12:47,786 - ERROR - VLESS 151.101.64.155:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:47,787 - ERROR - VLESS 104.21.96.1:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:12:47,790 - INFO - Testing 104.17.252.217:443
+2025-04-20 22:12:47,791 - INFO - Testing 193.228.169.131:2081
+2025-04-20 22:13:02,681 - ERROR - VLESS 151.101.64.155:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:02,681 - ERROR - VLESS 104.17.147.22:2086 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpbie4jjww.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:13:02,681 - INFO - Testing 193.228.169.131:2081
+2025-04-20 22:13:02,684 - INFO - Testing 104.18.8.74:443
+2025-04-20 22:13:02,698 - ERROR - VLESS t2.vixsm.ir:4814 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:02,702 - INFO - Testing mw12.asalemaraghe.ir:443
+2025-04-20 22:13:02,712 - ERROR - VLESS www.speedtest.net:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:02,715 - INFO - Testing mw12.asalemaraghe.ir:443
+2025-04-20 22:13:02,745 - ERROR - VLESS 104.21.96.1:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:02,748 - INFO - Testing 104.18.8.74:443
+2025-04-20 22:13:02,751 - ERROR - VLESS 104.17.147.22:2086 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp7rq1u2hn.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:13:02,752 - INFO - Testing 84.32.9.52:8880
+2025-04-20 22:13:02,764 - ERROR - VLESS 45.131.4.194:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:02,767 - INFO - Testing 84.32.9.52:8880
+2025-04-20 22:13:02,776 - ERROR - VLESS www.speedtest.net:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:02,779 - INFO - Testing mw5.asalemaraghe.ir:443
+2025-04-20 22:13:02,791 - ERROR - VLESS 104.17.252.217:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:02,793 - ERROR - VLESS 193.228.169.131:2081 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:02,795 - INFO - Testing mw5.asalemaraghe.ir:443
+2025-04-20 22:13:02,796 - INFO - Testing 178.239.155.42:51377
+2025-04-20 22:13:17,683 - ERROR - VLESS 193.228.169.131:2081 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:17,685 - ERROR - VLESS 104.18.8.74:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:17,686 - INFO - Testing 178.239.155.42:51377
+2025-04-20 22:13:17,689 - INFO - Testing s24.namasha.top:57725
+2025-04-20 22:13:17,703 - ERROR - VLESS mw12.asalemaraghe.ir:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:17,707 - INFO - Testing s24.namasha.top:57725
+2025-04-20 22:13:17,717 - ERROR - VLESS mw12.asalemaraghe.ir:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:17,720 - INFO - Testing 88.218.95.8:8880
+2025-04-20 22:13:17,750 - ERROR - VLESS 104.18.8.74:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:17,753 - ERROR - VLESS 84.32.9.52:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:17,753 - INFO - Testing 88.218.95.8:8880
+2025-04-20 22:13:17,756 - INFO - Testing 88.218.95.8:8880
+2025-04-20 22:13:17,769 - ERROR - VLESS 84.32.9.52:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:17,772 - INFO - Testing 188.114.99.48:443
+2025-04-20 22:13:17,780 - ERROR - VLESS mw5.asalemaraghe.ir:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:17,783 - INFO - Testing 63.141.128.209:443
+2025-04-20 22:13:17,796 - ERROR - VLESS mw5.asalemaraghe.ir:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:17,797 - ERROR - VLESS 178.239.155.42:51377 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:17,800 - INFO - Testing 141.227.128.196:1210
+2025-04-20 22:13:17,801 - INFO - Testing 15.204.187.172:443
+2025-04-20 22:13:32,688 - ERROR - VLESS 178.239.155.42:51377 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:32,690 - ERROR - VLESS s24.namasha.top:57725 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:32,692 - INFO - Testing 15.204.187.172:443
+2025-04-20 22:13:32,692 - INFO - Testing 104.17.148.22:8880
+2025-04-20 22:13:32,708 - ERROR - VLESS s24.namasha.top:57725 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:32,712 - INFO - Testing 104.17.148.22:8880
+2025-04-20 22:13:32,721 - ERROR - VLESS 88.218.95.8:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:32,725 - INFO - Testing 188.114.99.48:443
+2025-04-20 22:13:32,755 - ERROR - VLESS 88.218.95.8:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:32,757 - ERROR - VLESS 88.218.95.8:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:32,758 - INFO - Testing 162.159.192.115:443
+2025-04-20 22:13:32,761 - INFO - Testing 104.17.148.22:2082
+2025-04-20 22:13:32,774 - ERROR - VLESS 188.114.99.48:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:32,778 - INFO - Testing 104.18.8.74:443
+2025-04-20 22:13:32,785 - ERROR - VLESS 63.141.128.209:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:32,789 - INFO - Testing 63.141.128.209:443
+2025-04-20 22:13:32,801 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:32,802 - INFO - Testing 104.17.148.22:2082
+2025-04-20 22:13:32,802 - ERROR - VLESS 15.204.187.172:443 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpwanyhraf.json] > infra/conf/v4: Config: unknown transport protocol: raw
+)
+2025-04-20 22:13:32,805 - INFO - Testing 141.227.128.196:1210
+2025-04-20 22:13:47,694 - ERROR - VLESS 104.17.148.22:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:47,695 - ERROR - VLESS 15.204.187.172:443 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpobr8j74c.json] > infra/conf/v4: Config: unknown transport protocol: raw
+)
+2025-04-20 22:13:47,695 - INFO - Testing 162.159.192.115:443
+2025-04-20 22:13:47,698 - INFO - Testing 104.18.8.74:443
+2025-04-20 22:13:47,713 - ERROR - VLESS 104.17.148.22:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:47,717 - INFO - Testing 188.245.215.44:442
+2025-04-20 22:13:47,726 - ERROR - VLESS 188.114.99.48:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:47,730 - INFO - Testing 162.19.212.19:19356
+2025-04-20 22:13:47,760 - ERROR - VLESS 162.159.192.115:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:47,762 - ERROR - VLESS 104.17.148.22:2082 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:47,763 - INFO - Testing 212.183.88.136:443
+2025-04-20 22:13:47,766 - INFO - Testing 212.183.88.136:443
+2025-04-20 22:13:47,779 - ERROR - VLESS 104.18.8.74:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:47,783 - INFO - Testing 109.61.18.48:20318
+2025-04-20 22:13:47,791 - ERROR - VLESS 63.141.128.209:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:47,795 - INFO - Testing 188.245.215.44:442
+2025-04-20 22:13:47,804 - ERROR - VLESS 104.17.148.22:2082 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:47,806 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:13:47,808 - INFO - Testing 109.61.18.48:20318
+2025-04-20 22:13:47,810 - INFO - Testing 162.19.212.19:19356
+2025-04-20 22:14:02,697 - ERROR - VLESS 162.159.192.115:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:02,699 - ERROR - VLESS 104.18.8.74:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:02,700 - INFO - Testing 2.irancella.blog:2089
+2025-04-20 22:14:02,702 - INFO - Testing 162.159.1.33:443
+2025-04-20 22:14:02,718 - ERROR - VLESS 188.245.215.44:442 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:02,721 - INFO - Testing 91.107.219.8:443
+2025-04-20 22:14:02,730 - ERROR - VLESS 162.19.212.19:19356 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp00ahkgdm.json] > infra/conf/v4: VLESS users: please add/set "encryption":"none" for every user
+)
+2025-04-20 22:14:02,731 - INFO - Testing zmaoz.faculty.ucdavis.edu:80
+2025-04-20 22:14:02,765 - ERROR - VLESS 212.183.88.136:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:02,767 - ERROR - VLESS 212.183.88.136:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:02,769 - INFO - Testing 104.19.77.118:443
+2025-04-20 22:14:02,770 - INFO - Testing www.speedtest.net:2095
+2025-04-20 22:14:02,785 - ERROR - VLESS 109.61.18.48:20318 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:02,788 - INFO - Testing 5.180.46.9:8880
+2025-04-20 22:14:02,796 - ERROR - VLESS 188.245.215.44:442 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:02,798 - INFO - Testing mw12.asalemaraghe.ir:443
+2025-04-20 22:14:02,810 - ERROR - VLESS 109.61.18.48:20318 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:02,810 - ERROR - VLESS 162.19.212.19:19356 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpymw1h2cx.json] > infra/conf/v4: VLESS users: please add/set "encryption":"none" for every user
+)
+2025-04-20 22:14:17,702 - ERROR - VLESS 2.irancella.blog:2089 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:17,704 - ERROR - VLESS 162.159.1.33:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:17,723 - ERROR - VLESS 91.107.219.8:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:17,733 - ERROR - VLESS zmaoz.faculty.ucdavis.edu:80 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:17,771 - ERROR - VLESS 104.19.77.118:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:17,771 - ERROR - VLESS www.speedtest.net:2095 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpvbuhqlql.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:14:17,789 - ERROR - VLESS 5.180.46.9:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:17,800 - ERROR - VLESS mw12.asalemaraghe.ir:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 22:14:17,804 - INFO - Testing completed
