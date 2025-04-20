@@ -1,0 +1,8 @@
+[2025-04-20 21:54:27] SS N/A:N/A - SKIP - Protocol disabled
+[2025-04-20 21:54:27] SS N/A:N/A - SKIP - Protocol disabled
+[2025-04-20 21:54:27] SS N/A:N/A - SKIP - Protocol disabled
+[2025-04-20 21:54:27] SS N/A:N/A - SKIP - Protocol disabled
+[2025-04-20 21:54:42] VLESS 104.18.27.94:443 - FAILURE - Request failed: Missing dependencies for SOCKS support.
+[2025-04-20 21:54:42] VLESS 104.18.41.190:8443 - FAILURE - Request failed: Missing dependencies for SOCKS support.
+[2025-04-20 21:54:42] VLESS 104.18.27.94:443 - FAILURE - Request failed: Missing dependencies for SOCKS support.
+[2025-04-20 21:54:42] VLESS 104.18.41.190:8443 - FAILURE - Request failed: Missing dependencies for SOCKS support.

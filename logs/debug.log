@@ -1,0 +1,32 @@
+2025-04-20 21:54:26,828 - INFO - Cleaning previous data...
+2025-04-20 21:54:26,828 - INFO - Cleaned directory: /home/runner/work/Server-Tester/Server-Tester/recived_files
+2025-04-20 21:54:26,828 - INFO - Cleaned directory: /home/runner/work/Server-Tester/Server-Tester/Tested_Servers
+2025-04-20 21:54:26,829 - INFO - Starting server tester
+2025-04-20 21:54:26,829 - INFO - Found 1 unique links
+2025-04-20 21:54:26,829 - INFO - Extracting from region
+2025-04-20 21:54:27,108 - INFO - Extracted 1 links
+2025-04-20 21:54:27,109 - INFO - Processing Germany.txt
+2025-04-20 21:54:27,195 - INFO - Server types found:
+2025-04-20 21:54:27,195 - INFO - VMESS: 4
+2025-04-20 21:54:27,195 - INFO - VLESS: 4
+2025-04-20 21:54:27,195 - INFO - SS: 4
+2025-04-20 21:54:27,196 - INFO - Protocol configuration:
+2025-04-20 21:54:27,196 - INFO -   VLESS     : Enabled
+2025-04-20 21:54:27,196 - INFO -   VMESS     : Disabled
+2025-04-20 21:54:27,196 - INFO -   TROJAN    : Disabled
+2025-04-20 21:54:27,196 - INFO -   SHADOWSOCKS: Disabled
+2025-04-20 21:54:27,305 - INFO - Installing V2Ray...
+2025-04-20 21:54:27,852 - INFO - Loaded 8 servers for testing
+2025-04-20 21:54:27,854 - INFO - Testing 104.18.27.94:443
+2025-04-20 21:54:27,854 - INFO - Testing 104.18.41.190:8443
+2025-04-20 21:54:27,855 - INFO - Testing 104.18.27.94:443
+2025-04-20 21:54:27,855 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 21:54:27,855 - INFO - Testing 104.18.41.190:8443
+2025-04-20 21:54:27,856 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 21:54:27,857 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 21:54:27,857 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 21:54:42,857 - ERROR - VLESS 104.18.27.94:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 21:54:42,858 - ERROR - VLESS 104.18.41.190:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 21:54:42,861 - ERROR - VLESS 104.18.27.94:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 21:54:42,861 - ERROR - VLESS 104.18.41.190:8443 - Failed (Request failed: Missing dependencies for SOCKS support.)
+2025-04-20 21:54:42,864 - INFO - Testing completed
