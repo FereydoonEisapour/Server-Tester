@@ -1532,3 +1532,1505 @@
 2025-04-20 22:14:17,789 - ERROR - VLESS 5.180.46.9:8880 - Failed (Request failed: Missing dependencies for SOCKS support.)
 2025-04-20 22:14:17,800 - ERROR - VLESS mw12.asalemaraghe.ir:443 - Failed (Request failed: Missing dependencies for SOCKS support.)
 2025-04-20 22:14:17,804 - INFO - Testing completed
+2025-04-20 22:50:34,953 - INFO - Cleaning previous data...
+2025-04-20 22:50:34,954 - INFO - Cleaned directory: /home/runner/work/Server-Tester/Server-Tester/recived_files
+2025-04-20 22:50:34,954 - INFO - Cleaned directory: /home/runner/work/Server-Tester/Server-Tester/Tested_Servers
+2025-04-20 22:50:34,954 - INFO - Starting server tester
+2025-04-20 22:50:34,954 - INFO - Found 1 unique links
+2025-04-20 22:50:34,955 - INFO - Extracting from Protocols
+2025-04-20 22:50:35,334 - INFO - Extracted 6 links
+2025-04-20 22:50:35,334 - INFO - Processing ss.txt
+2025-04-20 22:50:35,694 - INFO - Processing wireguard.txt
+2025-04-20 22:50:35,837 - INFO - Processing vless.txt
+2025-04-20 22:50:36,037 - INFO - Processing hysteria2.txt
+2025-04-20 22:50:36,383 - INFO - Processing vmess.txt
+2025-04-20 22:50:36,782 - INFO - Processing trojan.txt
+2025-04-20 22:50:37,140 - INFO - Server types found:
+2025-04-20 22:50:37,140 - INFO - SS: 446
+2025-04-20 22:50:37,140 - INFO - VLESS: 500
+2025-04-20 22:50:37,140 - INFO - VMESS: 408
+2025-04-20 22:50:37,140 - INFO - TROJAN: 195
+2025-04-20 22:50:37,141 - INFO - Protocol configuration:
+2025-04-20 22:50:37,141 - INFO -   VLESS     : Enabled
+2025-04-20 22:50:37,141 - INFO -   VMESS     : Disabled
+2025-04-20 22:50:37,141 - INFO -   TROJAN    : Disabled
+2025-04-20 22:50:37,141 - INFO -   SHADOWSOCKS: Disabled
+2025-04-20 22:50:37,374 - INFO - Using V2Ray 5.30.0
+2025-04-20 22:50:37,376 - INFO - Loaded 946 servers for testing
+2025-04-20 22:50:37,380 - INFO - Testing customers.tele-shop-too.studio:44
+2025-04-20 22:50:37,380 - INFO - Testing 104.18.41.190:8443
+2025-04-20 22:50:37,381 - INFO - Testing 104.19.77.118:443
+2025-04-20 22:50:37,381 - INFO - Testing 104.18.41.190:8443
+2025-04-20 22:50:37,382 - INFO - Testing 135.181.155.147:40240
+2025-04-20 22:50:37,382 - INFO - Testing 84.32.9.31:8880
+2025-04-20 22:50:37,382 - INFO - Testing eng1.lunayek.ir:8989
+2025-04-20 22:50:37,395 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,413 - INFO - Testing customers.tele-shop-too.studio:44
+2025-04-20 22:50:37,415 - INFO - Testing 104.19.77.118:443
+2025-04-20 22:50:37,396 - INFO - Testing eng1.lunayek.ir:8989
+2025-04-20 22:50:37,415 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,436 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,437 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,437 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,437 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,437 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,437 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,437 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,437 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,437 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,437 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,437 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,437 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,438 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,438 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,438 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: expected string or bytes-like object, got 'NoneType')
+2025-04-20 22:50:37,438 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Port could not be cast to integer value as '451…')
+2025-04-20 22:50:37,438 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,438 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,438 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,438 - ERROR - UNKNOWN N/A:N/A - Failed (Parse error: Invalid UUID format)
+2025-04-20 22:50:37,438 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,438 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,438 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,438 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,438 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,438 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,438 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,439 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,440 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,440 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,440 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,440 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,440 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,440 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,440 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,440 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,440 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,440 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,441 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,442 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,443 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,443 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,443 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,443 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,443 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,443 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,443 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,443 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,443 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,443 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,443 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,443 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,443 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,446 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,447 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,447 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,447 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,447 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,447 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,447 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,447 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,447 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,447 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,447 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,447 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,448 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,448 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,448 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,448 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,448 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,449 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,449 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,449 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,449 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,449 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,450 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,450 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,450 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,450 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,450 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,450 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,451 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,451 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,451 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,451 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,451 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,451 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,451 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,451 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,451 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,452 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,452 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,452 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,452 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,453 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,453 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,453 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,453 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,453 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,453 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,456 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,456 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,456 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,456 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,457 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,458 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,459 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,460 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,461 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,462 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,463 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,464 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,465 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,466 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,467 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,468 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,469 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,470 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,471 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,472 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:50:37,473 - INFO - SS N/A:N/A - Skipped (Protocol disabled)
+2025-04-20 22:51:07,625 - INFO - VLESS 104.19.77.118:443 - Connected (0.19s)
+2025-04-20 22:51:07,629 - INFO - Testing 84.32.9.31:8880
+2025-04-20 22:51:07,643 - INFO - VLESS 104.19.77.118:443 - Connected (0.20s)
+2025-04-20 22:51:07,646 - INFO - Testing 104.17.147.22:2052
+2025-04-20 22:51:07,696 - INFO - VLESS 104.18.41.190:8443 - Connected (0.31s)
+2025-04-20 22:51:07,699 - INFO - Testing 104.17.147.22:2052
+2025-04-20 22:51:07,751 - INFO - VLESS 104.18.41.190:8443 - Connected (0.34s)
+2025-04-20 22:51:07,755 - INFO - Testing 84.32.9.41:8880
+2025-04-20 22:51:08,060 - ERROR - VLESS customers.tele-shop-too.studio:44 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:51:08,061 - ERROR - VLESS customers.tele-shop-too.studio:44 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:51:08,064 - INFO - Testing 135.181.155.147:40240
+2025-04-20 22:51:08,065 - INFO - Testing 84.32.9.41:8880
+2025-04-20 22:51:08,195 - INFO - VLESS 84.32.9.31:8880 - Connected (0.77s)
+2025-04-20 22:51:08,199 - INFO - Testing 88.216.187.57:8880
+2025-04-20 22:51:10,824 - ERROR - VLESS eng1.lunayek.ir:8989 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:51:10,825 - ERROR - VLESS eng1.lunayek.ir:8989 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:51:10,827 - INFO - Testing 84.32.9.26:8880
+2025-04-20 22:51:10,828 - INFO - Testing 84.32.9.26:8880
+2025-04-20 22:51:37,445 - ERROR - VLESS 135.181.155.147:40240 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:51:37,448 - INFO - Testing 88.216.187.57:8880
+2025-04-20 22:51:38,397 - INFO - VLESS 84.32.9.31:8880 - Connected (0.77s)
+2025-04-20 22:51:38,401 - INFO - Testing 5.199.173.186:8880
+2025-04-20 22:51:38,424 - INFO - VLESS 104.17.147.22:2052 - Connected (0.78s)
+2025-04-20 22:51:38,427 - INFO - Testing 5.199.173.186:8880
+2025-04-20 22:51:38,524 - INFO - VLESS 84.32.9.41:8880 - Connected (0.77s)
+2025-04-20 22:51:38,527 - INFO - Testing 37.27.31.235:8880
+2025-04-20 22:51:38,823 - INFO - VLESS 84.32.9.41:8880 - Connected (0.76s)
+2025-04-20 22:51:38,827 - INFO - Testing 37.27.31.235:8880
+2025-04-20 22:51:39,206 - INFO - VLESS 104.17.147.22:2052 - Connected (1.51s)
+2025-04-20 22:51:39,210 - INFO - Testing germany.khoreshtsabzi.ir:1773
+2025-04-20 22:51:41,984 - INFO - VLESS 84.32.9.26:8880 - Connected (1.15s)
+2025-04-20 22:51:41,988 - INFO - Testing 103.160.204.36:2087
+2025-04-20 22:51:41,998 - INFO - VLESS 84.32.9.26:8880 - Connected (1.17s)
+2025-04-20 22:51:42,002 - INFO - Testing 103.160.204.36:2087
+2025-04-20 22:52:08,073 - ERROR - VLESS 135.181.155.147:40240 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:52:08,076 - INFO - Testing germany.khoreshtsabzi.ir:1773
+2025-04-20 22:52:08,231 - ERROR - VLESS 88.216.187.57:8880 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:52:08,235 - INFO - Testing 172.66.168.209:443
+2025-04-20 22:52:09,533 - INFO - VLESS 37.27.31.235:8880 - Connected (1.00s)
+2025-04-20 22:52:09,536 - INFO - Testing 151.101.2.219:80
+2025-04-20 22:52:09,715 - INFO - VLESS 37.27.31.235:8880 - Connected (0.89s)
+2025-04-20 22:52:09,718 - INFO - Testing 63.141.128.163:443
+2025-04-20 22:52:10,523 - INFO - VLESS 5.199.173.186:8880 - Connected (2.12s)
+2025-04-20 22:52:10,526 - INFO - Testing 219.79.166.214:20550
+2025-04-20 22:52:10,650 - INFO - VLESS 5.199.173.186:8880 - Connected (2.22s)
+2025-04-20 22:52:10,654 - INFO - Testing 63.141.128.163:443
+2025-04-20 22:52:12,245 - INFO - VLESS 103.160.204.36:2087 - Connected (0.26s)
+2025-04-20 22:52:12,249 - INFO - Testing 151.101.2.219:80
+2025-04-20 22:52:12,687 - INFO - VLESS 103.160.204.36:2087 - Connected (0.68s)
+2025-04-20 22:52:12,690 - INFO - Testing 172.66.168.209:443
+2025-04-20 22:52:22,061 - ERROR - VLESS germany.khoreshtsabzi.ir:1773 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:52:22,065 - INFO - Testing 190.93.245.137:443
+2025-04-20 22:52:37,481 - ERROR - VLESS 88.216.187.57:8880 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:52:37,485 - INFO - Testing 219.79.166.214:20550
+2025-04-20 22:52:38,560 - ERROR - VLESS germany.khoreshtsabzi.ir:1773 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:52:38,563 - INFO - Testing 190.93.245.137:443
+2025-04-20 22:52:38,657 - INFO - VLESS 172.66.168.209:443 - Connected (0.42s)
+2025-04-20 22:52:38,661 - INFO - Testing 178.63.228.220:443
+2025-04-20 22:52:40,016 - ERROR - VLESS 151.101.2.219:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:52:40,019 - INFO - Testing 190.93.245.137:8880
+2025-04-20 22:52:41,738 - ERROR - VLESS 63.141.128.163:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:52:41,741 - INFO - Testing 152.42.237.244:443
+2025-04-20 22:52:42,674 - ERROR - VLESS 63.141.128.163:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:52:42,678 - INFO - Testing 84.32.25.106:8880
+2025-04-20 22:52:42,733 - ERROR - VLESS 151.101.2.219:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:52:42,736 - INFO - Testing 91.92.40.78:2070
+2025-04-20 22:52:43,038 - INFO - VLESS 172.66.168.209:443 - Connected (0.35s)
+2025-04-20 22:52:43,042 - INFO - Testing 94.131.108.195:53221
+2025-04-20 22:52:54,125 - ERROR - VLESS 190.93.245.137:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:52:54,129 - INFO - Testing 84.32.25.106:8880
+2025-04-20 22:53:10,020 - ERROR - VLESS 190.93.245.137:8880 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp3xkp_1aa.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:53:10,021 - INFO - Testing 94.131.108.195:53221
+2025-04-20 22:53:10,534 - ERROR - VLESS 219.79.166.214:20550 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:53:10,537 - INFO - Testing 152.42.237.244:443
+2025-04-20 22:53:10,621 - ERROR - VLESS 190.93.245.137:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:53:10,624 - INFO - Testing 91.92.40.78:2070
+2025-04-20 22:53:12,370 - ERROR - VLESS 178.63.228.220:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:53:12,373 - INFO - Testing 190.93.245.137:8880
+2025-04-20 22:53:13,113 - ERROR - VLESS 91.92.40.78:2070 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:53:13,117 - INFO - Testing 178.63.228.220:443
+2025-04-20 22:53:13,455 - INFO - VLESS 84.32.25.106:8880 - Connected (0.78s)
+2025-04-20 22:53:13,458 - INFO - Testing 157.173.127.227:443
+2025-04-20 22:53:16,576 - ERROR - VLESS 94.131.108.195:53221 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:53:16,580 - INFO - Testing 173.245.59.132:8080
+2025-04-20 22:53:24,902 - INFO - VLESS 84.32.25.106:8880 - Connected (0.77s)
+2025-04-20 22:53:24,906 - INFO - Testing 194.182.79.65:40359
+2025-04-20 22:53:37,506 - ERROR - VLESS 219.79.166.214:20550 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:53:37,510 - INFO - Testing 195.231.66.71:28125
+2025-04-20 22:53:40,750 - INFO - VLESS 94.131.108.195:53221 - Connected (0.73s)
+2025-04-20 22:53:40,754 - INFO - Testing 51.89.119.99:26528
+2025-04-20 22:53:40,991 - ERROR - VLESS 91.92.40.78:2070 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:53:40,994 - INFO - Testing 95.217.234.75:80
+2025-04-20 22:53:41,744 - ERROR - VLESS 152.42.237.244:443 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:53:41,748 - INFO - Testing 194.182.79.108:50513
+2025-04-20 22:53:42,374 - ERROR - VLESS 190.93.245.137:8880 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp10r2d6co.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:53:42,374 - INFO - Testing 194.182.79.65:40359
+2025-04-20 22:53:44,109 - ERROR - VLESS 157.173.127.227:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:53:44,112 - INFO - Testing 173.245.59.132:8080
+2025-04-20 22:53:46,581 - ERROR - VLESS 173.245.59.132:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp3dtc34ca.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:53:46,581 - INFO - Testing 95.217.234.75:80
+2025-04-20 22:53:46,829 - ERROR - VLESS 178.63.228.220:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:53:46,832 - INFO - Testing 95.217.234.75:80
+2025-04-20 22:53:55,428 - ERROR - VLESS 194.182.79.65:40359 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:53:55,431 - INFO - Testing 51.89.119.99:26528
+2025-04-20 22:54:07,989 - ERROR - VLESS 195.231.66.71:28125 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:54:07,992 - INFO - Testing 194.182.79.108:50513
+2025-04-20 22:54:10,546 - ERROR - VLESS 152.42.237.244:443 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:54:10,549 - INFO - Testing 95.164.10.184:4434
+2025-04-20 22:54:11,375 - ERROR - VLESS 95.217.234.75:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:54:11,378 - INFO - Testing 157.173.127.227:443
+2025-04-20 22:54:12,270 - ERROR - VLESS 194.182.79.108:50513 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:54:12,274 - INFO - Testing 195.231.66.71:28125
+2025-04-20 22:54:12,897 - ERROR - VLESS 194.182.79.65:40359 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:54:12,900 - INFO - Testing 95.164.10.184:4434
+2025-04-20 22:54:14,113 - ERROR - VLESS 173.245.59.132:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpwsfzh7yf.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:54:14,113 - INFO - Testing www.speedtest.net:2095
+2025-04-20 22:54:15,821 - ERROR - VLESS 51.89.119.99:26528 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:54:15,824 - INFO - Testing 104.16.209.110:443
+2025-04-20 22:54:16,941 - ERROR - VLESS 95.217.234.75:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:54:16,944 - INFO - Testing 162.159.1.33:443
+2025-04-20 22:54:17,195 - ERROR - VLESS 95.217.234.75:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:54:17,199 - INFO - Testing 65.109.221.64:23227
+2025-04-20 22:54:30,389 - ERROR - VLESS 51.89.119.99:26528 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:54:30,393 - INFO - Testing 104.21.73.239:443
+2025-04-20 22:54:38,521 - ERROR - VLESS 194.182.79.108:50513 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:54:38,524 - INFO - Testing 104.16.209.110:443
+2025-04-20 22:54:40,867 - ERROR - VLESS 95.164.10.184:4434 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:54:40,871 - INFO - Testing 104.16.148.244:2087
+2025-04-20 22:54:42,056 - ERROR - VLESS 157.173.127.227:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:54:42,060 - INFO - Testing 104.21.64.1:443
+2025-04-20 22:54:42,752 - ERROR - VLESS 195.231.66.71:28125 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:54:42,755 - INFO - Testing 104.21.73.239:443
+2025-04-20 22:54:43,219 - ERROR - VLESS 95.164.10.184:4434 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:54:43,223 - INFO - Testing 104.21.64.1:443
+2025-04-20 22:54:44,114 - ERROR - VLESS www.speedtest.net:2095 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp70img2bk.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:54:44,115 - INFO - Testing 65.109.221.64:23227
+2025-04-20 22:54:46,032 - INFO - VLESS 104.16.209.110:443 - Connected (0.21s)
+2025-04-20 22:54:46,036 - INFO - Testing 104.16.148.244:2087
+2025-04-20 22:54:47,123 - INFO - VLESS 162.159.1.33:443 - Connected (0.18s)
+2025-04-20 22:54:47,127 - INFO - Testing 162.159.1.33:443
+2025-04-20 22:55:00,599 - INFO - VLESS 104.21.73.239:443 - Connected (0.21s)
+2025-04-20 22:55:00,602 - INFO - Testing www.speedtest.net:8880
+2025-04-20 22:55:08,711 - INFO - VLESS 104.16.209.110:443 - Connected (0.19s)
+2025-04-20 22:55:08,715 - INFO - Testing www.speedtest.net:8880
+2025-04-20 22:55:11,069 - INFO - VLESS 104.16.148.244:2087 - Connected (0.20s)
+2025-04-20 22:55:11,072 - INFO - Testing 104.21.73.239:443
+2025-04-20 22:55:12,512 - INFO - VLESS 104.21.64.1:443 - Connected (0.45s)
+2025-04-20 22:55:12,515 - INFO - Testing 84.32.9.29:8880
+2025-04-20 22:55:12,959 - INFO - VLESS 104.21.73.239:443 - Connected (0.20s)
+2025-04-20 22:55:12,963 - INFO - Testing 84.32.9.42:8880
+2025-04-20 22:55:13,428 - INFO - VLESS 104.21.64.1:443 - Connected (0.21s)
+2025-04-20 22:55:13,432 - INFO - Testing 103.160.204.59:443
+2025-04-20 22:55:16,581 - INFO - VLESS 104.16.148.244:2087 - Connected (0.54s)
+2025-04-20 22:55:16,584 - INFO - Testing tgju.org:8080
+2025-04-20 22:55:17,232 - ERROR - VLESS 65.109.221.64:23227 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:55:17,235 - INFO - Testing 162.159.153.2:443
+2025-04-20 22:55:17,393 - INFO - VLESS 162.159.1.33:443 - Connected (0.27s)
+2025-04-20 22:55:17,397 - INFO - Testing 162.159.153.2:443
+2025-04-20 22:55:30,699 - ERROR - VLESS www.speedtest.net:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:55:30,703 - INFO - Testing 84.32.9.42:8880
+2025-04-20 22:55:38,744 - ERROR - VLESS www.speedtest.net:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:55:38,747 - INFO - Testing 84.32.9.29:8880
+2025-04-20 22:55:41,270 - INFO - VLESS 104.21.73.239:443 - Connected (0.20s)
+2025-04-20 22:55:41,273 - INFO - Testing tgju.org:8080
+2025-04-20 22:55:43,299 - INFO - VLESS 84.32.9.29:8880 - Connected (0.78s)
+2025-04-20 22:55:43,302 - INFO - Testing 104.21.73.239:443
+2025-04-20 22:55:43,665 - INFO - VLESS 103.160.204.59:443 - Connected (0.23s)
+2025-04-20 22:55:43,668 - INFO - Testing 103.160.204.59:443
+2025-04-20 22:55:43,717 - INFO - VLESS 84.32.9.42:8880 - Connected (0.75s)
+2025-04-20 22:55:43,721 - INFO - Testing 104.25.254.4:2087
+2025-04-20 22:55:44,145 - ERROR - VLESS 65.109.221.64:23227 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:55:44,148 - INFO - Testing 104.25.254.4:2087
+2025-04-20 22:55:47,258 - INFO - VLESS tgju.org:8080 - Connected (0.67s)
+2025-04-20 22:55:47,261 - INFO - Testing www.speedtest.net:80
+2025-04-20 22:55:47,473 - INFO - VLESS 162.159.153.2:443 - Connected (0.24s)
+2025-04-20 22:55:47,476 - INFO - Testing www.speedtest.net:443
+2025-04-20 22:55:47,789 - INFO - VLESS 162.159.153.2:443 - Connected (0.39s)
+2025-04-20 22:55:47,793 - INFO - Testing www.speedtest.net:80
+2025-04-20 22:56:01,479 - INFO - VLESS 84.32.9.42:8880 - Connected (0.78s)
+2025-04-20 22:56:01,483 - INFO - Testing irsrv6.teenten.top:40988
+2025-04-20 22:56:09,566 - INFO - VLESS 84.32.9.29:8880 - Connected (0.82s)
+2025-04-20 22:56:09,570 - INFO - Testing www.speedtest.net:443
+2025-04-20 22:56:11,779 - INFO - VLESS tgju.org:8080 - Connected (0.51s)
+2025-04-20 22:56:11,781 - INFO - Testing irsrv6.teenten.top:40988
+2025-04-20 22:56:13,481 - INFO - VLESS 104.21.73.239:443 - Connected (0.18s)
+2025-04-20 22:56:13,485 - INFO - Testing 185.135.9.83:8880
+2025-04-20 22:56:13,895 - INFO - VLESS 103.160.204.59:443 - Connected (0.23s)
+2025-04-20 22:56:13,898 - INFO - Testing 185.135.9.83:8880
+2025-04-20 22:56:14,024 - INFO - VLESS 104.25.254.4:2087 - Connected (0.30s)
+2025-04-20 22:56:14,028 - INFO - Testing 151.101.194.219:80
+2025-04-20 22:56:14,369 - INFO - VLESS 104.25.254.4:2087 - Connected (0.22s)
+2025-04-20 22:56:14,373 - INFO - Testing 209.97.160.19:443
+2025-04-20 22:56:17,819 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:56:17,823 - INFO - Testing 141.227.128.196:1991
+2025-04-20 22:56:18,297 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:56:18,301 - INFO - Testing 185.146.173.167:8880
+2025-04-20 22:56:19,559 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:56:19,563 - INFO - Testing 162.247.5.96:443
+2025-04-20 22:56:32,137 - ERROR - VLESS irsrv6.teenten.top:40988 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:56:32,141 - INFO - Testing 185.146.173.167:8880
+2025-04-20 22:56:41,649 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:56:41,653 - INFO - Testing 37.27.252.57:2025
+2025-04-20 22:56:42,441 - ERROR - VLESS irsrv6.teenten.top:40988 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:56:42,444 - INFO - Testing 190.93.245.137:443
+2025-04-20 22:56:44,043 - INFO - VLESS 185.135.9.83:8880 - Connected (0.56s)
+2025-04-20 22:56:44,046 - INFO - Testing 37.27.252.57:2025
+2025-04-20 22:56:44,342 - INFO - VLESS 185.135.9.83:8880 - Connected (0.44s)
+2025-04-20 22:56:44,346 - INFO - Testing 162.247.5.96:443
+2025-04-20 22:56:45,941 - INFO - VLESS 209.97.160.19:443 - Connected (1.57s)
+2025-04-20 22:56:45,944 - INFO - Testing 152.42.237.244:443
+2025-04-20 22:56:47,615 - ERROR - VLESS 151.101.194.219:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:56:47,619 - INFO - Testing 141.227.128.196:1210
+2025-04-20 22:56:47,824 - ERROR - VLESS 141.227.128.196:1991 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpkx0m5946.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:56:47,824 - INFO - Testing 190.93.245.137:443
+2025-04-20 22:56:48,479 - INFO - VLESS 185.146.173.167:8880 - Connected (0.18s)
+2025-04-20 22:56:48,483 - INFO - Testing 141.227.128.196:1991
+2025-04-20 22:56:53,160 - ERROR - VLESS 162.247.5.96:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:56:53,164 - INFO - Testing 152.42.237.244:443
+2025-04-20 22:57:02,314 - INFO - VLESS 185.146.173.167:8880 - Connected (0.17s)
+2025-04-20 22:57:02,318 - INFO - Testing 141.227.128.196:1210
+2025-04-20 22:57:11,653 - ERROR - VLESS 37.27.252.57:2025 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp8bd0ttxl.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:57:11,654 - INFO - Testing 151.101.194.219:80
+2025-04-20 22:57:14,047 - ERROR - VLESS 37.27.252.57:2025 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpvo8wn07r.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:57:14,048 - INFO - Testing 209.97.160.19:443
+2025-04-20 22:57:14,510 - ERROR - VLESS 190.93.245.137:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:57:14,513 - INFO - Testing 77.110.101.4:4810
+2025-04-20 22:57:17,935 - ERROR - VLESS 162.247.5.96:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:57:17,938 - INFO - Testing 104.16.187.41:443
+2025-04-20 22:57:18,483 - ERROR - VLESS 141.227.128.196:1991 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpv40ls1nf.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 22:57:18,484 - INFO - Testing 162.159.153.2:443
+2025-04-20 22:57:19,882 - ERROR - VLESS 190.93.245.137:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:57:19,885 - INFO - Testing 104.16.187.41:443
+2025-04-20 22:57:21,579 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:57:21,583 - INFO - Testing 77.110.101.4:4810
+2025-04-20 22:57:36,319 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:57:36,322 - INFO - Testing 162.159.153.2:443
+2025-04-20 22:57:44,844 - ERROR - VLESS 77.110.101.4:4810 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:57:44,847 - INFO - Testing 45.144.55.237:4810
+2025-04-20 22:57:45,078 - INFO - VLESS 209.97.160.19:443 - Connected (1.03s)
+2025-04-20 22:57:45,081 - INFO - Testing 104.19.57.197:443
+2025-04-20 22:57:45,255 - ERROR - VLESS 151.101.194.219:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:57:45,259 - INFO - Testing 91.107.131.168:443
+2025-04-20 22:57:45,959 - ERROR - VLESS 152.42.237.244:443 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:57:45,962 - INFO - Testing 104.18.20.20:443
+2025-04-20 22:57:48,117 - INFO - VLESS 104.16.187.41:443 - Connected (0.18s)
+2025-04-20 22:57:48,121 - INFO - Testing 104.18.20.20:443
+2025-04-20 22:57:48,680 - INFO - VLESS 162.159.153.2:443 - Connected (0.19s)
+2025-04-20 22:57:48,683 - INFO - Testing 151.101.64.155:80
+2025-04-20 22:57:50,093 - INFO - VLESS 104.16.187.41:443 - Connected (0.21s)
+2025-04-20 22:57:50,097 - INFO - Testing 151.101.64.155:80
+2025-04-20 22:57:51,914 - ERROR - VLESS 77.110.101.4:4810 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:57:51,918 - INFO - Testing 185.146.173.167:8880
+2025-04-20 22:57:53,197 - ERROR - VLESS 152.42.237.244:443 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:57:53,200 - INFO - Testing 185.146.173.167:8880
+2025-04-20 22:58:06,520 - INFO - VLESS 162.159.153.2:443 - Connected (0.20s)
+2025-04-20 22:58:06,524 - INFO - Testing 104.19.57.197:443
+2025-04-20 22:58:15,177 - ERROR - VLESS 45.144.55.237:4810 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:58:15,180 - INFO - Testing 91.107.131.168:443
+2025-04-20 22:58:16,159 - INFO - VLESS 91.107.131.168:443 - Connected (0.90s)
+2025-04-20 22:58:16,163 - INFO - Testing 45.144.55.237:4810
+2025-04-20 22:58:17,145 - ERROR - VLESS 104.19.57.197:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:58:17,148 - INFO - Testing 104.18.8.74:443
+2025-04-20 22:58:18,072 - ERROR - VLESS 104.18.20.20:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:58:18,076 - INFO - Testing 104.18.8.74:443
+2025-04-20 22:58:19,248 - ERROR - VLESS 151.101.64.155:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:58:19,251 - INFO - Testing 104.26.12.54:443
+2025-04-20 22:58:20,242 - ERROR - VLESS 104.18.20.20:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:58:20,246 - INFO - Testing ns1.cloudflare.com:443
+2025-04-20 22:58:20,676 - ERROR - VLESS 151.101.64.155:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:58:20,679 - INFO - Testing 104.21.73.239:443
+2025-04-20 22:58:22,106 - INFO - VLESS 185.146.173.167:8880 - Connected (0.19s)
+2025-04-20 22:58:22,108 - INFO - Testing ns1.cloudflare.com:443
+2025-04-20 22:58:23,380 - INFO - VLESS 185.146.173.167:8880 - Connected (0.18s)
+2025-04-20 22:58:23,384 - INFO - Testing 104.21.73.239:443
+2025-04-20 22:58:38,581 - ERROR - VLESS 104.19.57.197:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:58:38,584 - INFO - Testing 104.26.12.54:443
+2025-04-20 22:58:46,085 - INFO - VLESS 91.107.131.168:443 - Connected (0.90s)
+2025-04-20 22:58:46,089 - INFO - Testing 104.22.15.132:8443
+2025-04-20 22:58:46,491 - ERROR - VLESS 45.144.55.237:4810 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:58:46,495 - INFO - Testing 104.19.77.118:443
+2025-04-20 22:58:49,217 - ERROR - VLESS 104.18.8.74:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:58:49,220 - INFO - Testing 104.19.77.118:443
+2025-04-20 22:58:49,471 - INFO - VLESS 104.26.12.54:443 - Connected (0.22s)
+2025-04-20 22:58:49,475 - INFO - Testing pqh27v3.siteforipdirect.com:8880
+2025-04-20 22:58:50,142 - ERROR - VLESS 104.18.8.74:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:58:50,145 - INFO - Testing 104.22.15.132:8443
+2025-04-20 22:58:50,447 - INFO - VLESS ns1.cloudflare.com:443 - Connected (0.20s)
+2025-04-20 22:58:50,451 - INFO - Testing pqh27v3.siteforipdirect.com:8880
+2025-04-20 22:58:50,884 - INFO - VLESS 104.21.73.239:443 - Connected (0.20s)
+2025-04-20 22:58:50,888 - INFO - Testing 95.217.183.108:2087
+2025-04-20 22:58:52,294 - INFO - VLESS ns1.cloudflare.com:443 - Connected (0.19s)
+2025-04-20 22:58:52,298 - INFO - Testing 95.217.183.108:2087
+2025-04-20 22:58:53,555 - INFO - VLESS 104.21.73.239:443 - Connected (0.17s)
+2025-04-20 22:58:53,558 - INFO - Testing 84.32.9.13:8880
+2025-04-20 22:59:08,793 - INFO - VLESS 104.26.12.54:443 - Connected (0.21s)
+2025-04-20 22:59:08,796 - INFO - Testing 84.32.9.13:8880
+2025-04-20 22:59:16,386 - INFO - VLESS 104.22.15.132:8443 - Connected (0.30s)
+2025-04-20 22:59:16,389 - INFO - Testing 162.159.10.162:2087
+2025-04-20 22:59:16,693 - INFO - VLESS 104.19.77.118:443 - Connected (0.20s)
+2025-04-20 22:59:16,696 - INFO - Testing 162.159.10.162:2087
+2025-04-20 22:59:19,436 - INFO - VLESS 104.19.77.118:443 - Connected (0.21s)
+2025-04-20 22:59:19,439 - INFO - Testing 190.93.245.137:8880
+2025-04-20 22:59:20,342 - INFO - VLESS 104.22.15.132:8443 - Connected (0.20s)
+2025-04-20 22:59:20,346 - INFO - Testing 104.17.148.22:80
+2025-04-20 22:59:20,748 - INFO - VLESS pqh27v3.siteforipdirect.com:8880 - Connected (0.30s)
+2025-04-20 22:59:20,751 - INFO - Testing 104.21.73.98:8880
+2025-04-20 22:59:24,009 - INFO - VLESS pqh27v3.siteforipdirect.com:8880 - Connected (4.53s)
+2025-04-20 22:59:24,012 - INFO - Testing 165.232.37.139:1615
+2025-04-20 22:59:24,448 - INFO - VLESS 84.32.9.13:8880 - Connected (0.89s)
+2025-04-20 22:59:24,451 - INFO - Testing 178.63.228.220:443
+2025-04-20 22:59:39,639 - INFO - VLESS 84.32.9.13:8880 - Connected (0.84s)
+2025-04-20 22:59:39,642 - INFO - Testing 104.17.148.22:80
+2025-04-20 22:59:46,583 - INFO - VLESS 162.159.10.162:2087 - Connected (0.19s)
+2025-04-20 22:59:46,586 - INFO - Testing 165.232.37.139:1615
+2025-04-20 22:59:46,893 - INFO - VLESS 162.159.10.162:2087 - Connected (0.20s)
+2025-04-20 22:59:46,896 - INFO - Testing 178.63.228.220:443
+2025-04-20 22:59:49,440 - ERROR - VLESS 190.93.245.137:8880 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp6ix8avgd.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 22:59:49,441 - INFO - Testing 104.21.73.98:8880
+2025-04-20 22:59:50,851 - ERROR - VLESS 104.17.148.22:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:59:50,855 - INFO - Testing 190.93.245.137:8880
+2025-04-20 22:59:50,897 - ERROR - VLESS 95.217.183.108:2087 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:59:50,900 - INFO - Testing outshop.bestshop10.ir:26745
+2025-04-20 22:59:52,329 - ERROR - VLESS 95.217.183.108:2087 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 22:59:52,332 - INFO - Testing 141.227.128.196:1210
+2025-04-20 22:59:54,310 - ERROR - VLESS 165.232.37.139:1615 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:59:54,313 - INFO - Testing 37.156.46.65:6718
+2025-04-20 22:59:54,488 - ERROR - VLESS 104.21.73.98:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:59:54,492 - INFO - Testing 141.227.128.196:1210
+2025-04-20 22:59:58,165 - ERROR - VLESS 178.63.228.220:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 22:59:58,168 - INFO - Testing outshop.bestshop10.ir:26745
+2025-04-20 23:00:10,193 - ERROR - VLESS 104.17.148.22:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:00:10,197 - INFO - Testing 95.217.206.161:443
+2025-04-20 23:00:16,884 - ERROR - VLESS 165.232.37.139:1615 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:00:16,888 - INFO - Testing 95.217.206.161:443
+2025-04-20 23:00:20,604 - ERROR - VLESS 178.63.228.220:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:00:20,607 - INFO - Testing 37.156.46.65:6718
+2025-04-20 23:00:20,856 - ERROR - VLESS 190.93.245.137:8880 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmptz_mw546.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:00:20,856 - INFO - Testing join.unlimiteddev.fastly80-3.hosting-ip.com:80
+2025-04-20 23:00:22,501 - ERROR - VLESS 104.21.73.98:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:00:22,505 - INFO - Testing compare99.com:80
+2025-04-20 23:00:26,319 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:00:26,323 - INFO - Testing 151.101.194.133:443
+2025-04-20 23:00:28,492 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:00:28,496 - INFO - Testing huffingtonpost.es:80
+2025-04-20 23:00:38,375 - ERROR - VLESS 37.156.46.65:6718 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:00:38,379 - INFO - Testing www.speedtest.net:8880
+2025-04-20 23:00:41,254 - INFO - VLESS 95.217.206.161:443 - Connected (1.06s)
+2025-04-20 23:00:41,258 - INFO - Testing 91.92.40.78:2070
+2025-04-20 23:00:47,909 - INFO - VLESS 95.217.206.161:443 - Connected (1.02s)
+2025-04-20 23:00:47,913 - INFO - Testing website.amin-app.ir:8880
+2025-04-20 23:00:50,857 - ERROR - VLESS join.unlimiteddev.fastly80-3.hosting-ip.com:80 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpxhougt1q.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:00:50,858 - INFO - Testing 91.92.40.78:2070
+2025-04-20 23:00:50,923 - ERROR - VLESS outshop.bestshop10.ir:26745 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:00:50,926 - INFO - Testing huffingtonpost.es:80
+2025-04-20 23:00:53,077 - ERROR - VLESS compare99.com:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:00:53,080 - INFO - Testing huffingtonpost.es:80
+2025-04-20 23:00:53,154 - ERROR - VLESS 37.156.46.65:6718 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:00:53,158 - INFO - Testing 151.101.194.133:443
+2025-04-20 23:00:58,201 - ERROR - VLESS outshop.bestshop10.ir:26745 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:00:58,204 - INFO - Testing www.speedtest.net:8880
+2025-04-20 23:00:58,363 - ERROR - VLESS 151.101.194.133:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:00:58,367 - INFO - Testing website.amin-app.ir:8880
+2025-04-20 23:00:58,496 - ERROR - VLESS huffingtonpost.es:80 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpg4tt6qp5.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:00:58,497 - INFO - Testing expressvpn_420.fast.hosting-ip.com:80
+2025-04-20 23:01:08,932 - ERROR - VLESS www.speedtest.net:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:01:08,936 - INFO - Testing compare99.com:80
+2025-04-20 23:01:11,626 - ERROR - VLESS 91.92.40.78:2070 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:01:11,630 - INFO - Testing expressvpn_420.fast.hosting-ip.com:80
+2025-04-20 23:01:18,591 - ERROR - VLESS website.amin-app.ir:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:01:18,594 - INFO - Testing huffingtonpost.es:80
+2025-04-20 23:01:20,927 - ERROR - VLESS huffingtonpost.es:80 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmprojzxxzb.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:01:20,928 - INFO - Testing join.unlimiteddev.fastly80-3.hosting-ip.com:80
+2025-04-20 23:01:21,226 - ERROR - VLESS 91.92.40.78:2070 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:01:21,229 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:01:23,081 - ERROR - VLESS huffingtonpost.es:80 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp7oux560o.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:01:23,082 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:01:25,199 - ERROR - VLESS 151.101.194.133:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:01:25,202 - INFO - Testing 162.159.8.55:443
+2025-04-20 23:01:28,696 - ERROR - VLESS www.speedtest.net:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:01:28,700 - INFO - Testing 162.159.10.162:2086
+2025-04-20 23:01:28,841 - ERROR - VLESS website.amin-app.ir:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:01:28,845 - INFO - Testing 94.131.108.195:53221
+2025-04-20 23:01:28,989 - ERROR - VLESS expressvpn_420.fast.hosting-ip.com:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:01:28,992 - INFO - Testing 104.18.41.190:8443
+2025-04-20 23:01:39,519 - ERROR - VLESS compare99.com:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:01:39,522 - INFO - Testing 94.131.108.195:53221
+2025-04-20 23:01:42,101 - ERROR - VLESS expressvpn_420.fast.hosting-ip.com:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:01:42,105 - INFO - Testing 162.159.8.55:443
+2025-04-20 23:01:48,595 - ERROR - VLESS huffingtonpost.es:80 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpggbdgcnc.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:01:48,595 - INFO - Testing 162.159.10.162:2086
+2025-04-20 23:01:50,929 - ERROR - VLESS join.unlimiteddev.fastly80-3.hosting-ip.com:80 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmps6hp1dxc.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:01:50,929 - INFO - Testing 37.27.31.235:8880
+2025-04-20 23:01:51,230 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpx0l8jjuj.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:01:51,231 - INFO - Testing 37.27.31.235:8880
+2025-04-20 23:01:53,083 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp7ig87cnr.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:01:53,083 - INFO - Testing 104.18.41.190:8443
+2025-04-20 23:01:55,429 - INFO - VLESS 162.159.8.55:443 - Connected (0.23s)
+2025-04-20 23:01:55,433 - INFO - Testing germany.khoreshtsabzi.ir:1773
+2025-04-20 23:01:59,535 - INFO - VLESS 104.18.41.190:8443 - Connected (0.54s)
+2025-04-20 23:01:59,539 - INFO - Testing germany.khoreshtsabzi.ir:1773
+2025-04-20 23:01:59,558 - INFO - VLESS 94.131.108.195:53221 - Connected (0.71s)
+2025-04-20 23:01:59,561 - INFO - Testing 162.159.1.33:443
+2025-04-20 23:02:00,116 - INFO - VLESS 162.159.10.162:2086 - Connected (1.42s)
+2025-04-20 23:02:00,119 - INFO - Testing 84.32.9.44:8880
+2025-04-20 23:02:10,219 - INFO - VLESS 94.131.108.195:53221 - Connected (0.70s)
+2025-04-20 23:02:10,222 - INFO - Testing 84.32.9.44:8880
+2025-04-20 23:02:12,305 - INFO - VLESS 162.159.8.55:443 - Connected (0.20s)
+2025-04-20 23:02:12,308 - INFO - Testing 162.159.1.33:443
+2025-04-20 23:02:18,793 - INFO - VLESS 162.159.10.162:2086 - Connected (0.20s)
+2025-04-20 23:02:18,796 - INFO - Testing 5.180.46.9:8880
+2025-04-20 23:02:22,001 - INFO - VLESS 37.27.31.235:8880 - Connected (1.07s)
+2025-04-20 23:02:22,005 - INFO - Testing 162.55.36.107:577
+2025-04-20 23:02:22,115 - INFO - VLESS 37.27.31.235:8880 - Connected (0.88s)
+2025-04-20 23:02:22,118 - INFO - Testing 5.180.46.9:8880
+2025-04-20 23:02:23,284 - INFO - VLESS 104.18.41.190:8443 - Connected (0.20s)
+2025-04-20 23:02:23,288 - INFO - Testing 162.55.36.107:577
+2025-04-20 23:02:29,763 - INFO - VLESS 162.159.1.33:443 - Connected (0.20s)
+2025-04-20 23:02:29,767 - INFO - Testing 151.234.162.87:443
+2025-04-20 23:02:30,910 - INFO - VLESS 84.32.9.44:8880 - Connected (0.79s)
+2025-04-20 23:02:30,914 - INFO - Testing 151.234.162.87:443
+2025-04-20 23:02:41,033 - INFO - VLESS 84.32.9.44:8880 - Connected (0.81s)
+2025-04-20 23:02:41,037 - INFO - Testing 104.22.56.77:443
+2025-04-20 23:02:42,495 - INFO - VLESS 162.159.1.33:443 - Connected (0.19s)
+2025-04-20 23:02:42,499 - INFO - Testing germany.khoreshtsabzi.ir:1773
+2025-04-20 23:02:52,344 - ERROR - VLESS 162.55.36.107:577 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:02:52,348 - INFO - Testing 104.21.64.1:443
+2025-04-20 23:02:53,629 - ERROR - VLESS 162.55.36.107:577 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:02:53,632 - INFO - Testing 104.22.56.77:443
+2025-04-20 23:02:55,465 - ERROR - VLESS germany.khoreshtsabzi.ir:1773 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:02:55,469 - INFO - Testing 104.21.64.1:443
+2025-04-20 23:02:59,572 - ERROR - VLESS germany.khoreshtsabzi.ir:1773 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:02:59,575 - INFO - Testing germany.khoreshtsabzi.ir:1773
+2025-04-20 23:03:03,011 - ERROR - VLESS 151.234.162.87:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:03:03,014 - INFO - Testing 51.89.119.99:11045
+2025-04-20 23:03:04,154 - ERROR - VLESS 151.234.162.87:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:03:04,157 - INFO - Testing 104.17.148.22:2086
+2025-04-20 23:03:11,256 - INFO - VLESS 104.22.56.77:443 - Connected (0.22s)
+2025-04-20 23:03:11,259 - INFO - Testing 140.245.32.103:13533
+2025-04-20 23:03:18,829 - ERROR - VLESS 5.180.46.9:8880 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:03:18,832 - INFO - Testing 104.19.54.50:8080
+2025-04-20 23:03:22,127 - ERROR - VLESS 5.180.46.9:8880 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:03:22,130 - INFO - Testing 156.226.174.40:40002
+2025-04-20 23:03:22,584 - INFO - VLESS 104.21.64.1:443 - Connected (0.24s)
+2025-04-20 23:03:22,588 - INFO - Testing 104.19.54.50:8080
+2025-04-20 23:03:23,818 - INFO - VLESS 104.22.56.77:443 - Connected (0.19s)
+2025-04-20 23:03:23,822 - INFO - Testing 185.146.173.16:2052
+2025-04-20 23:03:25,671 - INFO - VLESS 104.21.64.1:443 - Connected (0.20s)
+2025-04-20 23:03:25,675 - INFO - Testing 162.159.20.34:2095
+2025-04-20 23:03:34,158 - ERROR - VLESS 104.17.148.22:2086 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpvte3r1b1.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:03:34,159 - INFO - Testing 51.89.119.99:11045
+2025-04-20 23:03:37,915 - ERROR - VLESS 51.89.119.99:11045 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:03:37,919 - INFO - Testing 140.245.32.103:13533
+2025-04-20 23:03:42,532 - ERROR - VLESS germany.khoreshtsabzi.ir:1773 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:03:42,535 - INFO - Testing 185.146.173.16:2052
+2025-04-20 23:03:49,421 - ERROR - VLESS 104.19.54.50:8080 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:03:49,424 - INFO - Testing 156.226.174.40:40002
+2025-04-20 23:03:52,813 - INFO - VLESS 156.226.174.40:40002 - Connected (0.68s)
+2025-04-20 23:03:52,816 - INFO - Testing 54.37.7.94:443
+2025-04-20 23:03:53,227 - ERROR - VLESS 104.19.54.50:8080 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:03:53,231 - INFO - Testing 54.37.7.94:443
+2025-04-20 23:03:53,988 - INFO - VLESS 185.146.173.16:2052 - Connected (0.17s)
+2025-04-20 23:03:53,991 - INFO - Testing 78.47.195.49:20878
+2025-04-20 23:03:55,858 - INFO - VLESS 162.159.20.34:2095 - Connected (0.18s)
+2025-04-20 23:03:55,861 - INFO - Testing 162.159.20.34:2095
+2025-04-20 23:03:59,608 - ERROR - VLESS germany.khoreshtsabzi.ir:1773 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:03:59,611 - INFO - Testing 78.47.195.49:20878
+2025-04-20 23:04:09,070 - ERROR - VLESS 51.89.119.99:11045 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:04:09,073 - INFO - Testing 104.17.148.22:2086
+2025-04-20 23:04:11,292 - ERROR - VLESS 140.245.32.103:13533 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:04:11,295 - INFO - Testing 91.107.254.145:3033
+2025-04-20 23:04:12,709 - INFO - VLESS 185.146.173.16:2052 - Connected (0.17s)
+2025-04-20 23:04:12,713 - INFO - Testing 173.245.59.132:8080
+2025-04-20 23:04:23,272 - ERROR - VLESS 54.37.7.94:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:04:23,276 - INFO - Testing 88.216.187.28:8880
+2025-04-20 23:04:23,640 - ERROR - VLESS 54.37.7.94:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:04:23,643 - INFO - Testing 63.141.128.209:443
+2025-04-20 23:04:24,542 - INFO - VLESS 78.47.195.49:20878 - Connected (0.55s)
+2025-04-20 23:04:24,545 - INFO - Testing 63.141.128.209:443
+2025-04-20 23:04:24,726 - INFO - VLESS 156.226.174.40:40002 - Connected (5.30s)
+2025-04-20 23:04:24,729 - INFO - Testing 88.216.187.28:8880
+2025-04-20 23:04:26,037 - INFO - VLESS 162.159.20.34:2095 - Connected (0.17s)
+2025-04-20 23:04:26,041 - INFO - Testing 173.245.59.132:8080
+2025-04-20 23:04:30,162 - INFO - VLESS 78.47.195.49:20878 - Connected (0.55s)
+2025-04-20 23:04:30,165 - INFO - Testing 91.107.254.145:3033
+2025-04-20 23:04:37,942 - ERROR - VLESS 140.245.32.103:13533 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:04:37,945 - INFO - Testing 194.182.79.144:49200
+2025-04-20 23:04:39,074 - ERROR - VLESS 104.17.148.22:2086 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpy8y8_b6x.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:04:39,074 - INFO - Testing 194.182.79.108:50513
+2025-04-20 23:04:41,654 - ERROR - VLESS 91.107.254.145:3033 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:04:41,658 - INFO - Testing 194.182.79.49:15450
+2025-04-20 23:04:42,714 - ERROR - VLESS 173.245.59.132:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpvzb94egd.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:04:42,714 - INFO - Testing 194.182.79.108:50513
+2025-04-20 23:04:53,978 - INFO - VLESS 88.216.187.28:8880 - Connected (0.70s)
+2025-04-20 23:04:53,982 - INFO - Testing 194.182.79.49:15450
+2025-04-20 23:04:55,467 - INFO - VLESS 88.216.187.28:8880 - Connected (0.74s)
+2025-04-20 23:04:55,471 - INFO - Testing 194.182.79.144:49200
+2025-04-20 23:04:55,668 - ERROR - VLESS 63.141.128.209:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:04:55,672 - INFO - Testing free3.mahbi.top:37712
+2025-04-20 23:04:56,041 - ERROR - VLESS 173.245.59.132:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpu5ybtp_d.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:04:56,042 - INFO - Testing www.speedtest.net:2095
+2025-04-20 23:04:56,566 - ERROR - VLESS 63.141.128.209:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:04:56,569 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:05:00,522 - ERROR - VLESS 91.107.254.145:3033 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:05:00,525 - INFO - Testing mliferobot.darkping.net:3497
+2025-04-20 23:05:09,594 - ERROR - VLESS 194.182.79.108:50513 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:05:09,598 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:05:13,237 - ERROR - VLESS 194.182.79.108:50513 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:05:13,240 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:05:26,043 - ERROR - VLESS www.speedtest.net:2095 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpqa66pksq.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:05:26,044 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:05:26,570 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpfp62e93p.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:05:26,571 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:05:28,150 - ERROR - VLESS free3.mahbi.top:37712 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:05:28,153 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:05:37,962 - ERROR - VLESS 194.182.79.144:49200 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:05:37,966 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:05:39,598 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp30po6jgn.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:05:39,599 - INFO - Testing www.speedtest.net:2095
+2025-04-20 23:05:41,691 - ERROR - VLESS 194.182.79.49:15450 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:05:41,694 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:05:43,241 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmprf2cw6ik.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:05:43,242 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:05:53,997 - ERROR - VLESS 194.182.79.49:15450 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:05:54,001 - INFO - Testing www.zula.ir:443
+2025-04-20 23:05:55,477 - ERROR - VLESS 194.182.79.144:49200 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:05:55,480 - INFO - Testing www.zula.ir:443
+2025-04-20 23:05:56,044 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp18_511yq.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:05:56,045 - INFO - Testing mliferobot.darkping.net:3497
+2025-04-20 23:05:56,571 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp8k75y4st.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:05:56,572 - INFO - Testing free3.mahbi.top:37712
+2025-04-20 23:05:58,154 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp8pok6l89.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:05:58,155 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:06:00,558 - ERROR - VLESS mliferobot.darkping.net:3497 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:06:00,562 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:06:07,967 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp2hnt7id4.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:06:07,967 - INFO - Testing dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509
+2025-04-20 23:06:09,600 - ERROR - VLESS www.speedtest.net:2095 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpe49p_czi.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:06:09,600 - INFO - Testing 104.18.27.94:443
+2025-04-20 23:06:11,695 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmplyiymlor.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:06:11,696 - INFO - Testing 104.17.147.22:8443
+2025-04-20 23:06:13,242 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp2_3wd0ru.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:06:13,243 - INFO - Testing 104.24.222.73:443
+2025-04-20 23:06:24,001 - ERROR - VLESS www.zula.ir:443 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp_e_umlfx.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:06:24,002 - INFO - Testing 104.17.147.22:8443
+2025-04-20 23:06:25,481 - ERROR - VLESS www.zula.ir:443 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp8hezk1mp.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:06:25,482 - INFO - Testing 104.24.222.73:443
+2025-04-20 23:06:28,155 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpgrlyvavb.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:06:28,156 - INFO - Testing 104.18.27.94:443
+2025-04-20 23:06:28,618 - ERROR - VLESS free3.mahbi.top:37712 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:06:28,622 - INFO - Testing 84.32.9.29:8880
+2025-04-20 23:06:30,562 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpk2vdbag_.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:06:30,563 - INFO - Testing 84.32.9.29:8880
+2025-04-20 23:06:37,968 - ERROR - VLESS dns1.kljasdfiaosdf92-asdjlkfhasdf-asdfa.li:509 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp66gq8wqw.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+)
+2025-04-20 23:06:37,969 - INFO - Testing ip.sitwe.ir:8080
+2025-04-20 23:06:39,829 - INFO - VLESS 104.18.27.94:443 - Connected (0.23s)
+2025-04-20 23:06:39,833 - INFO - Testing 104.19.222.79:2096
+2025-04-20 23:06:42,482 - INFO - VLESS 104.17.147.22:8443 - Connected (0.79s)
+2025-04-20 23:06:42,486 - INFO - Testing www.speedtest.net:80
+2025-04-20 23:06:43,706 - INFO - VLESS 104.24.222.73:443 - Connected (0.46s)
+2025-04-20 23:06:43,710 - INFO - Testing www.speedtest.net:80
+2025-04-20 23:06:54,799 - INFO - VLESS 104.17.147.22:8443 - Connected (0.80s)
+2025-04-20 23:06:54,803 - INFO - Testing 104.19.222.79:2096
+2025-04-20 23:06:55,678 - INFO - VLESS 104.24.222.73:443 - Connected (0.20s)
+2025-04-20 23:06:55,681 - INFO - Testing 104.18.41.190:8443
+2025-04-20 23:06:56,069 - ERROR - VLESS mliferobot.darkping.net:3497 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:06:56,072 - INFO - Testing ip.sitwe.ir:8080
+2025-04-20 23:06:58,690 - INFO - VLESS 104.18.27.94:443 - Connected (0.53s)
+2025-04-20 23:06:58,694 - INFO - Testing 104.18.41.190:8443
+2025-04-20 23:06:59,425 - INFO - VLESS 84.32.9.29:8880 - Connected (0.80s)
+2025-04-20 23:06:59,428 - INFO - Testing 45.131.4.194:80
+2025-04-20 23:07:01,376 - INFO - VLESS 84.32.9.29:8880 - Connected (0.81s)
+2025-04-20 23:07:01,380 - INFO - Testing 45.131.4.194:80
+2025-04-20 23:07:07,969 - ERROR - VLESS ip.sitwe.ir:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp8h49rdb0.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:07:07,970 - INFO - Testing 162.159.10.162:2086
+2025-04-20 23:07:10,882 - INFO - VLESS 104.19.222.79:2096 - Connected (1.05s)
+2025-04-20 23:07:10,886 - INFO - Testing 185.133.35.242:443
+2025-04-20 23:07:14,577 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:07:14,581 - INFO - Testing 185.133.35.242:443
+2025-04-20 23:07:15,807 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:07:15,810 - INFO - Testing 162.159.10.162:2086
+2025-04-20 23:07:25,966 - INFO - VLESS 104.18.41.190:8443 - Connected (0.28s)
+2025-04-20 23:07:25,970 - INFO - Testing 104.17.148.22:8880
+2025-04-20 23:07:26,073 - ERROR - VLESS ip.sitwe.ir:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpjeve2hf1.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:07:26,073 - INFO - Testing 104.17.147.22:443
+2025-04-20 23:07:26,303 - INFO - VLESS 104.19.222.79:2096 - Connected (1.50s)
+2025-04-20 23:07:26,307 - INFO - Testing 104.17.148.22:8880
+2025-04-20 23:07:29,027 - INFO - VLESS 104.18.41.190:8443 - Connected (0.33s)
+2025-04-20 23:07:29,031 - INFO - Testing 80.71.157.175:4434
+2025-04-20 23:07:29,993 - INFO - VLESS 45.131.4.194:80 - Connected (0.56s)
+2025-04-20 23:07:29,997 - INFO - Testing 80.71.157.175:4434
+2025-04-20 23:07:31,548 - INFO - VLESS 45.131.4.194:80 - Connected (0.17s)
+2025-04-20 23:07:31,551 - INFO - Testing 104.17.147.22:2052
+2025-04-20 23:07:38,147 - INFO - VLESS 162.159.10.162:2086 - Connected (0.18s)
+2025-04-20 23:07:38,151 - INFO - Testing 93.183.89.244:4434
+2025-04-20 23:07:43,026 - ERROR - VLESS 185.133.35.242:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:07:43,030 - INFO - Testing 172.67.209.117:8080
+2025-04-20 23:07:46,411 - INFO - VLESS 162.159.10.162:2086 - Connected (0.60s)
+2025-04-20 23:07:46,415 - INFO - Testing 104.17.147.22:2052
+2025-04-20 23:07:46,720 - ERROR - VLESS 185.133.35.242:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:07:46,724 - INFO - Testing 104.17.147.22:443
+2025-04-20 23:07:55,998 - ERROR - VLESS 104.17.148.22:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:07:56,002 - INFO - Testing 93.183.89.244:4434
+2025-04-20 23:07:56,329 - ERROR - VLESS 104.17.148.22:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:07:56,332 - INFO - Testing 172.67.209.117:8080
+2025-04-20 23:07:58,150 - ERROR - VLESS 104.17.147.22:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:07:58,153 - INFO - Testing 104.18.20.20:443
+2025-04-20 23:07:59,358 - ERROR - VLESS 80.71.157.175:4434 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:07:59,361 - INFO - Testing 104.19.77.118:443
+2025-04-20 23:08:00,324 - ERROR - VLESS 80.71.157.175:4434 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:08:00,328 - INFO - Testing 104.16.59.70:80
+2025-04-20 23:08:02,258 - INFO - VLESS 104.17.147.22:2052 - Connected (0.71s)
+2025-04-20 23:08:02,261 - INFO - Testing 104.21.56.44:80
+2025-04-20 23:08:08,461 - ERROR - VLESS 93.183.89.244:4434 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:08:08,464 - INFO - Testing 141.227.128.196:1210
+2025-04-20 23:08:13,031 - ERROR - VLESS 172.67.209.117:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpea52z863.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:08:13,031 - INFO - Testing 104.16.59.70:80
+2025-04-20 23:08:17,218 - INFO - VLESS 104.17.147.22:2052 - Connected (0.80s)
+2025-04-20 23:08:17,222 - INFO - Testing 37.27.31.235:8880
+2025-04-20 23:08:18,775 - ERROR - VLESS 104.17.147.22:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:08:18,779 - INFO - Testing 104.18.20.20:443
+2025-04-20 23:08:26,311 - ERROR - VLESS 93.183.89.244:4434 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:08:26,315 - INFO - Testing 172.67.22.56:443
+2025-04-20 23:08:26,333 - ERROR - VLESS 172.67.209.117:8080 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp6zzkwind.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:08:26,333 - INFO - Testing 141.227.128.196:1210
+2025-04-20 23:08:28,409 - ERROR - VLESS 104.18.20.20:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:08:28,413 - INFO - Testing 172.67.22.56:443
+2025-04-20 23:08:29,562 - INFO - VLESS 104.19.77.118:443 - Connected (0.20s)
+2025-04-20 23:08:29,565 - INFO - Testing 104.21.56.44:80
+2025-04-20 23:08:32,431 - INFO - VLESS 104.21.56.44:80 - Connected (0.17s)
+2025-04-20 23:08:32,434 - INFO - Testing 104.19.77.118:443
+2025-04-20 23:08:32,457 - ERROR - VLESS 104.16.59.70:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:08:32,461 - INFO - Testing 37.27.31.235:8880
+2025-04-20 23:08:42,448 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:08:42,451 - INFO - Testing 162.159.10.162:2086
+2025-04-20 23:08:45,094 - ERROR - VLESS 104.16.59.70:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:08:45,097 - INFO - Testing www.speedtest.net:443
+2025-04-20 23:08:48,284 - INFO - VLESS 37.27.31.235:8880 - Connected (1.06s)
+2025-04-20 23:08:48,288 - INFO - Testing 104.17.128.1:2096
+2025-04-20 23:08:49,025 - ERROR - VLESS 104.18.20.20:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:08:49,028 - INFO - Testing 198.62.62.4:443
+2025-04-20 23:08:58,380 - ERROR - VLESS 172.67.22.56:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:08:58,383 - INFO - Testing 37.27.31.235:8880
+2025-04-20 23:08:59,743 - INFO - VLESS 104.21.56.44:80 - Connected (0.18s)
+2025-04-20 23:08:59,746 - INFO - Testing 104.25.254.4:2087
+2025-04-20 23:09:00,373 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:09:00,376 - INFO - Testing 194.182.79.5:39596
+2025-04-20 23:09:00,481 - ERROR - VLESS 172.67.22.56:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:09:00,485 - INFO - Testing 104.25.254.4:2087
+2025-04-20 23:09:02,626 - INFO - VLESS 104.19.77.118:443 - Connected (0.19s)
+2025-04-20 23:09:02,630 - INFO - Testing 198.62.62.4:443
+2025-04-20 23:09:03,329 - INFO - VLESS 37.27.31.235:8880 - Connected (0.87s)
+2025-04-20 23:09:03,333 - INFO - Testing 84.32.9.31:8880
+2025-04-20 23:09:12,628 - INFO - VLESS 162.159.10.162:2086 - Connected (0.18s)
+2025-04-20 23:09:12,632 - INFO - Testing 84.32.25.106:8880
+2025-04-20 23:09:17,177 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:09:17,180 - INFO - Testing www.speedtest.net:443
+2025-04-20 23:09:18,567 - INFO - VLESS 104.17.128.1:2096 - Connected (0.28s)
+2025-04-20 23:09:18,571 - INFO - Testing 194.182.79.65:40359
+2025-04-20 23:09:19,253 - INFO - VLESS 198.62.62.4:443 - Connected (0.22s)
+2025-04-20 23:09:19,257 - INFO - Testing 84.32.9.31:8880
+2025-04-20 23:09:29,409 - INFO - VLESS 37.27.31.235:8880 - Connected (1.03s)
+2025-04-20 23:09:29,413 - INFO - Testing 165.232.37.139:1615
+2025-04-20 23:09:30,011 - INFO - VLESS 104.25.254.4:2087 - Connected (0.26s)
+2025-04-20 23:09:30,015 - INFO - Testing 104.16.190.41:443
+2025-04-20 23:09:30,700 - INFO - VLESS 104.25.254.4:2087 - Connected (0.21s)
+2025-04-20 23:09:30,703 - INFO - Testing 104.17.128.1:2096
+2025-04-20 23:09:32,907 - INFO - VLESS 198.62.62.4:443 - Connected (0.28s)
+2025-04-20 23:09:32,911 - INFO - Testing 194.182.79.65:40359
+2025-04-20 23:09:34,275 - INFO - VLESS 84.32.9.31:8880 - Connected (0.94s)
+2025-04-20 23:09:34,278 - INFO - Testing 37.27.31.235:8880
+2025-04-20 23:09:43,417 - INFO - VLESS 84.32.25.106:8880 - Connected (0.78s)
+2025-04-20 23:09:43,420 - INFO - Testing 194.182.79.5:39596
+2025-04-20 23:09:49,093 - ERROR - VLESS 194.182.79.65:40359 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:09:49,096 - INFO - Testing 84.32.25.106:8880
+2025-04-20 23:09:49,249 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:09:49,253 - INFO - Testing 162.159.10.162:2086
+2025-04-20 23:09:50,037 - INFO - VLESS 84.32.9.31:8880 - Connected (0.78s)
+2025-04-20 23:09:50,041 - INFO - Testing 165.232.37.139:1615
+2025-04-20 23:09:59,728 - ERROR - VLESS 165.232.37.139:1615 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:09:59,731 - INFO - Testing 104.16.190.41:443
+2025-04-20 23:10:00,208 - INFO - VLESS 104.16.190.41:443 - Connected (0.19s)
+2025-04-20 23:10:00,211 - INFO - Testing 54.37.7.94:443
+2025-04-20 23:10:00,392 - ERROR - VLESS 194.182.79.5:39596 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:10:00,396 - INFO - Testing team.infinitespd.com:2096
+2025-04-20 23:10:00,958 - INFO - VLESS 104.17.128.1:2096 - Connected (0.25s)
+2025-04-20 23:10:00,962 - INFO - Testing 91.92.40.78:2070
+2025-04-20 23:10:03,433 - ERROR - VLESS 194.182.79.65:40359 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:10:03,436 - INFO - Testing 91.92.40.78:2070
+2025-04-20 23:10:05,608 - INFO - VLESS 37.27.31.235:8880 - Connected (1.33s)
+2025-04-20 23:10:05,612 - INFO - Testing team.infinitespd.com:2096
+2025-04-20 23:10:19,476 - INFO - VLESS 162.159.10.162:2086 - Connected (0.22s)
+2025-04-20 23:10:19,479 - INFO - Testing 93.177.65.104:51688
+2025-04-20 23:10:19,867 - INFO - VLESS 84.32.25.106:8880 - Connected (0.77s)
+2025-04-20 23:10:19,870 - INFO - Testing 93.177.65.104:51688
+2025-04-20 23:10:20,341 - ERROR - VLESS 165.232.37.139:1615 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:10:20,345 - INFO - Testing 84.32.9.44:8880
+2025-04-20 23:10:29,934 - INFO - VLESS 104.16.190.41:443 - Connected (0.20s)
+2025-04-20 23:10:29,938 - INFO - Testing 84.32.9.44:8880
+2025-04-20 23:10:30,589 - ERROR - VLESS 54.37.7.94:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:10:30,593 - INFO - Testing 85.133.206.197:14000
+2025-04-20 23:10:31,331 - ERROR - VLESS 91.92.40.78:2070 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:10:31,334 - INFO - Testing www.speedtest.net:443
+2025-04-20 23:10:32,520 - ERROR - VLESS team.infinitespd.com:2096 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:10:32,524 - INFO - Testing ak111.amirak.cfd:25679
+2025-04-20 23:10:33,804 - ERROR - VLESS 91.92.40.78:2070 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:10:33,807 - INFO - Testing www.speedtest.net:2095
+2025-04-20 23:10:37,681 - ERROR - VLESS team.infinitespd.com:2096 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:10:37,684 - INFO - Testing 62.60.144.201:8080
+2025-04-20 23:10:43,430 - ERROR - VLESS 194.182.79.5:39596 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:10:43,434 - INFO - Testing www.speedtest.net:443
+2025-04-20 23:10:49,833 - ERROR - VLESS 93.177.65.104:51688 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:10:49,837 - INFO - Testing 104.26.12.54:443
+2025-04-20 23:10:50,225 - ERROR - VLESS 93.177.65.104:51688 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:10:50,228 - INFO - Testing 45.131.5.99:80
+2025-04-20 23:10:51,574 - ERROR - VLESS 84.32.9.44:8880 - Failed (HTTP 502)
+2025-04-20 23:10:51,577 - INFO - Testing 188.114.97.3:80
+2025-04-20 23:11:00,709 - INFO - VLESS 84.32.9.44:8880 - Connected (0.77s)
+2025-04-20 23:11:00,712 - INFO - Testing 85.133.206.197:14000
+2025-04-20 23:11:03,251 - ERROR - VLESS ak111.amirak.cfd:25679 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:11:03,254 - INFO - Testing 62.60.144.201:8080
+2025-04-20 23:11:03,459 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:11:03,463 - INFO - Testing 104.26.12.54:443
+2025-04-20 23:11:03,808 - ERROR - VLESS www.speedtest.net:2095 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpdqk2_wpb.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:11:03,809 - INFO - Testing www.speedtest.net:443
+2025-04-20 23:11:15,508 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:11:15,511 - INFO - Testing ak111.amirak.cfd:25679
+2025-04-20 23:11:20,037 - INFO - VLESS 104.26.12.54:443 - Connected (0.20s)
+2025-04-20 23:11:20,040 - INFO - Testing www.speedtest.net:2095
+2025-04-20 23:11:22,284 - ERROR - VLESS 45.131.5.99:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:11:22,288 - INFO - Testing 188.114.97.3:80
+2025-04-20 23:11:23,647 - ERROR - VLESS 188.114.97.3:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:11:23,651 - INFO - Testing 45.131.5.99:80
+2025-04-20 23:11:30,615 - ERROR - VLESS 85.133.206.197:14000 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:11:30,618 - INFO - Testing www.speedtest.net:443
+2025-04-20 23:11:33,662 - INFO - VLESS 104.26.12.54:443 - Connected (0.20s)
+2025-04-20 23:11:33,665 - INFO - Testing www.speedtest.net:443
+2025-04-20 23:11:35,885 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:11:35,889 - INFO - Testing www.speedtest.net:80
+2025-04-20 23:11:37,694 - ERROR - VLESS 62.60.144.201:8080 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:11:37,697 - INFO - Testing www.speedtest.net:80
+2025-04-20 23:11:46,076 - ERROR - VLESS ak111.amirak.cfd:25679 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:11:46,080 - INFO - Testing 104.17.148.22:2052
+2025-04-20 23:11:50,041 - ERROR - VLESS www.speedtest.net:2095 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpmcz8g860.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:11:50,041 - INFO - Testing www.speedtest.net:80
+2025-04-20 23:11:54,341 - ERROR - VLESS 188.114.97.3:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:11:54,344 - INFO - Testing www.speedtest.net:80
+2025-04-20 23:11:55,724 - ERROR - VLESS 45.131.5.99:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:11:55,728 - INFO - Testing 104.17.148.22:2052
+2025-04-20 23:12:00,720 - ERROR - VLESS 85.133.206.197:14000 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:12:00,723 - INFO - Testing www.speedtest.net:80
+2025-04-20 23:12:02,744 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:02,748 - INFO - Testing www.speedtest.net:443
+2025-04-20 23:12:03,272 - ERROR - VLESS 62.60.144.201:8080 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:12:03,276 - INFO - Testing 104.17.148.22:2052
+2025-04-20 23:12:05,780 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:05,783 - INFO - Testing 185.133.35.242:443
+2025-04-20 23:12:07,967 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:07,970 - INFO - Testing 185.133.35.242:443
+2025-04-20 23:12:09,758 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:09,762 - INFO - Testing 140.245.61.219:13533
+2025-04-20 23:12:16,086 - ERROR - VLESS 104.17.148.22:2052 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:16,090 - INFO - Testing 104.26.12.54:443
+2025-04-20 23:12:22,104 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:22,108 - INFO - Testing 140.245.61.219:13533
+2025-04-20 23:12:26,427 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:26,431 - INFO - Testing 104.18.14.19:8080
+2025-04-20 23:12:27,790 - ERROR - VLESS 104.17.148.22:2052 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:27,794 - INFO - Testing 77.110.101.4:4810
+2025-04-20 23:12:32,791 - ERROR - VLESS www.speedtest.net:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:32,794 - INFO - Testing 193.228.169.131:2081
+2025-04-20 23:12:34,825 - ERROR - VLESS www.speedtest.net:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:34,829 - INFO - Testing 162.19.212.19:19356
+2025-04-20 23:12:35,321 - ERROR - VLESS 104.17.148.22:2052 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:35,325 - INFO - Testing 104.26.12.54:443
+2025-04-20 23:12:37,951 - ERROR - VLESS 185.133.35.242:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:37,955 - INFO - Testing 198.62.62.4:443
+2025-04-20 23:12:40,109 - ERROR - VLESS 185.133.35.242:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:40,113 - INFO - Testing 104.16.213.195:443
+2025-04-20 23:12:46,293 - INFO - VLESS 104.26.12.54:443 - Connected (0.20s)
+2025-04-20 23:12:46,297 - INFO - Testing 104.18.14.19:8080
+2025-04-20 23:12:58,122 - ERROR - VLESS 77.110.101.4:4810 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:58,126 - INFO - Testing 162.19.212.19:19356
+2025-04-20 23:12:58,536 - ERROR - VLESS 104.18.14.19:8080 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:12:58,540 - INFO - Testing 198.62.62.4:443
+2025-04-20 23:13:05,320 - ERROR - VLESS 162.19.212.19:19356 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:13:05,324 - INFO - Testing 77.110.101.4:4810
+2025-04-20 23:13:05,537 - INFO - VLESS 104.26.12.54:443 - Connected (0.21s)
+2025-04-20 23:13:05,541 - INFO - Testing 104.16.213.195:443
+2025-04-20 23:13:05,818 - ERROR - VLESS 193.228.169.131:2081 - Failed (Request failed: ('Connection aborted.', BadStatusLine('\x12\x04\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x80\x00\x04\x00\x01\x00\x00\x00\x05\x00ÿÿÿ\x00\x00\x04\x08\x00\x00\x00\x00\x00\x7fÿ\x00\x00\x00\x00\x08\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01')))
+2025-04-20 23:13:05,821 - INFO - Testing 193.228.169.131:2081
+2025-04-20 23:13:08,189 - INFO - VLESS 198.62.62.4:443 - Connected (0.23s)
+2025-04-20 23:13:08,193 - INFO - Testing 194.182.79.5:39596
+2025-04-20 23:13:09,785 - ERROR - VLESS 140.245.61.219:13533 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:13:09,788 - INFO - Testing hajlab.ucdavis.edu:80
+2025-04-20 23:13:12,336 - ERROR - VLESS 104.16.213.195:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:13:12,339 - INFO - Testing hajlab.ucdavis.edu:80
+2025-04-20 23:13:18,375 - ERROR - VLESS 104.18.14.19:8080 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:13:18,378 - INFO - Testing 167.235.238.146:8880
+2025-04-20 23:13:22,116 - ERROR - VLESS 140.245.61.219:13533 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:13:22,120 - INFO - Testing 194.182.79.5:39596
+2025-04-20 23:13:28,612 - ERROR - VLESS 162.19.212.19:19356 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:13:28,616 - INFO - Testing 84.32.9.20:8880
+2025-04-20 23:13:28,791 - INFO - VLESS 198.62.62.4:443 - Connected (0.25s)
+2025-04-20 23:13:28,795 - INFO - Testing 84.32.9.20:8880
+2025-04-20 23:13:35,653 - ERROR - VLESS 77.110.101.4:4810 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:13:35,656 - INFO - Testing 83.217.9.122:443
+2025-04-20 23:13:37,735 - ERROR - VLESS 104.16.213.195:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:13:37,739 - INFO - Testing 83.217.9.122:443
+2025-04-20 23:13:38,853 - ERROR - VLESS 193.228.169.131:2081 - Failed (Request failed: ('Connection aborted.', BadStatusLine('\x12\x04\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x80\x00\x04\x00\x01\x00\x00\x00\x05\x00ÿÿÿ\x00\x00\x04\x08\x00\x00\x00\x00\x00\x7fÿ\x00\x00\x00\x00\x08\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01')))
+2025-04-20 23:13:38,856 - INFO - Testing 167.235.238.146:8880
+2025-04-20 23:13:41,538 - ERROR - VLESS hajlab.ucdavis.edu:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:13:41,542 - INFO - Testing 45.131.4.194:80
+2025-04-20 23:13:43,961 - ERROR - VLESS hajlab.ucdavis.edu:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:13:43,964 - INFO - Testing t2.vixsm.ir:4814
+2025-04-20 23:13:49,075 - INFO - VLESS 167.235.238.146:8880 - Connected (0.70s)
+2025-04-20 23:13:49,078 - INFO - Testing 104.17.252.217:443
+2025-04-20 23:13:59,616 - INFO - VLESS 84.32.9.20:8880 - Connected (1.00s)
+2025-04-20 23:13:59,619 - INFO - Testing 151.101.64.155:80
+2025-04-20 23:13:59,733 - INFO - VLESS 84.32.9.20:8880 - Connected (0.94s)
+2025-04-20 23:13:59,737 - INFO - Testing 104.21.96.1:8443
+2025-04-20 23:14:06,091 - ERROR - VLESS 83.217.9.122:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:14:06,094 - INFO - Testing 151.101.64.155:80
+2025-04-20 23:14:08,164 - ERROR - VLESS 83.217.9.122:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:14:08,167 - INFO - Testing 104.17.147.22:2086
+2025-04-20 23:14:08,226 - ERROR - VLESS 194.182.79.5:39596 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:14:08,229 - INFO - Testing t2.vixsm.ir:4814
+2025-04-20 23:14:09,554 - INFO - VLESS 167.235.238.146:8880 - Connected (0.70s)
+2025-04-20 23:14:09,557 - INFO - Testing www.speedtest.net:8880
+2025-04-20 23:14:11,991 - INFO - VLESS 45.131.4.194:80 - Connected (0.45s)
+2025-04-20 23:14:11,994 - INFO - Testing 104.21.96.1:8443
+2025-04-20 23:14:14,643 - ERROR - VLESS t2.vixsm.ir:4814 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:14:14,647 - INFO - Testing 104.17.147.22:2086
+2025-04-20 23:14:21,471 - ERROR - VLESS 104.17.252.217:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:14:21,475 - INFO - Testing 45.131.4.194:80
+2025-04-20 23:14:22,128 - ERROR - VLESS 194.182.79.5:39596 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:14:22,131 - INFO - Testing www.speedtest.net:8880
+2025-04-20 23:14:29,770 - ERROR - VLESS 104.21.96.1:8443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:14:29,773 - INFO - Testing 104.17.252.217:443
+2025-04-20 23:14:30,176 - ERROR - VLESS 151.101.64.155:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:14:30,179 - INFO - Testing 193.228.169.131:2081
+2025-04-20 23:14:36,635 - ERROR - VLESS 151.101.64.155:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:14:36,639 - INFO - Testing 193.228.169.131:2081
+2025-04-20 23:14:38,168 - ERROR - VLESS 104.17.147.22:2086 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpyt_9qm8q.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:14:38,169 - INFO - Testing 104.18.8.74:443
+2025-04-20 23:14:38,907 - ERROR - VLESS t2.vixsm.ir:4814 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:14:38,911 - INFO - Testing mw12.asalemaraghe.ir:443
+2025-04-20 23:14:39,588 - ERROR - VLESS www.speedtest.net:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:14:39,591 - INFO - Testing mw12.asalemaraghe.ir:443
+2025-04-20 23:14:42,017 - ERROR - VLESS 104.21.96.1:8443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:14:42,020 - INFO - Testing 104.18.8.74:443
+2025-04-20 23:14:44,647 - ERROR - VLESS 104.17.147.22:2086 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp004snng6.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:14:44,648 - INFO - Testing 84.32.9.52:8880
+2025-04-20 23:14:51,653 - INFO - VLESS 45.131.4.194:80 - Connected (0.18s)
+2025-04-20 23:14:51,657 - INFO - Testing 84.32.9.52:8880
+2025-04-20 23:14:52,178 - ERROR - VLESS www.speedtest.net:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:14:52,181 - INFO - Testing mw5.asalemaraghe.ir:443
+2025-04-20 23:15:02,094 - ERROR - VLESS 104.17.252.217:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:15:02,097 - INFO - Testing mw5.asalemaraghe.ir:443
+2025-04-20 23:15:03,218 - ERROR - VLESS 193.228.169.131:2081 - Failed (Request failed: ('Connection aborted.', BadStatusLine('\x12\x04\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x80\x00\x04\x00\x01\x00\x00\x00\x05\x00ÿÿÿ\x00\x00\x04\x08\x00\x00\x00\x00\x00\x7fÿ\x00\x00\x00\x00\x08\x07\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01')))
+2025-04-20 23:15:03,221 - INFO - Testing 178.239.155.42:51377
+2025-04-20 23:15:08,660 - ERROR - VLESS 193.228.169.131:2081 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:15:08,664 - INFO - Testing 178.239.155.42:51377
+2025-04-20 23:15:10,231 - ERROR - VLESS 104.18.8.74:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:15:10,235 - INFO - Testing s24.namasha.top:57725
+2025-04-20 23:15:13,975 - ERROR - VLESS mw12.asalemaraghe.ir:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:15:13,978 - INFO - Testing s24.namasha.top:57725
+2025-04-20 23:15:14,081 - ERROR - VLESS mw12.asalemaraghe.ir:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:15:14,084 - ERROR - VLESS 104.18.8.74:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:15:14,085 - INFO - Testing 88.218.95.8:8880
+2025-04-20 23:15:14,087 - INFO - Testing 88.218.95.8:8880
+2025-04-20 23:15:16,041 - INFO - VLESS 84.32.9.52:8880 - Connected (1.39s)
+2025-04-20 23:15:16,045 - INFO - Testing 88.218.95.8:8880
+2025-04-20 23:15:22,421 - INFO - VLESS 84.32.9.52:8880 - Connected (0.76s)
+2025-04-20 23:15:22,424 - INFO - Testing 188.114.99.48:443
+2025-04-20 23:15:27,389 - ERROR - VLESS mw5.asalemaraghe.ir:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:15:27,393 - INFO - Testing 63.141.128.209:443
+2025-04-20 23:15:34,032 - ERROR - VLESS 178.239.155.42:51377 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:15:34,035 - INFO - Testing 141.227.128.196:1210
+2025-04-20 23:15:36,577 - ERROR - VLESS mw5.asalemaraghe.ir:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:15:36,580 - INFO - Testing 15.204.187.172:443
+2025-04-20 23:15:39,480 - ERROR - VLESS 178.239.155.42:51377 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:15:39,483 - INFO - Testing 15.204.187.172:443
+2025-04-20 23:15:54,492 - ERROR - VLESS 188.114.99.48:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:15:54,495 - INFO - Testing 104.17.148.22:8880
+2025-04-20 23:15:59,413 - ERROR - VLESS 63.141.128.209:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:15:59,416 - INFO - Testing 104.17.148.22:8880
+2025-04-20 23:16:06,581 - ERROR - VLESS 15.204.187.172:443 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpw4s4ig_3.json] > infra/conf/v4: Config: unknown transport protocol: raw
+)
+2025-04-20 23:16:06,582 - INFO - Testing 188.114.99.48:443
+2025-04-20 23:16:08,020 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:16:08,023 - INFO - Testing 162.159.192.115:443
+2025-04-20 23:16:09,484 - ERROR - VLESS 15.204.187.172:443 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpjnlgc0tx.json] > infra/conf/v4: Config: unknown transport protocol: raw
+)
+2025-04-20 23:16:09,485 - INFO - Testing 104.17.148.22:2082
+2025-04-20 23:16:10,268 - ERROR - VLESS s24.namasha.top:57725 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:16:10,271 - INFO - Testing 104.18.8.74:443
+2025-04-20 23:16:13,997 - ERROR - VLESS s24.namasha.top:57725 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:16:14,001 - INFO - Testing 63.141.128.209:443
+2025-04-20 23:16:14,097 - ERROR - VLESS 88.218.95.8:8880 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:16:14,097 - ERROR - VLESS 88.218.95.8:8880 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:16:14,100 - INFO - Testing 104.17.148.22:2082
+2025-04-20 23:16:14,100 - INFO - Testing 141.227.128.196:1210
+2025-04-20 23:16:16,078 - ERROR - VLESS 88.218.95.8:8880 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:16:16,081 - INFO - Testing 162.159.192.115:443
+2025-04-20 23:16:24,525 - ERROR - VLESS 104.17.148.22:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:16:24,529 - INFO - Testing 104.18.8.74:443
+2025-04-20 23:16:29,467 - ERROR - VLESS 104.17.148.22:8880 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:16:29,471 - INFO - Testing 188.245.215.44:442
+2025-04-20 23:16:38,639 - ERROR - VLESS 188.114.99.48:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:16:38,643 - INFO - Testing 162.19.212.19:19356
+2025-04-20 23:16:40,011 - ERROR - VLESS 104.17.148.22:2082 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:16:40,015 - INFO - Testing 212.183.88.136:443
+2025-04-20 23:16:40,083 - ERROR - VLESS 162.159.192.115:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:16:40,087 - INFO - Testing 212.183.88.136:443
+2025-04-20 23:16:42,334 - ERROR - VLESS 104.18.8.74:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:16:42,338 - INFO - Testing 109.61.18.48:20318
+2025-04-20 23:16:44,519 - ERROR - VLESS 104.17.148.22:2082 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:16:44,523 - INFO - Testing 188.245.215.44:442
+2025-04-20 23:16:46,023 - ERROR - VLESS 63.141.128.209:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:16:46,027 - INFO - Testing 109.61.18.48:20318
+2025-04-20 23:16:48,125 - ERROR - VLESS 141.227.128.196:1210 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:16:48,129 - INFO - Testing 162.19.212.19:19356
+2025-04-20 23:16:48,131 - ERROR - VLESS 162.159.192.115:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:16:48,134 - INFO - Testing 2.irancella.blog:2089
+2025-04-20 23:16:56,584 - ERROR - VLESS 104.18.8.74:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:16:56,587 - INFO - Testing 162.159.1.33:443
+2025-04-20 23:17:02,284 - ERROR - VLESS 188.245.215.44:442 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:17:02,289 - INFO - Testing 91.107.219.8:443
+2025-04-20 23:17:08,643 - ERROR - VLESS 162.19.212.19:19356 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpl90ky6x0.json] > infra/conf/v4: VLESS users: please add/set "encryption":"none" for every user
+)
+2025-04-20 23:17:08,644 - INFO - Testing zmaoz.faculty.ucdavis.edu:80
+2025-04-20 23:17:12,036 - ERROR - VLESS 212.183.88.136:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:17:12,040 - INFO - Testing 104.19.77.118:443
+2025-04-20 23:17:12,115 - ERROR - VLESS 212.183.88.136:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:17:12,118 - INFO - Testing www.speedtest.net:2095
+2025-04-20 23:17:17,338 - ERROR - VLESS 188.245.215.44:442 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:17:17,342 - INFO - Testing 5.180.46.9:8880
+2025-04-20 23:17:18,129 - ERROR - VLESS 162.19.212.19:19356 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmppoxqyrvp.json] > infra/conf/v4: VLESS users: please add/set "encryption":"none" for every user
+)
+2025-04-20 23:17:18,130 - INFO - Testing mw12.asalemaraghe.ir:443
+2025-04-20 23:17:20,358 - ERROR - VLESS 2.irancella.blog:2089 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:17:27,289 - INFO - VLESS 162.159.1.33:443 - Connected (0.70s)
+2025-04-20 23:17:32,619 - ERROR - VLESS 91.107.219.8:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:17:39,141 - ERROR - VLESS zmaoz.faculty.ucdavis.edu:80 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:17:42,119 - ERROR - VLESS www.speedtest.net:2095 - Failed (Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpjaqtlyss.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+)
+2025-04-20 23:17:42,352 - ERROR - VLESS 109.61.18.48:20318 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:17:42,640 - INFO - VLESS 104.19.77.118:443 - Connected (0.60s)
+2025-04-20 23:17:46,057 - ERROR - VLESS 109.61.18.48:20318 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:17:53,265 - ERROR - VLESS mw12.asalemaraghe.ir:443 - Failed (Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))
+2025-04-20 23:18:17,375 - ERROR - VLESS 5.180.46.9:8880 - Failed (Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30))
+2025-04-20 23:18:17,379 - INFO - Testing completed
