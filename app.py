@@ -30,7 +30,7 @@ TESTED_SERVERS_DIR = os.path.join(BASE_DIR, 'Tested_Servers')
 LOGS_DIR = os.path.join(BASE_DIR, 'logs')
 
 TEST_LINK = "http://httpbin.org/get"
-MAX_THREADS = 10
+MAX_THREADS = 20
 START_PORT = 10000
 REQUEST_TIMEOUT = 30
 PROCESS_START_WAIT = 15
