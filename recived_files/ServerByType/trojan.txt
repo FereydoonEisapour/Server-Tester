@@ -1,3 +1,5 @@
+trojan://telegram-id-privatevpns@18.175.98.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPNCountry
+trojan://telegram-id-privatevpns@18.175.98.26:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%9F%A3%F0%9F%94%A5%2B%DA%A9%D8%A7%D9%86%D8%A7%D9%84%2B%D8%B3%D8%B1%D9%88%D8%B1%2B%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%2B%40FarahVPN
 trojan://tXsBdKfoe9@104.25.145.188:2083?type=ws&path=%2FVPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM%3Fed%3D2048&host=cpuhot.boshrachoice.ir.&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=cpuhot.boshrachoice.ir.#VPNTV20%F0%9F%9F%A2
 trojan://tXsBdKfoe9@104.25.145.188:2083?type=ws&path=%2FVPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM.VPNTV20%40_TOP.COM%3Fed%3D2048&host=cpuhot.boshrachoice.ir.&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=cpuhot.boshrachoice.ir.#VPNTV20%F0%9F%9F%A2حجم
 trojan://da26f571-6dea-42ff-a90e-8d72561f92b0@45.146.232.172:43499?security=tls&headerType=none&type=tcp&sni=q08m.vgraxiw73s.hasyaf.cn#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%A6%40Outline_irمخصوص
@@ -496,5 +498,3 @@ trojan://Aimer@154.197.64.67:443?allowInsecure=0&sni=epcco.ambercc.filegear-sg.m
 trojan://67aae342-d53e-4b33-bc16-b70e15b30dc4@aafrtpfxr.hkl02i9zjfegelp.5xfsur8v62.gosdk.xyz:27102?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@108.128.9.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 trojan://Aimer@154.197.64.67:443?allowInsecure=0&sni=epcco.ambercc.filegear-sg.me#[🇺🇸]t.me/ConfigsHub
-trojan://telegram-id-directvpn@108.128.9.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@108.128.9.74:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHubᴄᴏᴜɴᴛʀʏ:
