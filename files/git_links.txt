@@ -1,1 +1,1 @@
-https://github.com/FereydoonEisapour/Tel-Proxy-Harvester/tree/main/Servers/Protocols
+https://github.com/FereydoonEisapour/Tel-Proxy-Harvester/tree/main/Servers/Channels
