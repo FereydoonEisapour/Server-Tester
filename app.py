@@ -205,52 +205,68 @@ def extract_links_from_file(input_file):
         all_extracted_links = set()
         
         for link in links:
-            filename = link.split('/')[-1]
-            logging.info(f"Extracting from {filename}")
+            if "github.com" not in link:
+                continue
+                
+            logging.info(f"Processing repository: {link}")
             
             try:
-                response = requests.get(link, headers={'User-Agent': 'Mozilla/5.0'})
-                response.raise_for_status()
-                soup = BeautifulSoup(response.text, "html.parser")
-                extracted_links = [a.get("href") for a in soup.find_all("a", href=True)]
+               
+                api_url = link.replace("github.com", "api.github.com/repos")
+                if "/tree/" in api_url:
+                    api_url = api_url.split("/tree/")[0]
                 
-                raw_links = []
-                for extracted_link in extracted_links:
-                    if extracted_link.startswith("http"):
-                        raw_links.append(extracted_link)
-                    elif extracted_link.startswith("/"):
-                        raw_links.append(requests.compat.urljoin(link, extracted_link))
                 
-                filtered_links = [
-                    rl.strip() for rl in raw_links 
-                    if rl.strip().startswith(("https://github.com/", "https://raw.githubusercontent.com/")) and 
-                    rl.strip().endswith((".txt", ".yaml", ".yml", ".md", ".conf"))
+                headers = {
+                    'User-Agent': 'Mozilla/5.0',
+                    'Accept': 'application/vnd.github.v3+json'
+                }
+                
+               
+                possible_paths = [
+                    "/contents/Servers/Protocols",
+                    "/contents/Protocols",
+                    "/contents/configs",
+                    "/contents"
                 ]
                 
-                raw_github_links = []
-                for fl in filtered_links:
-                    if "/blob/" in fl:
-                        parts = fl.split("/")
-                        username = parts[3]
-                        repo = parts[4]
-                        branch = parts[6]
-                        path_to_file = "/".join(parts[7:])
-                        raw_link = f"https://raw.githubusercontent.com/{username}/{repo}/{branch}/{path_to_file}"
-                        raw_github_links.append(raw_link)
-                    else:
-                        raw_github_links.append(fl)
+                for path in possible_paths:
+                    try:
+                        response = requests.get(api_url + path, headers=headers)
+                        if response.status_code == 200:
+                            contents = response.json()
+                            for item in contents:
+                                if item['type'] == 'file' and item['name'].endswith(('.txt', '.yaml', '.yml', '.conf')):
+                                    raw_url = item['download_url']
+                                    all_extracted_links.add(raw_url)
+                            break
+                    except requests.exceptions.RequestException:
+                        continue
                 
-                all_extracted_links.update(raw_github_links)
+                
+                if not all_extracted_links:
+                    response = requests.get(link, headers={'User-Agent': 'Mozilla/5.0'})
+                    response.raise_for_status()
+                    soup = BeautifulSoup(response.text, "html.parser")
+                    
+                   
+                    for a in soup.select('a[href*="/blob/"]'):
+                        href = a['href']
+                        if href.endswith(('.txt', '.yaml', '.yml', '.conf')):
+                            raw_url = "https://raw.githubusercontent.com" + href.replace("/blob/", "/")
+                            all_extracted_links.add(raw_url)
+                
             except requests.exceptions.RequestException as e:
-                logging.error(f"Failed to process {filename}: {str(e)}")
+                logging.error(f"Failed to process {link}: {str(e)}")
         
         output_file = os.path.join(RECIVED_DIR, 'filtered_links.txt')
         with open(output_file, "w", encoding="utf-8") as file:
-            for link in all_extracted_links:
+            for link in sorted(all_extracted_links):
                 file.write(link + "\n")
         
         logging.info(f"Extracted {len(all_extracted_links)} links")
         return all_extracted_links
+        
     except Exception as e:
         logging.error(f"Extraction failed: {str(e)}")
         return []
