@@ -30480,3 +30480,535 @@
 [2025-05-03 18:20:37] VLESS 84.32.25.7:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
 [2025-05-03 18:20:56] VLESS 84.32.9.42:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
 [2025-05-03 18:20:58] VLESS 188.245.154.13:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:54:47] UNKNOWN N/A:N/A - FAILURE - Parse error: Invalid UUID format
+[2025-05-04 00:55:02] VLESS 188.114.96.147:443 - SUCCESS - 0.07s
+[2025-05-04 00:55:02] VLESS 188.114.98.82:443 - SUCCESS - 0.07s
+[2025-05-04 00:55:02] VLESS 103.116.7.54:80 - SUCCESS - 0.14s
+[2025-05-04 00:55:02] VLESS 45.131.209.84:80 - SUCCESS - 0.17s
+[2025-05-04 00:55:03] VLESS info19721.novintecc.org:21332 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:03] VLESS info19721.novintecc.org:21332 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:03] VLESS 188.42.88.45:443 - SUCCESS - 0.57s
+[2025-05-04 00:55:03] VLESS 172.67.73.163:8080 - SUCCESS - 0.69s
+[2025-05-04 00:55:03] VLESS 45.131.210.103:80 - SUCCESS - 1.03s
+[2025-05-04 00:55:03] VLESS 213.210.55.72:24443 - SUCCESS - 1.06s
+[2025-05-04 00:55:03] VLESS 47.76.218.163:443 - SUCCESS - 1.37s
+[2025-05-04 00:55:04] VLESS 162.159.152.80:443 - SUCCESS - 1.62s
+[2025-05-04 00:55:04] VLESS 104.26.12.54:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:04] VLESS 104.26.12.54:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:04] VLESS 104.22.15.132:8443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:04] VLESS 104.22.15.132:8443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:04] VLESS 104.26.12.54:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:18] VLESS 156.253.234.12:443 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp488gcehe.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:55:18] VLESS 92.243.74.180:8443 - SUCCESS - 0.66s
+[2025-05-04 00:55:18] VLESS 188-245-64-17.cprapid.com:8443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:18] VLESS 37.156.46.65:48740 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:18] VLESS zula.ir:2053 - SUCCESS - 0.91s
+[2025-05-04 00:55:18] VLESS 37.27.31.235:8880 - SUCCESS - 0.56s
+[2025-05-04 00:55:19] VLESS 156.253.234.12:443 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpz2s3y06p.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:55:19] VLESS 172.67.204.84:443 - SUCCESS - 0.06s
+[2025-05-04 00:55:20] VLESS 37.156.46.65:48740 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:20] VLESS 37.27.31.235:8880 - SUCCESS - 0.55s
+[2025-05-04 00:55:21] VLESS 119.203.202.120:12226 - SUCCESS - 3.86s
+[2025-05-04 00:55:21] VLESS 138.128.224.100:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:22] VLESS 188-245-64-17.cprapid.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:23] VLESS 188-245-64-17.cprapid.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:23] VLESS o.soskom.ir:26528 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:25] VLESS nl07.abvpn.ru:443 - SUCCESS - 8.25s
+[2025-05-04 00:55:32] VLESS 85.133.206.197:14000 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:55:32] VLESS 85.133.206.197:14000 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:55:33] VLESS 172.67.204.84:443 - SUCCESS - 0.05s
+[2025-05-04 00:55:33] VLESS 188-245-64-17.cprapid.com:8443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:34] VLESS 95.217.206.161:443 - SUCCESS - 0.75s
+[2025-05-04 00:55:34] VLESS 95.217.206.161:443 - SUCCESS - 0.61s
+[2025-05-04 00:55:34] VLESS 37.27.31.235:8880 - SUCCESS - 0.56s
+[2025-05-04 00:55:34] VLESS 37.27.31.235:8880 - SUCCESS - 0.85s
+[2025-05-04 00:55:36] VLESS 188.114.97.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:37] VLESS 104.17.147.22:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:37] VLESS blog.applegrafix.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:39] VLESS g2.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:39] VLESS blog.applegrafix.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:39] VLESS o.soskom.ir:26528 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:40] VLESS ns4.cloudflare.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:40] VLESS 104.21.32.1:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:43] VLESS 104.21.56.44:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:48] VLESS 185.79.158.141:8088 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:55:48] VLESS www.speedtest.net:80 - SUCCESS - 0.16s
+[2025-05-04 00:55:49] VLESS 185.79.158.141:8088 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:55:49] VLESS jquery.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:50] VLESS blog.applegrafix.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:51] VLESS jquery.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:51] VLESS careers.pypl.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:51] VLESS careers.pypl.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:51] VLESS blog.applegrafix.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:54] VLESS g2.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:54] VLESS 104.21.96.1:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:54] VLESS 104.21.32.1:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:56] VLESS 104.17.147.22:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:56] VLESS 104.21.96.1:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:56] VLESS 188.114.97.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:57] VLESS 104.21.56.44:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:55:58] VLESS ns4.cloudflare.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:00] VLESS 104.17.147.22:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:04] VLESS www.speedtest.net:80 - SUCCESS - 0.08s
+[2025-05-04 00:56:04] VLESS 104.17.147.22:2096 - SUCCESS - 0.66s
+[2025-05-04 00:56:05] VLESS 104.17.147.22:2096 - SUCCESS - 0.68s
+[2025-05-04 00:56:05] VLESS 104.17.147.22:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:07] VLESS 104.22.56.77:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:07] VLESS add2.wfft.ir:80 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:56:08] VLESS 104.22.56.77:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:08] VLESS 104.22.56.77:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:08] VLESS 104.22.56.77:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:09] VLESS www.speedtest.net:2096 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpmz0xao7v.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+
+[2025-05-04 00:56:09] VLESS www.speedtest.net:2096 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpu3o_m53w.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+
+[2025-05-04 00:56:13] VLESS 151.101.66.228:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:13] VLESS 162.159.20.34:2095 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:13] VLESS 162.159.10.162:2086 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:14] VLESS 104.16.148.244:2087 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:18] VLESS add2.wfft.ir:80 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:56:20] VLESS 172.67.212.82:443 - SUCCESS - 0.44s
+[2025-05-04 00:56:21] VLESS 162.159.20.34:2095 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:21] VLESS 172.67.212.82:443 - SUCCESS - 0.69s
+[2025-05-04 00:56:22] VLESS 172.67.212.82:443 - SUCCESS - 0.19s
+[2025-05-04 00:56:24] VLESS 162.159.20.34:2095 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:25] VLESS 172.67.212.82:443 - SUCCESS - 0.24s
+[2025-05-04 00:56:25] VLESS 162.159.20.34:2095 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:25] VLESS 162.159.10.162:2086 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:26] VLESS 104.18.41.190:8443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:28] VLESS 151.101.66.228:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:30] VLESS 104.16.209.110:443 - SUCCESS - 0.61s
+[2025-05-04 00:56:30] VLESS 104.18.41.190:8443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:30] VLESS 104.16.148.244:2087 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:33] VLESS 94.131.9.172:8880 - SUCCESS - 0.49s
+[2025-05-04 00:56:36] VLESS tabrizm137.owner.pages.dev:80 - SUCCESS - 0.06s
+[2025-05-04 00:56:36] VLESS 78.47.141.72:8880 - SUCCESS - 0.50s
+[2025-05-04 00:56:36] VLESS 104.16.209.110:443 - SUCCESS - 0.07s
+[2025-05-04 00:56:36] VLESS 91.199.27.133:8585 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:56:39] VLESS 91.199.27.133:8585 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:56:40] VLESS 172.67.204.84:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:40] VLESS 78.47.141.72:8880 - SUCCESS - 0.68s
+[2025-05-04 00:56:40] VLESS 37.27.31.235:8880 - SUCCESS - 0.56s
+[2025-05-04 00:56:41] VLESS 94.131.9.172:8880 - SUCCESS - 0.48s
+[2025-05-04 00:56:41] VLESS 37.27.31.235:8880 - SUCCESS - 0.55s
+[2025-05-04 00:56:41] VLESS 185.85.241.196:32763 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:56:42] VLESS 81.31.250.218:43851 - SUCCESS - 0.87s
+[2025-05-04 00:56:44] VLESS www.speedtest.net:80 - SUCCESS - 0.23s
+[2025-05-04 00:56:45] VLESS 185.85.241.196:32763 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:56:46] VLESS 172.67.204.84:443 - SUCCESS - 0.07s
+[2025-05-04 00:56:49] VLESS 5.199.173.104:8880 - SUCCESS - 0.66s
+[2025-05-04 00:56:49] VLESS 45.82.251.28:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:56:52] VLESS www.speedtest.net:8443 - SUCCESS - 0.67s
+[2025-05-04 00:56:52] VLESS 638817026935097685.amsterdam-shledrc-accc.info:8880 - SUCCESS - 0.67s
+[2025-05-04 00:56:52] VLESS parspack.com:2052 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:53] VLESS 45.82.251.28:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:56:55] VLESS 88.216.187.129:8880 - SUCCESS - 0.42s
+[2025-05-04 00:56:55] VLESS 194.182.79.252:10785 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:55] VLESS 94.131.9.172:8880 - SUCCESS - 0.48s
+[2025-05-04 00:56:55] VLESS 172.67.204.84:443 - SUCCESS - 0.06s
+[2025-05-04 00:56:56] VLESS www.speedtest.net:443 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp7od_ebg_.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:56:56] VLESS 638816432353653793.prague-shledrc-acbs.info:8880 - SUCCESS - 0.62s
+[2025-05-04 00:56:57] VLESS 638817026935097685.amsterdam-shledrc-accc.info:8880 - SUCCESS - 0.68s
+[2025-05-04 00:56:57] VLESS parspack.com:2052 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:56:59] VLESS 88.216.187.129:8880 - SUCCESS - 0.43s
+[2025-05-04 00:57:00] VLESS www.speedtest.net:443 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp58tq0ph7.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:01] VLESS 37.156.46.44:31548 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:04] VLESS www.speedtest.net:80 - SUCCESS - 0.06s
+[2025-05-04 00:57:04] VLESS blog.acveo.ir:8080 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpm4qbd37a.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+
+[2025-05-04 00:57:07] VLESS 88.216.187.57:8880 - SUCCESS - 0.44s
+[2025-05-04 00:57:07] VLESS 94.131.9.172:8880 - SUCCESS - 0.41s
+[2025-05-04 00:57:08] VLESS 638816432353653793.prague-shledrc-acbs.info:8880 - SUCCESS - 0.62s
+[2025-05-04 00:57:09] VLESS 5.199.173.104:8880 - SUCCESS - 0.70s
+[2025-05-04 00:57:10] VLESS 194.182.79.252:10785 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:11] VLESS 88.216.187.57:8880 - SUCCESS - 0.44s
+[2025-05-04 00:57:11] VLESS www.speedtest.net:8443 - SUCCESS - 1.06s
+[2025-05-04 00:57:11] VLESS 104.31.16.95:2053 - SUCCESS - 1.16s
+[2025-05-04 00:57:11] VLESS 104.31.16.95:2053 - SUCCESS - 1.12s
+[2025-05-04 00:57:12] VLESS 37.156.46.44:31548 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:12] VLESS www.speedtest.net:80 - SUCCESS - 0.04s
+[2025-05-04 00:57:14] VLESS blog.acveo.ir:8080 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpp0pg567_.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+
+[2025-05-04 00:57:15] VLESS num.2d2d.ir:2053 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:57:15] VLESS num.2d2d.ir:2053 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:57:15] VLESS 78.47.141.72:8880 - SUCCESS - 0.66s
+[2025-05-04 00:57:16] VLESS 78.47.141.72:8880 - SUCCESS - 0.50s
+[2025-05-04 00:57:19] VLESS 185.122.166.216:37405 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:19] VLESS www.speedtest.net:443 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpd4t90es9.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:21] VLESS 103.97.88.93:2052 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:57:23] VLESS 167.235.238.146:8880 - SUCCESS - 0.49s
+[2025-05-04 00:57:23] VLESS 167.235.238.146:8880 - SUCCESS - 0.69s
+[2025-05-04 00:57:24] VLESS www.speedtest.net:443 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpmup24eyg.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:25] VLESS 45.131.4.173:8443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:25] VLESS www.speedtest.net:443 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmphzmiul_9.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:26] VLESS www.speedtest.net:443 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpdzfxqdvz.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:27] VLESS tify-binex-join.espikernajafi.ir:6666 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:27] VLESS tify-binex-join.espikernajafi.ir:6666 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:27] VLESS chi.bekharim.me:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:27] VLESS 78.47.141.72:8880 - SUCCESS - 0.50s
+[2025-05-04 00:57:28] VLESS 78.47.141.72:8880 - SUCCESS - 0.50s
+[2025-05-04 00:57:30] VLESS chi.bekharim.me:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:31] VLESS www.speedtest.net:80 - SUCCESS - 0.35s
+[2025-05-04 00:57:32] VLESS 45.131.4.173:8443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:35] VLESS www.speedtest.net:80 - SUCCESS - 0.07s
+[2025-05-04 00:57:36] VLESS huffingtonpost.es:80 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmphjhmbl1l.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:37] VLESS 185.122.166.216:37405 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:38] VLESS 151.101.3.8:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:38] VLESS 151.101.3.8:80 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp_aqarh_i.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:39] VLESS 151.101.3.8:80 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpbu14z_wv.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:40] VLESS huffingtonpost.es:80 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmphxuq6yyg.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:40] VLESS vista.kavehsanaatco.site:24530 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp9g33hv0p.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:41] VLESS 140.248.152.85:443 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpz3w8fjm5.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:42] VLESS 151.101.3.8:80 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp5rbxzxpj.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:42] VLESS 103.97.88.93:2052 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:57:42] VLESS hajlab.ucdavis.edu:80 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp7xkiz9kb.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:42] VLESS vista.kavehsanaatco.site:24530 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp4kzq9bb2.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:42] VLESS 151.101.3.8:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:43] VLESS hajlab.ucdavis.edu:80 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpdsogz54y.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:45] VLESS 151.101.3.8:80 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpv93srbed.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:46] VLESS 151.101.3.8:80 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpkfged7ch.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 00:57:49] VLESS 104.17.147.22:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:52] VLESS 37.27.31.235:8880 - SUCCESS - 0.56s
+[2025-05-04 00:57:52] VLESS visa.cn:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:53] VLESS www.speedtest.net:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:55] VLESS www.speedtest.net:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:55] VLESS 37.27.31.235:8880 - SUCCESS - 0.55s
+[2025-05-04 00:57:56] VLESS visa.cn:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:56] VLESS www.speedtest.net:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:57] VLESS www.speedtest.net:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:58] VLESS 104.17.148.22:2052 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:59] VLESS www.speedtest.net:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:59] VLESS 104.17.148.22:2052 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:59] VLESS 104.17.147.22:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:57:59] VLESS www.speedtest.net:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:00] VLESS 65.109.179.105:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:00] VLESS 104.24.158.124:80 - SUCCESS - 0.18s
+[2025-05-04 00:58:01] VLESS 157.180.79.133:40387 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:58:03] VLESS 51.81.37.20:443 - SUCCESS - 5.12s
+[2025-05-04 00:58:04] VLESS 157.180.79.133:40387 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:58:05] VLESS 104.21.1.90:2082 - SUCCESS - 0.08s
+[2025-05-04 00:58:07] VLESS 104.21.1.90:2082 - SUCCESS - 0.05s
+[2025-05-04 00:58:08] VLESS 162.19.228.119:443 - SUCCESS - 0.96s
+[2025-05-04 00:58:09] VLESS 84.32.9.13:8880 - SUCCESS - 0.66s
+[2025-05-04 00:58:11] VLESS 84.32.9.24:8880 - SUCCESS - 0.57s
+[2025-05-04 00:58:11] VLESS 84.32.9.13:8880 - SUCCESS - 0.64s
+[2025-05-04 00:58:11] VLESS 172.64.157.124:80 - SUCCESS - 0.12s
+[2025-05-04 00:58:12] VLESS 162.19.228.119:443 - SUCCESS - 1.46s
+[2025-05-04 00:58:14] VLESS 84.32.9.24:8880 - SUCCESS - 0.56s
+[2025-05-04 00:58:14] VLESS 104.24.158.124:80 - SUCCESS - 0.06s
+[2025-05-04 00:58:14] VLESS 172.64.157.124:80 - SUCCESS - 0.09s
+[2025-05-04 00:58:14] VLESS 51.81.37.20:443 - SUCCESS - 0.04s
+[2025-05-04 00:58:15] VLESS docs.acveo.ir:8080 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpuw_ogdey.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+
+[2025-05-04 00:58:16] VLESS 65.109.179.105:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:16] VLESS www.speedtest.net:8080 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp1s43kfq5.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+
+[2025-05-04 00:58:18] VLESS 128.140.5.200:2053 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:18] VLESS www.speedtest.net:8880 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:19] VLESS www.zula.ir:8880 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:20] VLESS 37.27.31.235:8880 - SUCCESS - 0.55s
+[2025-05-04 00:58:23] VLESS www.speedtest.net:8880 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:23] VLESS 37.27.31.235:8880 - SUCCESS - 0.98s
+[2025-05-04 00:58:24] VLESS docs.acveo.ir:8080 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp388uaspz.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+
+[2025-05-04 00:58:26] VLESS www.speedtest.net:8880 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:28] VLESS 104.26.12.54:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:28] VLESS 37.27.31.235:8880 - SUCCESS - 0.98s
+[2025-05-04 00:58:28] VLESS 104.26.12.54:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:29] VLESS www.speedtest.net:80 - SUCCESS - 0.06s
+[2025-05-04 00:58:29] VLESS 104.21.69.44:443 - SUCCESS - 0.07s
+[2025-05-04 00:58:29] VLESS 104.21.69.44:443 - SUCCESS - 0.06s
+[2025-05-04 00:58:30] VLESS 37.27.31.235:8880 - SUCCESS - 0.55s
+[2025-05-04 00:58:30] VLESS www.speedtest.net:8080 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpa3ui99zd.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+
+[2025-05-04 00:58:31] VLESS 138.199.201.97:1000 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:58:31] VLESS www.zula.ir:8880 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:31] VLESS www.speedtest.net:8880 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:33] VLESS www.speedtest.net:80 - SUCCESS - 0.05s
+[2025-05-04 00:58:35] VLESS 128.140.5.200:2053 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:36] VLESS 104.17.147.22:2096 - SUCCESS - 1.01s
+[2025-05-04 00:58:36] VLESS 162.159.10.162:2086 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:39] VLESS 104.18.12.149:443 - SUCCESS - 0.07s
+[2025-05-04 00:58:39] VLESS 104.18.12.149:443 - SUCCESS - 0.07s
+[2025-05-04 00:58:39] VLESS 104.17.147.22:2096 - SUCCESS - 0.71s
+[2025-05-04 00:58:42] VLESS 138.199.201.97:1000 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:58:43] VLESS 162.159.10.162:2086 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:43] VLESS speedtest.net:80 - SUCCESS - 0.71s
+[2025-05-04 00:58:44] VLESS speedtest.net:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:44] VLESS 167.235.238.146:8880 - SUCCESS - 0.50s
+[2025-05-04 00:58:46] VLESS 104.16.186.41:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:46] VLESS 172.67.161.104:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:46] VLESS 104.22.56.77:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:47] VLESS 162.159.1.33:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:47] VLESS 167.235.238.146:8880 - SUCCESS - 0.50s
+[2025-05-04 00:58:47] VLESS 104.16.187.41:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:48] VLESS 104.19.77.118:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:49] VLESS whatismyipaddress.com:2096 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:51] VLESS speedtest.net:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:53] VLESS 104.22.56.77:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:54] VLESS 162.159.8.55:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:54] VLESS speedtest.net:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:56] VLESS whatismyipaddress.com:2096 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:58:59] VLESS 104.17.148.22:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:00] VLESS whatismyipaddress.com:2096 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:01] VLESS 104.16.148.244:2087 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:01] VLESS 103.160.204.59:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:01] VLESS whatismyipaddress.com:2096 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:01] VLESS speedtest.net:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:02] VLESS 104.17.148.22:8443 - SUCCESS - 0.57s
+[2025-05-04 00:59:03] VLESS x28.braidpro.online:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:03] VLESS 172.67.161.104:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:04] VLESS whatismyipaddress.com:2096 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:04] VLESS 172.67.161.104:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:04] VLESS 167.235.238.146:8880 - SUCCESS - 0.51s
+[2025-05-04 00:59:05] VLESS whatismyipaddress.com:2096 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:08] VLESS 162.159.8.55:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:09] VLESS 37.27.31.235:8880 - SUCCESS - 0.56s
+[2025-05-04 00:59:10] VLESS 84.32.9.37:8880 - SUCCESS - 0.58s
+[2025-05-04 00:59:11] VLESS 104.16.148.244:2087 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:16] VLESS 104.16.30.244:2053 - SUCCESS - 0.07s
+[2025-05-04 00:59:18] VLESS 104.21.73.239:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:18] VLESS 45.82.251.34:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:59:19] VLESS 104.16.190.41:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:20] VLESS 154.17.229.206:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:20] VLESS 45.131.4.188:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:20] VLESS 104.21.73.239:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:22] VLESS 94.177.225.237:53695 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:22] VLESS 104.17.128.1:2096 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:23] VLESS 167.235.238.146:8880 - SUCCESS - 0.50s
+[2025-05-04 00:59:24] VLESS 45.82.251.34:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:59:27] VLESS 104.16.190.41:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:28] VLESS 45.131.4.188:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:28] VLESS 154.17.229.206:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:33] VLESS 104.21.73.239:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:33] VLESS 84.32.9.37:8880 - SUCCESS - 0.58s
+[2025-05-04 00:59:33] VLESS 167.235.238.146:8880 - SUCCESS - 0.51s
+[2025-05-04 00:59:34] VLESS 84.32.9.23:8880 - SUCCESS - 0.66s
+[2025-05-04 00:59:35] VLESS 138.128.225.100:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:36] VLESS 104.16.30.244:2053 - SUCCESS - 0.15s
+[2025-05-04 00:59:38] VLESS 104.17.128.1:2096 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:39] VLESS 198.62.62.4:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:40] VLESS 198.62.62.4:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:41] VLESS 104.21.73.239:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:41] VLESS 84.32.9.46:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:59:44] VLESS germany.khoreshtsabzi.ir:1773 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:59:44] VLESS 94.177.225.237:53695 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:45] VLESS 172.67.161.104:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:45] VLESS 104.18.27.94:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:46] VLESS germany.khoreshtsabzi.ir:1773 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:59:49] VLESS 84.32.9.46:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:59:49] VLESS 37.202.237.107:45495 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 00:59:50] VLESS 18.159.137.222:3349 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:50] VLESS 172.67.161.104:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:51] VLESS 77.110.98.179:54715 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:52] VLESS 77.110.98.179:54715 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:52] VLESS 18.159.137.222:3349 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:53] VLESS 104.18.41.190:8443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:55] VLESS 77.110.98.179:54715 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:56] VLESS 172.67.75.172:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:56] VLESS 138.128.225.100:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:57] VLESS 45.131.4.33:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:58] VLESS 104.17.148.22:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 00:59:58] VLESS 104.17.147.22:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:00] VLESS 84.32.9.17:8880 - SUCCESS - 0.61s
+[2025-05-04 01:00:01] VLESS 84.32.9.17:8880 - SUCCESS - 0.58s
+[2025-05-04 01:00:02] VLESS 104.21.96.1:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:02] VLESS 104.17.148.22:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:03] VLESS 172.67.75.172:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:05] VLESS 37.202.237.107:45495 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:00:06] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:06] VLESS 104.21.56.44:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:06] VLESS 162.159.153.2:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:06] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:07] VLESS www.speedtest.net:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:07] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:07] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:08] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:11] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:11] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:11] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:13] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:13] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:13] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:15] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:16] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:17] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:18] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:18] VLESS 151.101.64.155:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:21] VLESS 162.55.36.107:577 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:21] VLESS 104.16.209.110:443 - SUCCESS - 0.06s
+[2025-05-04 01:00:21] VLESS 209.208.227.229:2096 - SUCCESS - 0.67s
+[2025-05-04 01:00:22] VLESS 45.131.208.62:2096 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:22] VLESS 104.16.209.110:443 - SUCCESS - 0.07s
+[2025-05-04 01:00:23] VLESS 94.131.108.195:53221 - SUCCESS - 0.55s
+[2025-05-04 01:00:23] VLESS 94.131.108.195:53221 - SUCCESS - 0.51s
+[2025-05-04 01:00:24] VLESS 84.32.9.29:8880 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:27] VLESS 188.114.97.3:443 - SUCCESS - 0.12s
+[2025-05-04 01:00:28] VLESS 84.32.9.29:8880 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:30] VLESS www.speedtest.net:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:30] VLESS 104.17.147.22:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:32] VLESS 147135004002.sec20org.com:443 - SUCCESS - 0.16s
+[2025-05-04 01:00:33] VLESS 172.64.32.217:2087 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:36] VLESS wolf540.api-tel.ir:36338 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:36] VLESS 190.93.247.56:2082 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp1e5o41ip.json] > infra/conf/v4: Config: unknown transport protocol: httpupgrade
+
+[2025-05-04 01:00:37] VLESS 104.17.147.22:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:38] VLESS 104.21.34.163:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:39] VLESS 104.21.1.12:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:41] VLESS www.speedtest.net:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:42] VLESS ver2.tcod008.info:28505 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:44] VLESS 151.101.66.133:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:48] VLESS 104.21.69.44:2087 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:49] VLESS 104.21.32.1:2087 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:50] VLESS 104.21.56.44:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:52] VLESS 151.101.194.133:80 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmpelkj86yg.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 01:00:53] VLESS 172.82.67.154:58236 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:00:53] VLESS 104.26.14.85:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:54] VLESS ns1.cloudflare.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:00:56] VLESS 172.82.67.154:58236 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:00:58] VLESS 62.60.178.27:43434 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:00] VLESS 78.39.57.73:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:00] VLESS 638723765344749214.amsterdam-blk-dra.info:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:01] VLESS 37.27.250.184:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:03] VLESS 37.27.15.167:2089 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:06] VLESS 84.32.9.31:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:08] VLESS 188.245.126.124:44566 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:12] VLESS dd14.mehdit.ir:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:13] VLESS 188.245.167.113:465 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:13] VLESS 151.101.2.133:80 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp1c2dx_rn.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 01:01:15] VLESS 62.60.153.55:14703 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:16] VLESS 147135001195.sec22org.com:443 - SUCCESS - 0.14s
+[2025-05-04 01:01:17] VLESS 159.89.45.81:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:17] VLESS 172.67.163.18:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:18] VLESS 15.204.150.39:443 - SUCCESS - 0.04s
+[2025-05-04 01:01:23] VLESS 638732516883232709.rome-mpl-dr.info:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:24] VLESS 157.180.20.84:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:25] VLESS 104.17.148.22:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:26] VLESS 185.8.105.254:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:29] VLESS 85.209.155.9:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:30] VLESS 173.245.59.132:2053 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:30] VLESS uk.ukrageshark.shop:47408 - FAILURE - Test error: V2Ray failed to start: Failed to start: main/commands: failed to load config: [/tmp/tmp7srfvb9p.json] > infra/conf/v4: Config: unknown transport protocol: xhttp
+
+[2025-05-04 01:01:30] VLESS 104.16.132.207:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:30] VLESS 104.21.56.44:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:34] VLESS 45.89.55.188:8880 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:34] VLESS 157.180.20.123:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:35] VLESS 5.252.23.173:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:35] VLESS 172.67.163.18:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:37] VLESS 638723765344749214.amsterdam-blk-dra.info:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:38] VLESS 18af2b3fcdb049509aa2.synom-beyron.info:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:39] VLESS 91.134.66.127:22671 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:41] VLESS 147135010103.sec19org.com:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:41] VLESS 185.47.172.105:2083 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:42] VLESS 45.89.55.188:8880 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:43] VLESS dd6.asalemaraghe.ir:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:47] VLESS 162.159.10.162:2086 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:47] VLESS nautica.foolvpn.me:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:47] VLESS www.speedtest.net:2083 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:51] VLESS best1.bestshop10.ir:16072 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:51] VLESS 116.203.32.109:2087 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:01:52] VLESS 104.21.112.1:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:53] VLESS ne2sr.blushop1403.info:17160 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:01:57] VLESS best1.bestshop10.ir:16072 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:02] VLESS 65.109.212.64:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:02] VLESS best1.bestshop10.ir:16072 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:02] VLESS 88.216.214.56:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:03] VLESS best1.bestshop10.ir:16072 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:03] VLESS best1.bestshop10.ir:16072 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:07] VLESS best1.bestshop10.ir:16072 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:07] VLESS best1.bestshop10.ir:16072 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:10] VLESS 138.197.13.193:443 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:14] VLESS 91.107.140.243:443 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:15] VLESS 45.144.28.247:2052 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:17] VLESS best1.bestshop10.ir:16072 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:18] VLESS best1.bestshop10.ir:16072 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:19] VLESS 65.21.245.172:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:22] VLESS outshop.bestshop10.ir:26745 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:23] VLESS bestco.bestshop10.ir:40240 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:24] VLESS bestco.bestshop10.ir:40240 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:25] VLESS best1.bestshop10.ir:16072 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:26] VLESS outshop.bestshop10.ir:26745 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:26] VLESS outshop.bestshop10.ir:26745 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:28] VLESS outshop.bestshop10.ir:26745 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:33] VLESS 185.146.173.63:2087 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:34] VLESS a.nl.maviks.eu:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:35] VLESS 185.146.173.63:2087 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:36] VLESS outshop.bestshop10.ir:26745 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:38] VLESS outshop.bestshop10.ir:26745 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:40] VLESS 104.22.15.132:8443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:41] VLESS 162.159.10.162:2086 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:42] VLESS outshop.bestshop10.ir:26745 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:42] VLESS 104.22.15.132:8443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:43] VLESS 162.159.10.162:2086 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:45] VLESS 162.159.10.162:2086 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:47] VLESS bestco.bestshop10.ir:40240 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:48] VLESS bestco.bestshop10.ir:40240 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:48] VLESS outshop.bestshop10.ir:26745 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:49] VLESS a.nl.maviks.eu:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-05-04 01:02:52] VLESS outshop.bestshop10.ir:26745 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:52] VLESS outshop.bestshop10.ir:26745 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:02:59] VLESS bestco.bestshop10.ir:40240 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:03:02] VLESS 84.32.25.7:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:03:07] VLESS 84.32.25.7:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:03:11] VLESS www.speedtest.net:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-05-04 01:03:18] VLESS www.speedtest.net:8880 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
