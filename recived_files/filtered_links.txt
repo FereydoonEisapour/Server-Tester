@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/FereydoonEisapour/Config-tester/main/Tested_Servers/Protocols/shadowsocks.txt
+https://raw.githubusercontent.com/FereydoonEisapour/Config-tester/main/Tested_Servers/Protocols/trojan.txt
+https://raw.githubusercontent.com/FereydoonEisapour/Config-tester/main/Tested_Servers/Protocols/vless.txt
+https://raw.githubusercontent.com/FereydoonEisapour/Config-tester/main/Tested_Servers/Protocols/vmess.txt
