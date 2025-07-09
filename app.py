@@ -224,11 +224,12 @@ def extract_links_from_file(input_file):
                 
                
                 possible_paths = [
-                    "/contents/Servers/Protocols",
                     "/contents/Tested_Servers/Protocols"
-                    "/contents/Protocols",
-                    "/contents/configs",
-                    "/contents"
+                    # "/contents/Servers/Protocols",
+                    # "/contents/Tested_Servers/Protocols"
+                    # "/contents/Protocols",
+                    # "/contents/configs",
+                    # "/contents"
                 ]
                 
                 for path in possible_paths:
