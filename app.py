@@ -93,9 +93,9 @@ console_handler.setFormatter(CleanFormatter())
 logger.addHandler(console_handler)
 
 # File handler (detailed logs)
-file_handler = logging.FileHandler(os.path.join(LOGS_DIR, 'debug.log'))
-file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
-logger.addHandler(file_handler)
+#file_handler = logging.FileHandler(os.path.join(LOGS_DIR, 'debug.log'))
+#file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
+#logger.addHandler(file_handler)
 
 # Disable SSL warnings
 requests.packages.urllib3.disable_warnings()
