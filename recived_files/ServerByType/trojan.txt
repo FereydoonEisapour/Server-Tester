@@ -1,6 +1,0 @@
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org&type=tcp&headerType=none#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%203.42s
-trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&sni=x1-czech-aruba-v2.devefun.org&type=tcp&headerType=none#https%3A%2F%2Ft.me%2FV2ry_Proxy%20%7C%2012.66s
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&sni=x1-germany-digitalocean-v2.devefun.org&type=tcp&headerType=none#WedBaZtel%20%7C%204.66s
-trojan://telegram-id-directvpn@15.236.126.225:22223?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#OurChannel%20%7C%200.60s
-trojan://telegram-id-privatevpns@15.236.126.225:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#%28S103%29%20%7C%200.78s
-trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&sni=x1-czech-aruba-v2.devefun.org&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BF%7CCZ%7C%40wxgqlfx%7C739%20%7C%203.85s
