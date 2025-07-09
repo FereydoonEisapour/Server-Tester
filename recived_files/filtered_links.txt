@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/FereydoonEisapour/Tel-Proxy-Harvester/main/Servers/Protocols/ss.txt
-https://raw.githubusercontent.com/FereydoonEisapour/Tel-Proxy-Harvester/main/Servers/Protocols/trojan.txt
-https://raw.githubusercontent.com/FereydoonEisapour/Tel-Proxy-Harvester/main/Servers/Protocols/vless.txt
-https://raw.githubusercontent.com/FereydoonEisapour/Tel-Proxy-Harvester/main/Servers/Protocols/vmess.txt
+https://raw.githubusercontent.com/FereydoonEisapour/v2ray/main/ClashMihomo.yaml
+https://raw.githubusercontent.com/FereydoonEisapour/v2ray/main/ClashMihomoAll.yaml
+https://raw.githubusercontent.com/FereydoonEisapour/v2ray/main/Stash.yaml
+https://raw.githubusercontent.com/FereydoonEisapour/v2ray/main/Stash2.yaml
+https://raw.githubusercontent.com/FereydoonEisapour/v2ray/main/v2rayNG.txt
