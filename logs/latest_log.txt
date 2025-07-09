@@ -1788,3 +1788,361 @@
 [2025-07-09 17:25:56] VLESS 116.203.29.106:50424 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
 [2025-07-09 17:25:58] VLESS 116.203.29.106:50424 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
 [2025-07-09 17:26:01] VLESS 116.203.29.106:50424 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:30:57] VLESS 135.148.152.102:443 - SUCCESS - 0.06s
+[2025-07-09 18:30:57] VLESS 15.204.200.208:443 - SUCCESS - 0.06s
+[2025-07-09 18:30:57] VLESS 45.82.251.124:8880 - SUCCESS - 0.07s
+[2025-07-09 18:30:57] VLESS 45.82.251.93:8880 - SUCCESS - 0.06s
+[2025-07-09 18:30:57] VLESS 45.82.251.185:8880 - SUCCESS - 0.06s
+[2025-07-09 18:30:57] VLESS 45.82.251.147:8880 - SUCCESS - 0.07s
+[2025-07-09 18:30:57] VLESS 147.135.4.2:443 - SUCCESS - 0.24s
+[2025-07-09 18:30:57] VLESS 147135004002.sec20org.com:443 - SUCCESS - 0.27s
+[2025-07-09 18:30:57] VLESS 45.82.251.161:8880 - SUCCESS - 0.30s
+[2025-07-09 18:30:57] VLESS 15.204.200.208:443 - SUCCESS - 0.36s
+[2025-07-09 18:30:57] VLESS 135.148.74.150:443 - SUCCESS - 0.60s
+[2025-07-09 18:30:57] VLESS 45.82.251.121:8880 - SUCCESS - 0.62s
+[2025-07-09 18:30:57] VLESS 147.135.4.2:443 - SUCCESS - 0.72s
+[2025-07-09 18:30:57] VLESS 15.204.200.208:443 - SUCCESS - 0.85s
+[2025-07-09 18:30:57] VLESS 15.204.200.210:443 - SUCCESS - 0.88s
+[2025-07-09 18:30:58] VLESS 45.82.251.147:8880 - SUCCESS - 0.98s
+[2025-07-09 18:30:58] VLESS 45.82.251.80:8880 - SUCCESS - 1.16s
+[2025-07-09 18:30:58] VLESS 45.82.251.180:8880 - SUCCESS - 1.72s
+[2025-07-09 18:31:01] VLESS 45.82.251.78:8880 - SUCCESS - 4.07s
+[2025-07-09 18:31:03] VLESS 45.82.251.184:8880 - SUCCESS - 6.61s
+[2025-07-09 18:31:12] VLESS 45.82.251.149:8880 - SUCCESS - 0.06s
+[2025-07-09 18:31:12] VLESS 185.59.218.168:443 - SUCCESS - 0.11s
+[2025-07-09 18:31:12] VLESS 185.59.218.168:443 - SUCCESS - 0.10s
+[2025-07-09 18:31:12] VLESS 104.21.89.221:443 - SUCCESS - 0.25s
+[2025-07-09 18:31:12] VLESS www.meter.net:443 - SUCCESS - 0.33s
+[2025-07-09 18:31:12] VLESS 104.21.57.88:443 - SUCCESS - 0.18s
+[2025-07-09 18:31:12] VLESS 147135004002.sec20org.com:443 - SUCCESS - 0.24s
+[2025-07-09 18:31:13] VLESS 92.53.188.36:443 - SUCCESS - 0.97s
+[2025-07-09 18:31:13] VLESS 141.11.203.139:443 - SUCCESS - 0.48s
+[2025-07-09 18:31:13] VLESS 45.82.251.58:8880 - SUCCESS - 0.90s
+[2025-07-09 18:31:13] VLESS 141.11.203.139:443 - SUCCESS - 0.17s
+[2025-07-09 18:31:13] VLESS 147135001195.sec22org.com:443 - SUCCESS - 1.92s
+[2025-07-09 18:31:13] VLESS 172.67.207.27:443 - SUCCESS - 0.94s
+[2025-07-09 18:31:14] VLESS www.speedtest.net:443 - SUCCESS - 2.18s
+[2025-07-09 18:31:15] VLESS 14.102.228.75:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:31:16] VLESS 45.82.251.149:8880 - SUCCESS - 4.05s
+[2025-07-09 18:31:16] VLESS 92.53.188.36:443 - SUCCESS - 4.11s
+[2025-07-09 18:31:17] VLESS 172.67.68.36:443 - SUCCESS - 4.34s
+[2025-07-09 18:31:18] VLESS 14.102.228.75:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:31:19] VLESS 172.67.200.11:443 - SUCCESS - 0.47s
+[2025-07-09 18:31:27] VLESS www.meter.net:443 - SUCCESS - 0.11s
+[2025-07-09 18:31:27] VLESS 15.204.200.208:443 - SUCCESS - 0.04s
+[2025-07-09 18:31:28] VLESS kkkkkkkkkn.890601.xyz:443 - SUCCESS - 0.94s
+[2025-07-09 18:31:28] VLESS 147135004002.sec20org.com:443 - SUCCESS - 0.62s
+[2025-07-09 18:31:28] VLESS www.speedtest.net:443 - SUCCESS - 0.15s
+[2025-07-09 18:31:28] VLESS 45.82.251.127:8880 - SUCCESS - 0.95s
+[2025-07-09 18:31:28] VLESS 45.82.251.161:8880 - SUCCESS - 1.07s
+[2025-07-09 18:31:29] VLESS 147135001195.sec22org.com:443 - SUCCESS - 0.07s
+[2025-07-09 18:31:29] VLESS 172.67.133.248:443 - SUCCESS - 0.36s
+[2025-07-09 18:31:29] VLESS 172.67.150.132:443 - SUCCESS - 2.48s
+[2025-07-09 18:31:30] VLESS 14.102.228.75:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:31:30] VLESS 172.67.200.11:443 - SUCCESS - 1.10s
+[2025-07-09 18:31:30] VLESS 135.148.74.150:443 - SUCCESS - 2.00s
+[2025-07-09 18:31:30] VLESS 172.67.130.204:443 - SUCCESS - 0.31s
+[2025-07-09 18:31:31] VLESS rrfvbg.0890604.xyz:443 - SUCCESS - 0.29s
+[2025-07-09 18:31:33] VLESS 15.204.200.210:443 - SUCCESS - 0.72s
+[2025-07-09 18:31:34] VLESS 172.236.241.237:2321 - SUCCESS - 0.68s
+[2025-07-09 18:31:34] VLESS 104.21.42.93:443 - SUCCESS - 2.62s
+[2025-07-09 18:31:38] VLESS 104.21.91.180:443 - SUCCESS - 7.77s
+[2025-07-09 18:31:42] VLESS 104.18.26.90:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:31:43] VLESS 104.18.26.90:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:31:44] VLESS 91.107.144.102:443 - SUCCESS - 1.07s
+[2025-07-09 18:31:44] VLESS 51.222.158.243:8443 - SUCCESS - 0.90s
+[2025-07-09 18:31:45] VLESS 91.107.144.102:443 - SUCCESS - 1.92s
+[2025-07-09 18:31:45] VLESS 91.107.167.104:55713 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:31:46] VLESS 91.107.167.104:55713 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:31:47] VLESS 91.107.167.104:55713 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:31:48] VLESS 91.107.167.104:55713 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:31:49] VLESS 91.107.167.104:55713 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:31:50] VLESS 103.133.1.227:443 - SUCCESS - 6.80s
+[2025-07-09 18:31:51] VLESS 104.26.14.85:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:31:54] VLESS 95.164.45.85:8880 - SUCCESS - 0.91s
+[2025-07-09 18:31:58] VLESS 104.21.61.229:443 - SUCCESS - 0.50s
+[2025-07-09 18:31:58] VLESS 172.234.197.187:11518 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:31:59] VLESS 95.164.45.85:8880 - SUCCESS - 0.46s
+[2025-07-09 18:31:59] VLESS 91.107.144.102:443 - SUCCESS - 0.65s
+[2025-07-09 18:32:01] VLESS 94.131.9.172:8880 - SUCCESS - 0.61s
+[2025-07-09 18:32:01] VLESS 15.204.200.208:443 - SUCCESS - 1.03s
+[2025-07-09 18:32:02] VLESS 142.132.227.65:33036 - SUCCESS - 17.46s
+[2025-07-09 18:32:02] VLESS 172.67.161.129:443 - SUCCESS - 0.91s
+[2025-07-09 18:32:03] VLESS 45.140.167.59:8880 - SUCCESS - 0.48s
+[2025-07-09 18:32:03] VLESS 104.16.198.192:8080 - SUCCESS - 0.50s
+[2025-07-09 18:32:04] VLESS 142.132.227.65:33036 - SUCCESS - 19.98s
+[2025-07-09 18:32:04] VLESS 104.18.26.90:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:05] VLESS 142.132.227.65:33036 - SUCCESS - 16.42s
+[2025-07-09 18:32:06] VLESS 142.132.227.65:33036 - SUCCESS - 16.58s
+[2025-07-09 18:32:07] VLESS 45.159.248.125:8880 - SUCCESS - 0.71s
+[2025-07-09 18:32:08] VLESS mahdi.speedvipsarbazi.site:8880 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:11] VLESS 14.102.228.75:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:15] VLESS 104.21.89.221:443 - SUCCESS - 1.15s
+[2025-07-09 18:32:15] VLESS 91.99.152.0:443 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:32:15] VLESS 185.231.205.248:8880 - SUCCESS - 0.78s
+[2025-07-09 18:32:15] VLESS 104.16.198.192:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:15] VLESS 91.99.150.150:48940 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:32:16] VLESS 95.164.45.94:8880 - SUCCESS - 0.60s
+[2025-07-09 18:32:17] VLESS 185.231.205.246:8880 - SUCCESS - 2.59s
+[2025-07-09 18:32:17] VLESS 185.231.205.5:8880 - SUCCESS - 0.83s
+[2025-07-09 18:32:18] VLESS 185.231.205.181:8880 - SUCCESS - 2.42s
+[2025-07-09 18:32:19] VLESS 104.26.15.85:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:20] VLESS 172.67.73.163:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:20] VLESS tgju.org:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:21] VLESS 104.26.14.85:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:21] VLESS 185.231.205.234:8880 - SUCCESS - 2.20s
+[2025-07-09 18:32:21] VLESS 185.231.205.231:8880 - SUCCESS - 1.56s
+[2025-07-09 18:32:22] VLESS 91.107.144.102:443 - SUCCESS - 0.90s
+[2025-07-09 18:32:24] VLESS tgju.org:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:25] VLESS 104.26.15.85:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:27] VLESS 104.16.198.192:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:28] VLESS 172.234.197.187:11518 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:32:31] VLESS 185.231.205.253:8880 - SUCCESS - 0.48s
+[2025-07-09 18:32:31] VLESS tgju.org:80 - SUCCESS - 1.46s
+[2025-07-09 18:32:32] VLESS www.meter.net:443 - SUCCESS - 0.12s
+[2025-07-09 18:32:33] VLESS tgju.org:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:33] VLESS www.speedtest.net:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:34] VLESS 104.26.14.85:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:35] VLESS tiny-srv1.privacypath.org.tr:443 - SUCCESS - 1.89s
+[2025-07-09 18:32:35] VLESS 45.82.251.167:8880 - SUCCESS - 5.45s
+[2025-07-09 18:32:35] VLESS 104.16.198.192:8080 - SUCCESS - 1.27s
+[2025-07-09 18:32:36] VLESS 95.164.45.90:8880 - SUCCESS - 0.49s
+[2025-07-09 18:32:37] VLESS 185.231.205.239:8880 - SUCCESS - 0.49s
+[2025-07-09 18:32:38] VLESS tgju.org:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:38] VLESS www.speedtest.net:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:39] VLESS 104.18.26.90:80 - SUCCESS - 2.65s
+[2025-07-09 18:32:39] VLESS 104.18.26.90:80 - SUCCESS - 2.48s
+[2025-07-09 18:32:42] VLESS www.speedtest.net:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:42] VLESS 104.18.26.90:80 - SUCCESS - 10.66s
+[2025-07-09 18:32:45] VLESS pishgam.sdcards.ir:2052 - SUCCESS - 2.66s
+[2025-07-09 18:32:46] VLESS 45.82.251.126:8880 - SUCCESS - 4.06s
+[2025-07-09 18:32:47] VLESS 104.18.26.90:2096 - SUCCESS - 0.77s
+[2025-07-09 18:32:49] VLESS 198.41.209.70:443 - SUCCESS - 0.61s
+[2025-07-09 18:32:49] VLESS 185.231.205.186:8880 - SUCCESS - 3.42s
+[2025-07-09 18:32:49] VLESS www.speedtest.net:2082 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:52] VLESS 94.131.108.195:53221 - SUCCESS - 1.55s
+[2025-07-09 18:32:52] VLESS 188.114.98.18:80 - SUCCESS - 0.60s
+[2025-07-09 18:32:54] VLESS www.speedtest.net:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:54] VLESS 188.114.98.18:80 - SUCCESS - 5.90s
+[2025-07-09 18:32:54] VLESS 188.114.98.18:80 - SUCCESS - 3.78s
+[2025-07-09 18:32:56] VLESS 104.18.26.90:80 - SUCCESS - 8.07s
+[2025-07-09 18:32:56] VLESS www.speedtest.net:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:58] VLESS 65.109.118.175:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:32:58] VLESS 45.82.251.144:8880 - SUCCESS - 4.06s
+[2025-07-09 18:32:58] VLESS 188.114.98.18:80 - SUCCESS - 1.20s
+[2025-07-09 18:32:59] VLESS tgju.org:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:33:00] VLESS 173.245.58.93:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:33:02] VLESS 104.18.26.90:2096 - SUCCESS - 0.60s
+[2025-07-09 18:33:03] VLESS 95.164.45.85:8880 - SUCCESS - 1.21s
+[2025-07-09 18:33:06] VLESS 104.21.89.221:443 - SUCCESS - 1.08s
+[2025-07-09 18:33:08] VLESS 104.16.53.11:80 - SUCCESS - 3.27s
+[2025-07-09 18:33:08] VLESS bestcf.030101.xyz:443 - SUCCESS - 0.59s
+[2025-07-09 18:33:10] VLESS 104.18.26.90:2096 - SUCCESS - 1.01s
+[2025-07-09 18:33:10] VLESS 172.234.197.187:11518 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:33:11] VLESS 104.16.53.11:8080 - SUCCESS - 2.26s
+[2025-07-09 18:33:11] VLESS 65.109.118.175:443 - SUCCESS - 0.65s
+[2025-07-09 18:33:13] VLESS 135.148.152.108:443 - SUCCESS - 0.27s
+[2025-07-09 18:33:14] VLESS 65.109.145.54:443 - SUCCESS - 0.69s
+[2025-07-09 18:33:14] VLESS 104.18.26.90:2096 - SUCCESS - 2.96s
+[2025-07-09 18:33:14] VLESS 194.147.34.72:443 - SUCCESS - 0.84s
+[2025-07-09 18:33:14] VLESS 188.114.98.18:80 - SUCCESS - 5.81s
+[2025-07-09 18:33:15] VLESS ir01.oghabvps.com:2096 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:33:16] VLESS 172.67.130.204:443 - SUCCESS - 0.89s
+[2025-07-09 18:33:17] VLESS 185.231.205.139:8880 - SUCCESS - 0.54s
+[2025-07-09 18:33:18] VLESS 188.114.98.18:80 - SUCCESS - 14.05s
+[2025-07-09 18:33:18] VLESS 45.159.248.125:8880 - SUCCESS - 0.44s
+[2025-07-09 18:33:20] VLESS 3.74.110.109:22224 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:33:21] VLESS 104.17.147.22:2087 - SUCCESS - 0.70s
+[2025-07-09 18:33:23] VLESS 95.217.206.161:443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:33:24] VLESS tgju.org:80 - SUCCESS - 1.29s
+[2025-07-09 18:33:24] VLESS 63.178.255.89:22224 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:33:25] VLESS 167.68.42.168:443 - SUCCESS - 0.53s
+[2025-07-09 18:33:27] VLESS 104.18.26.90:2096 - SUCCESS - 2.39s
+[2025-07-09 18:33:29] VLESS 91.107.167.104:55713 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:33:29] VLESS 45.82.251.185:8880 - SUCCESS - 0.70s
+[2025-07-09 18:33:30] VLESS ir01.oghabvps.com:2096 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:33:30] VLESS 104.17.147.22:2087 - SUCCESS - 1.94s
+[2025-07-09 18:33:31] VLESS 104.26.14.85:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:33:31] VLESS 47.251.95.178:443 - SUCCESS - 2.65s
+[2025-07-09 18:33:32] VLESS pishgam.sdcards.ir:80 - SUCCESS - 2.81s
+[2025-07-09 18:33:33] VLESS 104.17.147.22:2087 - SUCCESS - 3.22s
+[2025-07-09 18:33:33] VLESS 104.18.26.90:2096 - SUCCESS - 1.94s
+[2025-07-09 18:33:35] VLESS 104.26.14.85:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:33:36] VLESS 95.217.206.161:443 - SUCCESS - 3.94s
+[2025-07-09 18:33:37] VLESS 185.255.178.188:443 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:33:37] VLESS 185.231.205.186:8880 - SUCCESS - 1.08s
+[2025-07-09 18:33:38] VLESS 104.16.53.11:80 - SUCCESS - 4.73s
+[2025-07-09 18:33:39] VLESS 104.18.26.90:80 - SUCCESS - 3.70s
+[2025-07-09 18:33:39] VLESS 141.11.203.139:443 - SUCCESS - 0.79s
+[2025-07-09 18:33:40] VLESS pishgam.sdcards.ir:80 - SUCCESS - 0.72s
+[2025-07-09 18:33:41] VLESS 104.16.53.11:8080 - SUCCESS - 0.55s
+[2025-07-09 18:33:42] VLESS 104.18.26.90:2096 - SUCCESS - 3.03s
+[2025-07-09 18:33:44] VLESS 104.18.26.90:2096 - SUCCESS - 1.71s
+[2025-07-09 18:33:45] VLESS 94.131.108.195:53221 - SUCCESS - 0.72s
+[2025-07-09 18:33:45] VLESS 104.26.14.85:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:33:45] VLESS 104.18.26.90:2096 - SUCCESS - 1.81s
+[2025-07-09 18:33:47] VLESS 172.67.130.204:443 - SUCCESS - 0.46s
+[2025-07-09 18:33:47] VLESS tgju.org:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:33:48] VLESS 91.107.144.102:443 - SUCCESS - 0.52s
+[2025-07-09 18:33:48] VLESS 104.21.24.172:443 - SUCCESS - 1.40s
+[2025-07-09 18:33:50] VLESS 47.76.81.217:38971 - SUCCESS - 1.50s
+[2025-07-09 18:33:51] VLESS 104.18.26.90:2096 - SUCCESS - 2.91s
+[2025-07-09 18:33:52] VLESS 104.18.26.90:2096 - SUCCESS - 0.91s
+[2025-07-09 18:33:53] VLESS 104.18.26.90:2096 - SUCCESS - 0.68s
+[2025-07-09 18:33:55] VLESS 188.114.98.18:80 - SUCCESS - 4.75s
+[2025-07-09 18:33:55] VLESS 104.18.26.90:2096 - SUCCESS - 0.90s
+[2025-07-09 18:33:56] VLESS 47.76.81.217:38971 - SUCCESS - 3.74s
+[2025-07-09 18:33:56] VLESS 104.18.26.90:2096 - SUCCESS - 2.73s
+[2025-07-09 18:33:56] VLESS pishgam.sdcards.ir:80 - SUCCESS - 1.95s
+[2025-07-09 18:33:56] VLESS pishgam.sdcards.ir:2053 - SUCCESS - 0.91s
+[2025-07-09 18:33:56] VLESS tgju.org:80 - SUCCESS - 0.49s
+[2025-07-09 18:34:00] VLESS 91.107.167.104:55713 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:34:01] VLESS 104.18.26.90:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:34:01] VLESS 94.131.108.195:53221 - SUCCESS - 1.13s
+[2025-07-09 18:34:02] VLESS 45.140.167.59:8880 - SUCCESS - 1.68s
+[2025-07-09 18:34:02] VLESS 104.16.53.11:80 - SUCCESS - 0.94s
+[2025-07-09 18:34:03] VLESS 94.131.108.195:53221 - SUCCESS - 0.87s
+[2025-07-09 18:34:05] VLESS 43.156.217.68:41283 - SUCCESS - 2.21s
+[2025-07-09 18:34:06] VLESS 104.16.53.11:8080 - SUCCESS - 6.75s
+[2025-07-09 18:34:06] VLESS 172.67.150.132:443 - SUCCESS - 3.09s
+[2025-07-09 18:34:07] VLESS 43.156.217.68:41283 - SUCCESS - 2.57s
+[2025-07-09 18:34:09] VLESS 104.26.14.85:8080 - SUCCESS - 2.30s
+[2025-07-09 18:34:10] VLESS 43.156.217.68:41283 - SUCCESS - 1.70s
+[2025-07-09 18:34:10] VLESS 5.253.41.237:8443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:34:11] VLESS 43.156.217.68:41283 - SUCCESS - 1.59s
+[2025-07-09 18:34:12] VLESS 172.67.150.132:443 - SUCCESS - 0.98s
+[2025-07-09 18:34:12] VLESS tgju.org:8080 - SUCCESS - 1.17s
+[2025-07-09 18:34:13] VLESS 172.67.162.50:443 - SUCCESS - 1.98s
+[2025-07-09 18:34:16] VLESS 104.18.26.90:443 - SUCCESS - 4.47s
+[2025-07-09 18:34:16] VLESS 15.204.200.208:443 - SUCCESS - 0.09s
+[2025-07-09 18:34:17] VLESS 185.231.205.188:8880 - SUCCESS - 1.37s
+[2025-07-09 18:34:17] VLESS 104.18.26.90:2096 - SUCCESS - 7.61s
+[2025-07-09 18:34:18] VLESS 47.76.81.217:38971 - SUCCESS - 3.66s
+[2025-07-09 18:34:19] VLESS 141.193.213.21:80 - SUCCESS - 2.53s
+[2025-07-09 18:34:20] VLESS 47.76.81.217:38971 - SUCCESS - 2.82s
+[2025-07-09 18:34:20] VLESS 104.16.198.192:8080 - SUCCESS - 0.49s
+[2025-07-09 18:34:21] VLESS 91.107.167.104:55713 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:34:21] VLESS 185.231.205.188:8880 - SUCCESS - 0.60s
+[2025-07-09 18:34:22] VLESS 185.255.178.188:443 - SUCCESS - 11.74s
+[2025-07-09 18:34:26] VLESS 104.18.26.90:2096 - SUCCESS - 3.68s
+[2025-07-09 18:34:27] VLESS 104.18.26.90:2096 - SUCCESS - 0.78s
+[2025-07-09 18:34:27] VLESS 104.21.3.189:443 - SUCCESS - 0.21s
+[2025-07-09 18:34:28] VLESS 188.114.98.18:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:34:28] VLESS 104.18.26.90:2096 - SUCCESS - 1.31s
+[2025-07-09 18:34:28] VLESS 198.41.209.70:443 - SUCCESS - 3.06s
+[2025-07-09 18:34:31] VLESS 104.18.26.90:2096 - SUCCESS - 3.91s
+[2025-07-09 18:34:33] VLESS 104.18.26.90:2096 - SUCCESS - 1.64s
+[2025-07-09 18:34:34] VLESS 151.101.67.8:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:34:34] VLESS 43.156.217.68:41283 - SUCCESS - 2.23s
+[2025-07-09 18:34:35] VLESS 45.82.251.127:8880 - SUCCESS - 4.20s
+[2025-07-09 18:34:36] VLESS 95.164.45.70:8880 - SUCCESS - 0.90s
+[2025-07-09 18:34:37] VLESS 43.156.217.68:41283 - SUCCESS - 0.94s
+[2025-07-09 18:34:37] VLESS tgju.org:80 - SUCCESS - 1.50s
+[2025-07-09 18:34:37] VLESS 104.18.26.90:2096 - SUCCESS - 3.12s
+[2025-07-09 18:34:37] VLESS 104.18.26.90:2096 - SUCCESS - 1.31s
+[2025-07-09 18:34:39] VLESS 43.156.217.68:41283 - SUCCESS - 1.51s
+[2025-07-09 18:34:42] VLESS 43.156.217.68:41283 - SUCCESS - 0.96s
+[2025-07-09 18:34:43] VLESS 104.18.26.90:2096 - SUCCESS - 1.03s
+[2025-07-09 18:34:44] VLESS 104.26.13.31:8080 - SUCCESS - 1.59s
+[2025-07-09 18:34:44] VLESS 104.18.26.90:2096 - SUCCESS - 0.93s
+[2025-07-09 18:34:44] VLESS de6.razercompany.com:33200 - SUCCESS - 12.00s
+[2025-07-09 18:34:45] VLESS 43.156.217.68:41283 - SUCCESS - 1.98s
+[2025-07-09 18:34:48] VLESS 104.18.26.90:2096 - SUCCESS - 4.95s
+[2025-07-09 18:34:49] VLESS 104.26.14.85:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:34:49] VLESS 172.67.155.140:443 - SUCCESS - 0.58s
+[2025-07-09 18:34:51] VLESS tgju.org:80 - SUCCESS - 1.42s
+[2025-07-09 18:34:51] VLESS 172.67.73.163:8080 - SUCCESS - 2.19s
+[2025-07-09 18:34:53] VLESS 172.67.204.120:443 - SUCCESS - 1.19s
+[2025-07-09 18:34:53] VLESS 104.18.26.90:2096 - SUCCESS - 0.86s
+[2025-07-09 18:34:54] VLESS 14.102.228.75:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:34:54] VLESS 104.26.0.117:2053 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:34:54] VLESS 91.107.144.102:443 - SUCCESS - 0.59s
+[2025-07-09 18:34:55] VLESS 157.230.248.167:48705 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:34:56] VLESS 172.67.214.21:80 - SUCCESS - 5.37s
+[2025-07-09 18:34:58] VLESS 45.63.60.98:12188 - SUCCESS - 0.75s
+[2025-07-09 18:34:59] VLESS 104.16.198.192:8080 - SUCCESS - 0.50s
+[2025-07-09 18:34:59] VLESS 135.148.152.110:443 - SUCCESS - 0.06s
+[2025-07-09 18:35:02] VLESS 172.67.153.156:8443 - SUCCESS - 2.08s
+[2025-07-09 18:35:04] VLESS ovhwuxian.pai50288.uk:8443 - SUCCESS - 5.05s
+[2025-07-09 18:35:05] VLESS 104.18.26.90:2096 - SUCCESS - 2.77s
+[2025-07-09 18:35:06] VLESS 104.18.26.90:2096 - SUCCESS - 13.87s
+[2025-07-09 18:35:06] VLESS 104.21.21.190:443 - SUCCESS - 0.51s
+[2025-07-09 18:35:06] VLESS www.speedtest.net:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:35:07] VLESS 154.17.225.73:443 - SUCCESS - 1.27s
+[2025-07-09 18:35:08] VLESS 188.114.98.18:80 - SUCCESS - 15.06s
+[2025-07-09 18:35:09] VLESS 104.18.26.90:2096 - SUCCESS - 5.04s
+[2025-07-09 18:35:09] VLESS 104.21.3.219:8443 - SUCCESS - 1.56s
+[2025-07-09 18:35:10] VLESS 104.16.53.11:8080 - SUCCESS - 0.69s
+[2025-07-09 18:35:12] VLESS 43.156.217.68:41283 - SUCCESS - 2.16s
+[2025-07-09 18:35:12] VLESS 104.16.53.11:80 - SUCCESS - 2.74s
+[2025-07-09 18:35:14] VLESS 43.156.217.68:41283 - SUCCESS - 0.94s
+[2025-07-09 18:35:15] VLESS de6.razercompany.com:33200 - SUCCESS - 7.61s
+[2025-07-09 18:35:16] VLESS 43.156.217.68:41283 - SUCCESS - 2.04s
+[2025-07-09 18:35:20] VLESS 104.18.26.90:2096 - SUCCESS - 2.65s
+[2025-07-09 18:35:22] VLESS 47.76.81.217:38971 - SUCCESS - 1.14s
+[2025-07-09 18:35:22] VLESS 94.131.108.195:53221 - SUCCESS - 0.60s
+[2025-07-09 18:35:22] VLESS 172.67.153.156:8443 - SUCCESS - 8.03s
+[2025-07-09 18:35:22] VLESS 188.114.98.18:80 - SUCCESS - 12.69s
+[2025-07-09 18:35:23] VLESS 43.156.217.68:41283 - SUCCESS - 3.99s
+[2025-07-09 18:35:25] VLESS 172.67.73.163:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:35:26] VLESS 45.144.167.46:19816 - SUCCESS - 1.88s
+[2025-07-09 18:35:26] VLESS 104.26.14.85:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:35:27] VLESS 188.114.98.18:80 - SUCCESS - 27.77s
+[2025-07-09 18:35:27] VLESS 104.16.198.192:8080 - SUCCESS - 5.77s
+[2025-07-09 18:35:27] VLESS 104.21.3.219:8443 - SUCCESS - 4.80s
+[2025-07-09 18:35:28] VLESS 43.156.217.68:41283 - SUCCESS - 0.96s
+[2025-07-09 18:35:29] VLESS 104.18.26.90:2096 - SUCCESS - 1.42s
+[2025-07-09 18:35:29] VLESS 172.67.153.156:8443 - SUCCESS - 8.79s
+[2025-07-09 18:35:30] VLESS 47.76.81.217:38971 - SUCCESS - 4.91s
+[2025-07-09 18:35:34] VLESS 104.18.26.90:2096 - SUCCESS - 3.15s
+[2025-07-09 18:35:36] VLESS 172.67.73.163:8080 - SUCCESS - 1.07s
+[2025-07-09 18:35:39] VLESS tunnelman.godali.org:9443 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:35:39] VLESS 43.156.217.68:41283 - SUCCESS - 1.25s
+[2025-07-09 18:35:39] VLESS 188.114.98.18:80 - SUCCESS - 10.14s
+[2025-07-09 18:35:40] VLESS chat.deepseek.com:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:35:40] VLESS chat.deepseek.com:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:35:41] VLESS 91.99.152.0:443 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:35:41] VLESS 104.21.3.219:8443 - SUCCESS - 1.49s
+[2025-07-09 18:35:42] VLESS 47.76.81.217:38971 - SUCCESS - 0.87s
+[2025-07-09 18:35:43] VLESS tgju.org:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:35:44] VLESS 45.82.251.63:8880 - SUCCESS - 0.09s
+[2025-07-09 18:35:44] VLESS 45.82.251.146:8880 - SUCCESS - 1.22s
+[2025-07-09 18:35:45] VLESS 92.53.188.36:443 - SUCCESS - 0.22s
+[2025-07-09 18:35:45] VLESS 45.82.251.92:8880 - SUCCESS - 1.08s
+[2025-07-09 18:35:47] VLESS 47.76.81.217:38971 - SUCCESS - 4.63s
+[2025-07-09 18:35:47] VLESS 116.203.29.106:50424 - SUCCESS - 4.64s
+[2025-07-09 18:35:52] VLESS antifilter_iranians.sozokiplus.ir:2071 - SUCCESS - 11.74s
+[2025-07-09 18:35:53] VLESS 45.81.58.168:443 - SUCCESS - 1.59s
+[2025-07-09 18:35:54] VLESS 172.67.68.36:443 - SUCCESS - 0.08s
+[2025-07-09 18:35:54] VLESS 103.133.1.227:443 - SUCCESS - 0.08s
+[2025-07-09 18:35:54] VLESS 45.8.211.71:443 - SUCCESS - 5.42s
+[2025-07-09 18:35:55] VLESS 188.114.98.18:80 - SUCCESS - 18.26s
+[2025-07-09 18:35:55] VLESS 45.82.251.161:8880 - SUCCESS - 0.14s
+[2025-07-09 18:35:56] VLESS 45.82.251.167:8880 - SUCCESS - 0.38s
+[2025-07-09 18:35:57] VLESS 45.82.251.152:8880 - SUCCESS - 1.53s
+[2025-07-09 18:35:58] VLESS 45.82.251.122:8880 - SUCCESS - 4.29s
+[2025-07-09 18:36:00] VLESS 172.67.73.163:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:36:00] VLESS 142.132.227.65:33036 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:36:01] VLESS 104.18.26.90:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:36:02] VLESS 172.67.73.163:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:36:03] VLESS meli1.dashvili.ir:80 - SUCCESS - 4.22s
+[2025-07-09 18:36:04] VLESS 104.18.26.90:2096 - SUCCESS - 6.14s
+[2025-07-09 18:36:04] VLESS www.speedtest.net:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:36:07] VLESS 185.251.82.170:2096 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:36:08] VLESS 104.18.26.90:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:36:08] VLESS 104.18.26.90:443 - SUCCESS - 6.21s
+[2025-07-09 18:36:08] VLESS 188.114.98.18:80 - SUCCESS - 12.06s
+[2025-07-09 18:36:08] VLESS 104.18.26.90:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:36:10] VLESS 104.26.13.31:8080 - SUCCESS - 1.28s
+[2025-07-09 18:36:11] VLESS 43.156.217.68:41283 - SUCCESS - 2.44s
+[2025-07-09 18:36:12] VLESS chat.deepseek.com:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:36:13] VLESS www.speedtest.net:8080 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:36:13] VLESS tgju.org:80 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:36:16] VLESS 43.156.217.68:41283 - SUCCESS - 1.32s
+[2025-07-09 18:36:17] VLESS 142.132.227.65:33036 - FAILURE - Request failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2025-07-09 18:36:19] VLESS all.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443 - SUCCESS - 1.18s
+[2025-07-09 18:36:41] VLESS 116.203.29.106:50424 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:36:42] VLESS 116.203.29.106:50424 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:36:43] VLESS 116.203.29.106:50424 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:36:45] VLESS 116.203.29.106:50424 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
+[2025-07-09 18:36:47] VLESS 116.203.29.106:50424 - FAILURE - Request failed: SOCKSHTTPConnectionPool(host='httpbin.org', port=80): Read timed out. (read timeout=30)
