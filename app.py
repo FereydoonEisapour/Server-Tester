@@ -38,9 +38,9 @@ PROCESS_START_WAIT = 15
 # Protocol enable/disable configuration
 ENABLED_PROTOCOLS = {
     'vless': True,
-    'vmess': False,
-    'trojan': False,
-    'ss': False
+    'vmess': True,
+    'trojan': True,
+    'ss': True
 }
 
 def clean_directory(dir_path):
